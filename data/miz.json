@@ -1,0 +1,3302 @@
+[ {
+      "number": "ACCTCY 2010",
+      "title": "Introduction to Accounting"
+   },
+   {
+      "number": "ACCTCY 2026",
+      "title": "Accounting I"
+   },
+   {
+      "number": "ACCTCY 2027",
+      "title": "Accounting II"
+   },
+   {
+      "number": "ACCTCY 2036",
+      "title": "Accounting I"
+   },
+   {
+      "number": "ACCTCY 2037",
+      "title": "Accounting II"
+   },
+   {
+      "number": "ACCTCY 2136H",
+      "title": "Honors Accounting I"
+   },
+   {
+      "number": "ACCTCY 2137H",
+      "title": "Honors Accounting II"
+   },
+   {
+      "number": "ACCTCY 2258",
+      "title": "Computer-Based Data Systems"
+   },
+   {
+      "number": "ACCTCY 3326",
+      "title": "Financial Accounting Theory and Practice I"
+   },
+   {
+      "number": "ACCTCY 3328",
+      "title": "Accounting Information Systems"
+   },
+   {
+      "number": "ACCTCY 3346",
+      "title": "Financial Accounting Theory and Practice II"
+   },
+   {
+      "number": "ACCTCY 3347",
+      "title": "Cost and Managerial Accounting"
+   },
+   {
+      "number": "ACCTCY 4000",
+      "title": "Accountancy Professional Speakers and Symposia"
+   },
+   {
+      "number": "ACCTCY 4301",
+      "title": "Topics in Accounting"
+   },
+   {
+      "number": "ACCTCY 4353",
+      "title": "Introduction to Taxation"
+   },
+   {
+      "number": "ACCTCY 4356",
+      "title": "Financial Accounting Concepts"
+   },
+   {
+      "number": "ACCTCY 4365",
+      "title": "Governmental Accounting and Budgeting"
+   },
+   {
+      "number": "ACCTCY 4384",
+      "title": "Auditing Theory and Practice I"
+   },
+   {
+      "number": "ACCTCY 4940",
+      "title": "Professional Accounting Internship"
+   },
+   {
+      "number": "ACCTCY 7000",
+      "title": "Accountancy Professional Speakers and Symposia"
+   },
+   {
+      "number": "ACCTCY 7310",
+      "title": "Accounting for Managers"
+   },
+   {
+      "number": "ACCTCY 7353",
+      "title": "Introduction to Taxation"
+   },
+   {
+      "number": "ACCTCY 7356",
+      "title": "Financial Accounting Concepts"
+   },
+   {
+      "number": "ACCTCY 7365",
+      "title": "Governmental Accounting and Budgeting"
+   },
+   {
+      "number": "ACCTCY 7384",
+      "title": "Auditing Theory and Practice I"
+   },
+   {
+      "number": "ACCTCY 7940",
+      "title": "Professional Accounting Internship"
+   },
+   {
+      "number": "ACCTCY 8363",
+      "title": "Multi-Jurisdictional Tax"
+   },
+   {
+      "number": "ACCTCY 8373",
+      "title": "Taxation of Corporations and Shareholders"
+   },
+   {
+      "number": "ACCTCY 8393",
+      "title": "Taxation of Trust, Gifts and Estates"
+   },
+   {
+      "number": "ACCTCY 8401",
+      "title": "Topics in Accounting"
+   },
+   {
+      "number": "ACCTCY 8404",
+      "title": "Internal Auditing"
+   },
+   {
+      "number": "ACCTCY 8414",
+      "title": "Audit of Internal Controls"
+   },
+   {
+      "number": "ACCTCY 8419",
+      "title": "International Accounting"
+   },
+   {
+      "number": "ACCTCY 8423",
+      "title": "Tax Research and Planning"
+   },
+   {
+      "number": "ACCTCY 8424",
+      "title": "Fraud Examination"
+   },
+   {
+      "number": "ACCTCY 8428",
+      "title": "Data Visualization and Data Mining"
+   },
+   {
+      "number": "ACCTCY 8433",
+      "title": "Mergers and Acquisitions Taxation"
+   },
+   {
+      "number": "ACCTCY 8436",
+      "title": "Advanced Accounting"
+   },
+   {
+      "number": "ACCTCY 8438",
+      "title": "Forensic Accounting"
+   },
+   {
+      "number": "ACCTCY 8444",
+      "title": "Advanced Audit"
+   },
+   {
+      "number": "ACCTCY 8448",
+      "title": "Emerging Issues in Accounting Information Systems"
+   },
+   {
+      "number": "ACCTCY 8450",
+      "title": "Accounting and Strategic Business Analysis"
+   },
+   {
+      "number": "ACCTCY 8453",
+      "title": "Taxes and Business Strategies"
+   },
+   {
+      "number": "ACCTCY 8456",
+      "title": "Corporate Governance"
+   },
+   {
+      "number": "ACCTCY 8463",
+      "title": "Partnership Taxation"
+   },
+   {
+      "number": "ACCTCY 9090",
+      "title": "Research in Accounting"
+   },
+   {
+      "number": "ACCTCY 9401",
+      "title": "Doctoral Research Problems in Accounting"
+   },
+   {
+      "number": "ACCTCY 9444",
+      "title": "Seminar in Auditing Research"
+   },
+   {
+      "number": "ACCTCY 9457",
+      "title": "Quantitative Methods in Accounting"
+   },
+   {
+      "number": "ACCTCY 9460",
+      "title": "Research Methods in Accounting"
+   },
+   {
+      "number": "ACCTCY 9466",
+      "title": "Seminar in Financial Accounting Research"
+   },
+   {
+      "number": "ACCTCY 9467",
+      "title": "Seminar in Behavioral Accounting Research"
+   },
+      {
+         "number": "AERO 1100",
+         "title": "Heritage and Values of the United States Air Force"
+      },
+      {
+         "number": "AERO 1200",
+         "title": "Heritage and Values of the United States Air Force"
+      },
+      {
+         "number": "AERO 2100",
+         "title": "Team and Leadership Fundamentals"
+      },
+      {
+         "number": "AERO 2200",
+         "title": "Team and Leadership Fundamentals"
+      },
+      {
+         "number": "AERO 3100",
+         "title": "Leading People and Effective Communication"
+      },
+      {
+         "number": "AERO 3200",
+         "title": "Leading People and Effective Communication"
+      },
+      {
+         "number": "AERO 4100",
+         "title": "National Security Affairs/Preparation for Active Duty"
+      },
+      {
+         "number": "AERO 4200",
+         "title": "National Security Affairs/Preparation for Active Duty"
+      },
+         {
+            "number": "ABM 1010",
+            "title": "Introduction to Agribusiness Management"
+         },
+         {
+            "number": "ABM 1041",
+            "title": "Applied Microeconomics"
+         },
+         {
+            "number": "ABM 1042",
+            "title": "Applied Macroeconomics"
+         },
+         {
+            "number": "ABM 1200",
+            "title": "Applied Computer Applications"
+         },
+         {
+            "number": "ABM 1230",
+            "title": "Introduction to the Agricultural Policy Process"
+         },
+         {
+            "number": "ABM 1230H",
+            "title": "Introduction to the Agricultural Policy Process - Honors"
+         },
+         {
+            "number": "ABM 2050",
+            "title": "For the Love of Food: Global Food System Debate"
+         },
+         {
+            "number": "ABM 2070W",
+            "title": "Environmental Economics and Policy - Writing Intensive"
+         },
+         {
+            "number": "ABM 2183",
+            "title": "The Agricultural Marketing System"
+         },
+         {
+            "number": "ABM 2223",
+            "title": "Agricultural Sales"
+         },
+         {
+            "number": "ABM 2225",
+            "title": "Statistical Analysis"
+         },
+         {
+            "number": "ABM 2294",
+            "title": "Market Watch - Understanding and Using Commodity Markets"
+         },
+         {
+            "number": "ABM 2301",
+            "title": "Topics in Agribusiness Management"
+         },
+         {
+            "number": "ABM 3150",
+            "title": "International Agribusiness"
+         },
+         {
+            "number": "ABM 3224",
+            "title": "New Products Marketing"
+         },
+         {
+            "number": "ABM 3224W",
+            "title": "New Products Marketing - Writing Intensive"
+         },
+         {
+            "number": "ABM 3230",
+            "title": "Agricultural and Rural Economic Policy"
+         },
+         {
+            "number": "ABM 3241W",
+            "title": "Ethical Issues in Agriculture - Writing Intensive"
+         },
+         {
+            "number": "ABM 3256",
+            "title": "Agribusiness and Biotechnology Law"
+         },
+         {
+            "number": "ABM 3260",
+            "title": "General Farm Management"
+         },
+         {
+            "number": "ABM 3271",
+            "title": "International Agricultural Development"
+         },
+         {
+            "number": "ABM 3272",
+            "title": "International Food Trade and Policy"
+         },
+         {
+            "number": "ABM 3282",
+            "title": "Agribusiness Finance"
+         },
+         {
+            "number": "ABM 3283",
+            "title": "Fundamentals of Entrepreneurship"
+         },
+         {
+            "number": "ABM 3285",
+            "title": "Problems in Agribusiness Management"
+         },
+         {
+            "number": "ABM 3286",
+            "title": "Economics of Managerial Decision Making"
+         },
+         {
+            "number": "ABM 3294",
+            "title": "Agricultural Marketing and Procurement"
+         },
+         {
+            "number": "ABM 3295",
+            "title": "Real Money: Speculative Trading for Beginners"
+         },
+         {
+            "number": "ABM 3370",
+            "title": "Transportation in the Global Supply Chain"
+         },
+         {
+            "number": "ABM 4223",
+            "title": "Professional Solution Selling"
+         },
+         {
+            "number": "ABM 4230",
+            "title": "Understanding the Agricultural Policy Process"
+         },
+         {
+            "number": "ABM 4240",
+            "title": "Microeconomics Theory and Applications"
+         },
+         {
+            "number": "ABM 4251",
+            "title": "Agricultural Prices"
+         },
+         {
+            "number": "ABM 4295",
+            "title": "Agricultural Risk Management"
+         },
+         {
+            "number": "ABM 4301",
+            "title": "Topics in Agribusiness Management"
+         },
+         {
+            "number": "ABM 4301H",
+            "title": "Topics in Agribusiness Management - Honors"
+         },
+         {
+            "number": "ABM 4940",
+            "title": "Internship Opportunities"
+         },
+         {
+            "number": "ABM 4962",
+            "title": "Planning the Farm Business"
+         },
+         {
+            "number": "ABM 4971",
+            "title": "Agribusiness Management Strategy"
+         },
+         {
+            "number": "ABM 4971W",
+            "title": "Agribusiness Management Strategy - Writing Intensive"
+         },
+         {
+            "number": "ABM 4972",
+            "title": "Agri-Food Business and Cooperative Management"
+         },
+         {
+            "number": "ABM 4983W",
+            "title": "Strategic Entrepreneurship in Agri-Food - Writing Intensive"
+         },
+         {
+            "number": "ABM 4990W",
+            "title": "Economic Analysis of Policy and Regulation - Writing Intensive"
+         },
+            {
+               "number": "AAE 7223",
+               "title": "Professional Solution Selling"
+            },
+            {
+               "number": "AAE 7240",
+               "title": "Microeconomics Theory and Applications"
+            },
+            {
+               "number": "AAE 7251",
+               "title": "Agricultural Prices"
+            },
+            {
+               "number": "AAE 7295",
+               "title": "Agricultural Risk Management"
+            },
+            {
+               "number": "AAE 7301",
+               "title": "Topics in Agricultural and Applied Economics"
+            },
+            {
+               "number": "AAE 7400",
+               "title": "Environmental Law, Policy, and Justice"
+            },
+            {
+               "number": "AAE 7940",
+               "title": "Internship Experiences in Agricultural and Applied Economics"
+            },
+            {
+               "number": "AAE 7962",
+               "title": "Planning the Farm Business"
+            },
+            {
+               "number": "AAE 7971",
+               "title": "Agribusiness Management Strategy"
+            },
+            {
+               "number": "AAE 7972",
+               "title": "Agri-Food Business and Cooperative Management"
+            },
+            {
+               "number": "AAE 7983",
+               "title": "Strategic Entrepreneurship in Agri-Food"
+            },
+            {
+               "number": "AAE 7990",
+               "title": "Economic Analysis of Policy and Regulation"
+            },
+            {
+               "number": "AAE 7995",
+               "title": "Economics of Agricultural Production and Distribution"
+            },
+            {
+               "number": "AAE 8001",
+               "title": "Advanced Topics in Agricultural and Applied Economics"
+            },
+            {
+               "number": "AAE 8050",
+               "title": "Economics of Institutions and Organizations"
+            },
+            {
+               "number": "AAE 8060",
+               "title": "Quantitative Tools for Decision Making and Performance Evaluation"
+            },
+            {
+               "number": "AAE 8085",
+               "title": "Masters Problems in Agricultural and Applied Economics"
+            },
+            {
+               "number": "AAE 8090",
+               "title": "Masters Thesis Research in Agricultural and Applied Economics"
+            },
+            {
+               "number": "AAE 8265",
+               "title": "Agricultural and Food Policy"
+            },
+            {
+               "number": "AAE 8350",
+               "title": "Regional Development Issues and Analysis"
+            },
+            {
+               "number": "AAE 8410",
+               "title": "Natural Resource and Environmental Economics"
+            },
+            {
+               "number": "AAE 8430",
+               "title": "International Agricultural Development Policy"
+            },
+            {
+               "number": "AAE 8450",
+               "title": "Masters Non Thesis Research"
+            },
+            {
+               "number": "AAE 8510",
+               "title": "Research Methods and Design"
+            },
+            {
+               "number": "AAE 8520",
+               "title": "Economics of Transaction and Contracting"
+            },
+            {
+               "number": "AAE 8610",
+               "title": "Economic and Sociological Approaches to Collective Action"
+            },
+            {
+               "number": "AAE 8860",
+               "title": "International Comparative Rural Policy"
+            },
+            {
+               "number": "AAE 9001",
+               "title": "Advanced Topics in Economics II"
+            },
+            {
+               "number": "AAE 9040",
+               "title": "Advanced Microeconomics Theory and Applications I"
+            },
+            {
+               "number": "AAE 9042",
+               "title": "Advanced Microeconomics Theory and Applications II"
+            },
+            {
+               "number": "AAE 9085",
+               "title": "Doctoral Problems in Agricultural and Applied Economics"
+            },
+            {
+               "number": "AAE 9090",
+               "title": "Doctoral Dissertation Research in Agricultural and Applied Economics"
+            },
+            {
+               "number": "AAE 9220",
+               "title": "Price and Market Analysis"
+            },
+            {
+               "number": "AAE 9230",
+               "title": "Welfare and Consumption Economics"
+            },
+            {
+               "number": "AAE 9265",
+               "title": "Food, Agricultural and Rural Policy"
+            },
+            {
+               "number": "AAE 9510",
+               "title": "Organizational Economics I"
+            },
+            {
+               "number": "AAE 9520",
+               "title": "Organizational Economics II"
+            },
+               {
+                  "number": "AG_ED_LD 1000",
+                  "title": "Orientation to Agricultural Education and Leadership"
+               },
+               {
+                  "number": "AG_ED_LD 2250",
+                  "title": "Introduction to Leadership"
+               },
+               {
+                  "number": "AG_ED_LD 2260",
+                  "title": "Team and Organizational Leadership"
+               },
+               {
+                  "number": "AG_ED_LD 2260W",
+                  "title": "Team and Organizational Leadership - Writing Intensive"
+               },
+               {
+                  "number": "AG_ED_LD 2270",
+                  "title": "Leadership Development in Youth Organizations"
+               },
+               {
+                  "number": "AG_ED_LD 2271",
+                  "title": "Early Field Experience"
+               },
+               {
+                  "number": "AG_ED_LD 3010",
+                  "title": "Leadership in Today's World"
+               },
+               {
+                  "number": "AG_ED_LD 3010H",
+                  "title": "Leadership in Today's World - Honors"
+               },
+               {
+                  "number": "AG_ED_LD 3085",
+                  "title": "Problems in Agricultural Education and Leadership"
+               },
+               {
+                  "number": "AG_ED_LD 3320",
+                  "title": "Metal Fabrication and Laboratory Management"
+               },
+               {
+                  "number": "AG_ED_LD 3776",
+                  "title": "Litton Leadership Scholars"
+               },
+               {
+                  "number": "AG_ED_LD 4001",
+                  "title": "Topics in Agricultural Education and Leadership"
+               },
+               {
+                  "number": "AG_ED_LD 4087",
+                  "title": "Internship Seminar in Agricultural Education and Leadership"
+               },
+               {
+                  "number": "AG_ED_LD 4240",
+                  "title": "Leading Organizational and Community Change"
+               },
+               {
+                  "number": "AG_ED_LD 4310",
+                  "title": "Intracurricular Program Management in Agricultural Education"
+               },
+               {
+                  "number": "AG_ED_LD 4320",
+                  "title": "Methods of Teaching I"
+               },
+               {
+                  "number": "AG_ED_LD 4321",
+                  "title": "Field Experience I"
+               },
+               {
+                  "number": "AG_ED_LD 4330",
+                  "title": "Methods of Teaching II"
+               },
+               {
+                  "number": "AG_ED_LD 4331",
+                  "title": "Field Experience II"
+               },
+               {
+                  "number": "AG_ED_LD 4340",
+                  "title": "Designing and Delivering Educational/Leadership Programs"
+               },
+               {
+                  "number": "AG_ED_LD 4340H",
+                  "title": "Designing and Delivering Educational/Leadership Programs - Honors"
+               },
+               {
+                  "number": "AG_ED_LD 4993",
+                  "title": "Internship in Agricultural Education and Leadership"
+               },
+               {
+                  "number": "AG_ED_LD 4995",
+                  "title": "Student Teaching Internship in Agriculture"
+               },
+               {
+                  "number": "AG_ED_LD 7087",
+                  "title": "Internship Seminar in Agricultural Education and Leadership"
+               },
+               {
+                  "number": "AG_ED_LD 7240",
+                  "title": "Leading Organizational and Community Change"
+               },
+               {
+                  "number": "AG_ED_LD 7310",
+                  "title": "Intracurricular Program Management in Agricultural Education"
+               },
+               {
+                  "number": "AG_ED_LD 7320",
+                  "title": "Methods of Teaching I"
+               },
+               {
+                  "number": "AG_ED_LD 7330",
+                  "title": "Methods of Teaching II"
+               },
+               {
+                  "number": "AG_ED_LD 7340",
+                  "title": "Designing and Delivering Educational/Leadership Programs"
+               },
+               {
+                  "number": "AG_ED_LD 7350",
+                  "title": "Inservice Course in Agricultural Education and Leadership"
+               },
+               {
+                  "number": "AG_ED_LD 8080",
+                  "title": "Creative Component in Agricultural Education and Leadership"
+               },
+               {
+                  "number": "AG_ED_LD 8085",
+                  "title": "Problems in Agricultural Education and Leadership"
+               },
+               {
+                  "number": "AG_ED_LD 8087",
+                  "title": "Seminar in Agricultural Education and Leadership"
+               },
+               {
+                  "number": "AG_ED_LD 8090",
+                  "title": "Thesis Research in Agricultural Education and Leadership"
+               },
+               {
+                  "number": "AG_ED_LD 8210",
+                  "title": "History and Leadership of the Land Grant University"
+               },
+               {
+                  "number": "AG_ED_LD 8250",
+                  "title": "Leadership Theory and Application"
+               },
+               {
+                  "number": "AG_ED_LD 8330",
+                  "title": "Advanced Methods of Teaching"
+               },
+               {
+                  "number": "AG_ED_LD 8340",
+                  "title": "Student and Teacher Development in Agricultural Education and Leadership"
+               },
+               {
+                  "number": "AG_ED_LD 8350",
+                  "title": "College Teaching of Agriculture, Food and Natural Resources"
+               },
+               {
+                  "number": "AG_ED_LD 8351",
+                  "title": "Induction Year Teaching I"
+               },
+               {
+                  "number": "AG_ED_LD 8352",
+                  "title": "Induction Year Teaching II"
+               },
+               {
+                  "number": "AG_ED_LD 8410",
+                  "title": "Philosophical Foundations of Agricultural Education and Leadership"
+               },
+               {
+                  "number": "AG_ED_LD 8430",
+                  "title": "Evaluation of Educational Programs"
+               },
+               {
+                  "number": "AG_ED_LD 8510",
+                  "title": "Research Methods and Design"
+               },
+               {
+                  "number": "AG_ED_LD 8530",
+                  "title": "Grant Proposal Writing"
+               },
+               {
+                  "number": "AG_ED_LD 8540",
+                  "title": "Methods of Qualitative Research"
+               },
+               {
+                  "number": "AG_ED_LD 8995",
+                  "title": "College Teaching Practicum"
+               },
+               {
+                  "number": "AG_ED_LD 9090",
+                  "title": "Doctoral Research in Agricultural Education and Leadership"
+               },
+               {
+                  "number": "AG_ED_LD 9410",
+                  "title": "Foundations and Practices of Teacher Education"
+               },
+               {
+                  "number": "AG_ED_LD 9510",
+                  "title": "Data Collection, Analysis and Interpretation"
+               },
+                  {
+                     "number": "AGSC_COM 1160",
+                     "title": "Foundations of Agricultural Science Communications"
+                  },
+                  {
+                     "number": "AGSC_COM 2150",
+                     "title": "Problems in Science and Agricultural Journalism"
+                  },
+                  {
+                     "number": "AGSC_COM 2210",
+                     "title": "Communicating Science to the Public"
+                  },
+                  {
+                     "number": "AGSC_COM 2220",
+                     "title": "Verbal Communication in Agriculture, Food and Natural Resources"
+                  },
+                  {
+                     "number": "AGSC_COM 2220H",
+                     "title": "Verbal Communication in Agriculture, Food and Natural Resources - Honors"
+                  },
+                  {
+                     "number": "AGSC_COM 2225",
+                     "title": "Science, Technology and Society"
+                  },
+                  {
+                     "number": "AGSC_COM 2225W",
+                     "title": "Science, Technology and Society - Writing Intensive"
+                  },
+                  {
+                     "number": "AGSC_COM 2940",
+                     "title": "Internships in Science and Agricultural Journalism"
+                  },
+                  {
+                     "number": "AGSC_COM 3201",
+                     "title": "Topics in Science and Agricultural Journalism"
+                  },
+                  {
+                     "number": "AGSC_COM 3210",
+                     "title": "Fundamentals of Communications"
+                  },
+                  {
+                     "number": "AGSC_COM 3210W",
+                     "title": "Fundamentals of Communications - Writing Intensive"
+                  },
+                  {
+                     "number": "AGSC_COM 3240",
+                     "title": "Communicating on the Web"
+                  },
+                  {
+                     "number": "AGSC_COM 3385",
+                     "title": "Problems in Science and Agricultural Journalism"
+                  },
+                  {
+                     "number": "AGSC_COM 4301",
+                     "title": "Topics in Science and Agricultural Journalism"
+                  },
+                  {
+                     "number": "AGSC_COM 4301HW",
+                     "title": "Topics in Science and Agricultural Journalism - Honors/Writing Intensive"
+                  },
+                  {
+                     "number": "AGSC_COM 4301W",
+                     "title": "Topics in Science and Agricultural Journalism - Writing Intensive"
+                  },
+                  {
+                     "number": "AGSC_COM 4410",
+                     "title": "Readings in Science and Agricultural Journalism"
+                  },
+                  {
+                     "number": "AGSC_COM 4414",
+                     "title": "Field Reporting on the Food System and Environment"
+                  },
+                  {
+                     "number": "AGSC_COM 4415",
+                     "title": "Current Issues in Science Journalism"
+                  },
+                  {
+                     "number": "AGSC_COM 4480",
+                     "title": "Will Write for Food (and Wine)"
+                  },
+                  {
+                     "number": "AGSC_COM 4480W",
+                     "title": "Will Write for Food (and Wine) - Writing Intensive"
+                  },
+                  {
+                     "number": "AGSC_COM 4482",
+                     "title": "Field Reporting: Wine Country Writing"
+                  },
+                  {
+                     "number": "AGSC_COM 4482W",
+                     "title": "Field Reporting: Wine Country Writing - Writing Intensive"
+                  },
+                  {
+                     "number": "AGSC_COM 4940",
+                     "title": "Internships in Science and Agricultural Journalism"
+                  },
+                  {
+                     "number": "AGSC_COM 4970",
+                     "title": "Agriculture and the Media Senior Seminar Capstone"
+                  },
+                  {
+                     "number": "AGSC_COM 7301",
+                     "title": "Topics in Science and Agricultural Journalism"
+                  },
+                  {
+                     "number": "AGSC_COM 7414",
+                     "title": "Field Reporting on the Food System and Environment"
+                  },
+                     {
+                        "number": "AG_S_M 1020",
+                        "title": "Introduction to Agricultural Systems Management"
+                     },
+                     {
+                        "number": "AG_S_M 1040",
+                        "title": "Physical Principles for Agricultural Applications"
+                     },
+                     {
+                        "number": "AG_S_M 2007",
+                        "title": "Topics in Agricultural Systems Management-Physical"
+                     },
+                     {
+                        "number": "AG_S_M 2199",
+                        "title": "Seminar in Professional Development"
+                     },
+                     {
+                        "number": "AG_S_M 2220",
+                        "title": "Agricultural/Industrial Structures"
+                     },
+                     {
+                        "number": "AG_S_M 2320",
+                        "title": "Internal Combustion Power"
+                     },
+                     {
+                        "number": "AG_S_M 2340",
+                        "title": "Pesticide Application Equipment"
+                     },
+                     {
+                        "number": "AG_S_M 2345",
+                        "title": "Chemical Application Systems"
+                     },
+                     {
+                        "number": "AG_S_M 2360",
+                        "title": "Fluid Power"
+                     },
+                     {
+                        "number": "AG_S_M 3007",
+                        "title": "Topics in Agricultural Systems Management-Physical"
+                     },
+                     {
+                        "number": "AG_S_M 3350",
+                        "title": "Problems in Agricultural Systems Management"
+                     },
+                     {
+                        "number": "AG_S_M 4020",
+                        "title": "Agricultural Safety and Health"
+                     },
+                     {
+                        "number": "AG_S_M 4025",
+                        "title": "Principles of Injury Prevention"
+                     },
+                     {
+                        "number": "AG_S_M 4030",
+                        "title": "Legal Aspects of Occupational Safety and Health"
+                     },
+                     {
+                        "number": "AG_S_M 4035",
+                        "title": "Occupational Safety Management"
+                     },
+                     {
+                        "number": "AG_S_M 4040",
+                        "title": "Fire Protection and Prevention"
+                     },
+                     {
+                        "number": "AG_S_M 4045",
+                        "title": "Occupational Safety"
+                     },
+                     {
+                        "number": "AG_S_M 4140",
+                        "title": "Electricity: Wiring and Equipment"
+                     },
+                     {
+                        "number": "AG_S_M 4150",
+                        "title": "Biorenewable Systems Technology"
+                     },
+                     {
+                        "number": "AG_S_M 4160",
+                        "title": "Internet of Things for Precision Agriculture Technology"
+                     },
+                     {
+                        "number": "AG_S_M 4220",
+                        "title": "Material Handling and Conditioning"
+                     },
+                     {
+                        "number": "AG_S_M 4225",
+                        "title": "Preservation of Grain Quality"
+                     },
+                     {
+                        "number": "AG_S_M 4320",
+                        "title": "Agricultural Equipment and Machinery"
+                     },
+                     {
+                        "number": "AG_S_M 4330",
+                        "title": "Principles for Food Processing"
+                     },
+                     {
+                        "number": "AG_S_M 4350",
+                        "title": "Problems in Agricultural Systems Management"
+                     },
+                     {
+                        "number": "AG_S_M 4360",
+                        "title": "Precision Agriculture Science and Technology"
+                     },
+                     {
+                        "number": "AG_S_M 4365",
+                        "title": "Machinery Management Using Precision Agriculture Technology"
+                     },
+                     {
+                        "number": "AG_S_M 4366",
+                        "title": "Data Management and Analysis Using Precision Agriculture Technology"
+                     },
+                     {
+                        "number": "AG_S_M 4368",
+                        "title": "Profit Strategies Using Precision Agriculture Technology"
+                     },
+                     {
+                        "number": "AG_S_M 4390",
+                        "title": "Optimization and Management of Food and Agricultural Systems"
+                     },
+                     {
+                        "number": "AG_S_M 4420",
+                        "title": "Surface Water Management"
+                     },
+                     {
+                        "number": "AG_S_M 4460",
+                        "title": "Irrigation and Drainage"
+                     },
+                     {
+                        "number": "AG_S_M 4940",
+                        "title": "Agricultural Systems Management Internship"
+                     },
+                     {
+                        "number": "AG_S_M 4970",
+                        "title": "Agricultural Systems Management - Capstone"
+                     },
+                     {
+                        "number": "AG_S_M 4970W",
+                        "title": "Agricultural Systems Management - Capstone - Writing Intensive"
+                     },
+                     {
+                        "number": "AG_S_M 7001",
+                        "title": "Topics in Agricultural Systems Management"
+                     },
+                     {
+                        "number": "AG_S_M 7020",
+                        "title": "Agricultural Safety and Health"
+                     },
+                     {
+                        "number": "AG_S_M 7085",
+                        "title": "Problems in Agricultural Systems Management"
+                     },
+                     {
+                        "number": "AG_S_M 7140",
+                        "title": "Electricity: Wiring and Equipment"
+                     },
+                     {
+                        "number": "AG_S_M 7220",
+                        "title": "Material Handling and Conditioning"
+                     },
+                     {
+                        "number": "AG_S_M 7320",
+                        "title": "Agricultural Equipment and Machinery"
+                     },
+                     {
+                        "number": "AG_S_M 7360",
+                        "title": "Precision Agriculture Science and Technology"
+                     },
+                     {
+                        "number": "AG_S_M 7365",
+                        "title": "Machinery Management Using Precision Agriculture Technology"
+                     },
+                     {
+                        "number": "AG_S_M 7366",
+                        "title": "Data Management and Analysis Using Precision Agriculture Technology"
+                     },
+                     {
+                        "number": "AG_S_M 7368",
+                        "title": "Profit Strategies Using Precision Agriculture Technology"
+                     },
+                     {
+                        "number": "AG_S_M 7370",
+                        "title": "In-Service Course Agriculture Systems Management-Farm Power and Machinery"
+                     },
+                     {
+                        "number": "AG_S_M 7390",
+                        "title": "Optimization and Management of Food and Agriculture Systems"
+                     },
+                     {
+                        "number": "AG_S_M 7420",
+                        "title": "Surface Water Management"
+                     },
+                     {
+                        "number": "AG_S_M 7440",
+                        "title": "Water Quality and Pollution Control"
+                     },
+                     {
+                        "number": "AG_S_M 7460",
+                        "title": "Irrigation and Drainage"
+                     },
+                     {
+                        "number": "AG_S_M 8085",
+                        "title": "Problems in Agricultural Systems Management"
+                     },
+                     {
+                        "number": "AG_S_M 8090",
+                        "title": "Thesis Research in Agricultural Systems Management"
+                     },
+                     {
+                        "number": "AG_S_M 8340",
+                        "title": "Agricultural Mechanization Systems"
+                     },
+                     {
+                        "number": "AG_S_M 8360",
+                        "title": "Internet of Things for Precision Agriculture Technology"
+                     },
+                     {
+                        "number": "AG_S_M 9090",
+                        "title": "Thesis Research in Agricultural Systems Management"
+                     },
+                        {
+                           "number": "AFNR 1115",
+                           "title": "Foundations for College Success"
+                        },
+                        {
+                           "number": "AFNR 2115",
+                           "title": "College to Career: Strategies for Success"
+                        },
+                        {
+                           "number": "AFNR 2190",
+                           "title": "International Agriculture and Natural Resources"
+                        },
+                        {
+                           "number": "AFNR 2191",
+                           "title": "International Agriculture and Natural Resources - Humanities"
+                        },
+                        {
+                           "number": "AFNR 2191W",
+                           "title": "International Agriculture and Natural Resources - Humanities - Writing Intensive"
+                        },
+                        {
+                           "number": "AFNR 2192",
+                           "title": "International Agriculture/Natural Resources-Social Science"
+                        },
+                        {
+                           "number": "AFNR 2215",
+                           "title": "Introduction to the Theory and Practice of Sustainable Agriculture"
+                        },
+                        {
+                           "number": "AFNR 3215",
+                           "title": "Community Food Systems"
+                        },
+                        {
+                           "number": "AFNR 3315",
+                           "title": "Advanced Practices in Sustainable Agriculture"
+                        },
+                        {
+                           "number": "AFNR 4001",
+                           "title": "Topics in Agriculture-General"
+                        },
+                        {
+                           "number": "AFNR 4972",
+                           "title": "Capstone Project in Agriculture, Food and Natural Resources"
+                        },
+                        {
+                           "number": "AFNR 4993",
+                           "title": "Internship in Agriculture, Food and Natural Resources"
+                        },
+                        {
+                           "number": "AFNR 7190",
+                           "title": "International Agriculture/Natural Resources"
+                        },
+                           {
+                              "number": "AMS 1005",
+                              "title": "Undergraduate Topics in Ancient Mediterranean Studies - Humanities"
+                           },
+                           {
+                              "number": "AMS 1050",
+                              "title": "Greek and Latin in English"
+                           },
+                           {
+                              "number": "AMS 1060",
+                              "title": "Classical Mythology"
+                           },
+                           {
+                              "number": "AMS 1060H",
+                              "title": "Classical Mythology - Honors"
+                           },
+                           {
+                              "number": "AMS 1060HW",
+                              "title": "Classical Mythology - Honors/Writing Intensive"
+                           },
+                           {
+                              "number": "AMS 1060W",
+                              "title": "Classical Mythology - Writing Intensive"
+                           },
+                           {
+                              "number": "AMS 1105",
+                              "title": "Undergraduate Topics in Ancient Mediterranean Studies - Humanities"
+                           },
+                           {
+                              "number": "AMS 1150",
+                              "title": "The Archaeology of Ancient Lives"
+                           },
+                           {
+                              "number": "AMS 2005",
+                              "title": "Topics in Ancient Mediterranean Studies - Humanities"
+                           },
+                           {
+                              "number": "AMS 2005H",
+                              "title": "Topics in Classical Humanities - Honors"
+                           },
+                           {
+                              "number": "AMS 2050",
+                              "title": "Comparative History of Greece and Rome I"
+                           },
+                           {
+                              "number": "AMS 2060",
+                              "title": "Comparative History of Greece and Rome II"
+                           },
+                           {
+                              "number": "AMS 2100",
+                              "title": "The Ancient Greeks"
+                           },
+                           {
+                              "number": "AMS 2100H",
+                              "title": "Greek Culture - Honors"
+                           },
+                           {
+                              "number": "AMS 2200",
+                              "title": "The Ancient Romans"
+                           },
+                           {
+                              "number": "AMS 2230",
+                              "title": "Introduction to the Arts of Islam"
+                           },
+                           {
+                              "number": "AMS 2230W",
+                              "title": "Introduction to the Arts of Islam - Writing Intensive"
+                           },
+                           {
+                              "number": "AMS 2300",
+                              "title": "Greek Classics in Translation"
+                           },
+                           {
+                              "number": "AMS 2300H",
+                              "title": "Greek Classics in Translation - Honors"
+                           },
+                           {
+                              "number": "AMS 2400",
+                              "title": "Roman Classics in Translation"
+                           },
+                           {
+                              "number": "AMS 2410",
+                              "title": "Ancient Technology"
+                           },
+                           {
+                              "number": "AMS 2450",
+                              "title": "The World of Pompeii"
+                           },
+                           {
+                              "number": "AMS 2450H",
+                              "title": "The World of Pompeii - Honors"
+                           },
+                           {
+                              "number": "AMS 2500",
+                              "title": "The Origins of Music in the Ancient World"
+                           },
+                           {
+                              "number": "AMS 2600",
+                              "title": "Media and Communication in Ancient Greece and Rome"
+                           },
+                           {
+                              "number": "AMS 2700",
+                              "title": "Black Dionysus: Greek Drama in Africa and the African Diaspora"
+                           },
+                           {
+                              "number": "AMS 2750",
+                              "title": "Achilles in Vietnam"
+                           },
+                           {
+                              "number": "AMS 2750H",
+                              "title": "Achilles in Vietnam - Honors"
+                           },
+                           {
+                              "number": "AMS 2800",
+                              "title": "Sports and Spectacles in Greco-Roman Antiquity"
+                           },
+                           {
+                              "number": "AMS 2940",
+                              "title": "Service Learning in Classical Studies"
+                           },
+                           {
+                              "number": "AMS 2950",
+                              "title": "Archaeological Methods"
+                           },
+                           {
+                              "number": "AMS 3000",
+                              "title": "Foreigners and Dangerous Women in Greek and Latin Literature"
+                           },
+                           {
+                              "number": "AMS 3000H",
+                              "title": "Foreigners and Dangerous Women in Greek and Latin Literature - Honors"
+                           },
+                           {
+                              "number": "AMS 3000W",
+                              "title": "Foreigners and Dangerous Women in Greek and Latin Literature - Writing Intensive"
+                           },
+                           {
+                              "number": "AMS 3005",
+                              "title": "Topics in Ancient Mediterranean Studies - Humanities"
+                           },
+                           {
+                              "number": "AMS 3005H",
+                              "title": "Topics in Classical Humanities - Honors"
+                           },
+                           {
+                              "number": "AMS 3005W",
+                              "title": "Topics in Classical Humanities - Writing Intensive"
+                           },
+                           {
+                              "number": "AMS 3025",
+                              "title": "Ancient Western Philosophy"
+                           },
+                           {
+                              "number": "AMS 3050H",
+                              "title": "Philosophy Before Socrates - Honors"
+                           },
+                           {
+                              "number": "AMS 3100",
+                              "title": "The Age of Pericles"
+                           },
+                           {
+                              "number": "AMS 3100H",
+                              "title": "The Age of Pericles - Honors"
+                           },
+                           {
+                              "number": "AMS 3120",
+                              "title": "Art and Gender in Antiquity"
+                           },
+                           {
+                              "number": "AMS 3150",
+                              "title": "The Age of Augustus"
+                           },
+                           {
+                              "number": "AMS 3150H",
+                              "title": "The Age of Augustus - Honors"
+                           },
+                           {
+                              "number": "AMS 3210",
+                              "title": "Near Eastern and Egyptian Art and Archaeology"
+                           },
+                           {
+                              "number": "AMS 3225",
+                              "title": "Roman Comedy, Wit and Humor"
+                           },
+                           {
+                              "number": "AMS 3250",
+                              "title": "Greek and Roman Epic"
+                           },
+                           {
+                              "number": "AMS 3250H",
+                              "title": "Greek and Roman Epic - Honors"
+                           },
+                           {
+                              "number": "AMS 3300",
+                              "title": "Greek Drama"
+                           },
+                           {
+                              "number": "AMS 3310",
+                              "title": "Greek Art and Archaeology"
+                           },
+                           {
+                              "number": "AMS 3350",
+                              "title": "Advanced Mythology"
+                           },
+                           {
+                              "number": "AMS 3350H",
+                              "title": "Advanced Mythology - Honors"
+                           },
+                           {
+                              "number": "AMS 3400",
+                              "title": "Murder and Mayhem: Images of Justice in Classical Antiquity"
+                           },
+                           {
+                              "number": "AMS 3400W",
+                              "title": "Murder and Mayhem: Images of Justice in Classical Antiquity - Writing Intensive"
+                           },
+                           {
+                              "number": "AMS 3410",
+                              "title": "Roman Art and Archaeology"
+                           },
+                           {
+                              "number": "AMS 3450",
+                              "title": "Greek and Roman Characters and Ideals"
+                           },
+                           {
+                              "number": "AMS 3450H",
+                              "title": "Greek and Roman Characters and Ideals - Honors"
+                           },
+                           {
+                              "number": "AMS 3510",
+                              "title": "Byzantine and Islamic Art and Archaeology"
+                           },
+                           {
+                              "number": "AMS 3510W",
+                              "title": "Byzantine and Islamic Art and Archaeology - Writing Intensive"
+                           },
+                           {
+                              "number": "AMS 3520",
+                              "title": "Early Medieval Art and Archaeology"
+                           },
+                           {
+                              "number": "AMS 3520W",
+                              "title": "Early Medieval Art and Archaeology - Writing Intensive"
+                           },
+                           {
+                              "number": "AMS 3550",
+                              "title": "War and Democracy in Late 5th c. BCE Athens"
+                           },
+                           {
+                              "number": "AMS 3600",
+                              "title": "The Ancient Novel"
+                           },
+                           {
+                              "number": "AMS 3600H",
+                              "title": "The Ancient Novel - Honors"
+                           },
+                           {
+                              "number": "AMS 3650",
+                              "title": "Paganism and Christianity"
+                           },
+                           {
+                              "number": "AMS 3650W",
+                              "title": "Paganism and Christianity - Writing Intensive"
+                           },
+                           {
+                              "number": "AMS 3700",
+                              "title": "Women in the Ancient World"
+                           },
+                           {
+                              "number": "AMS 3750",
+                              "title": "Classics in a Cross-Cultural Context"
+                           },
+                           {
+                              "number": "AMS 3750H",
+                              "title": "Classics in a Cross-Cultural Context - Honors"
+                           },
+                           {
+                              "number": "AMS 3775",
+                              "title": "The Ancient World on Film"
+                           },
+                           {
+                              "number": "AMS 3775W",
+                              "title": "The Ancient World on Film - Writing Intensive"
+                           },
+                           {
+                              "number": "AMS 4005",
+                              "title": "Topics in Classical Humanities"
+                           },
+                           {
+                              "number": "AMS 4100",
+                              "title": "Greece: From the Bronze Age to the Byzantine Empire"
+                           },
+                           {
+                              "number": "AMS 4100H",
+                              "title": "Greece: From the Bronze Age to the Byzantine Empire - Honors"
+                           },
+                           {
+                              "number": "AMS 4205",
+                              "title": "Topics in Classical Studies"
+                           },
+                           {
+                              "number": "AMS 4300",
+                              "title": "Introduction to Text Criticism and Paleography"
+                           },
+                           {
+                              "number": "AMS 4320",
+                              "title": "Archaeology of the Aegean Bronze Age"
+                           },
+                           {
+                              "number": "AMS 4340",
+                              "title": "Greek Cities and Sanctuaries"
+                           },
+                           {
+                              "number": "AMS 4350",
+                              "title": "Greek Pottery"
+                           },
+                           {
+                              "number": "AMS 4360",
+                              "title": "Greek Sculpture"
+                           },
+                           {
+                              "number": "AMS 4400",
+                              "title": "Ancient Pastoral"
+                           },
+                           {
+                              "number": "AMS 4420",
+                              "title": "Minor Arts of Antiquity"
+                           },
+                           {
+                              "number": "AMS 4440",
+                              "title": "Roman Architecture"
+                           },
+                           {
+                              "number": "AMS 4460",
+                              "title": "Roman Sculpture"
+                           },
+                           {
+                              "number": "AMS 4490",
+                              "title": "Late Antique Art and Archaeology"
+                           },
+                           {
+                              "number": "AMS 4500",
+                              "title": "Greek and Roman Religion"
+                           },
+                           {
+                              "number": "AMS 4500H",
+                              "title": "Greek and Roman Religion - Honors"
+                           },
+                           {
+                              "number": "AMS 4510",
+                              "title": "Byzantine Art and Archaeology"
+                           },
+                           {
+                              "number": "AMS 4520",
+                              "title": "Art and Archaeology of Early Medieval Europe"
+                           },
+                           {
+                              "number": "AMS 4550",
+                              "title": "Literature and Culture of the Hellenistic Age"
+                           },
+                           {
+                              "number": "AMS 4550H",
+                              "title": "Literature and Culture of the Hellenistic Age - Honors"
+                           },
+                           {
+                              "number": "AMS 4600",
+                              "title": "The Classical Tradition"
+                           },
+                           {
+                              "number": "AMS 4600H",
+                              "title": "The Classical Tradition - Honors"
+                           },
+                           {
+                              "number": "AMS 4600HW",
+                              "title": "The Classical Tradition - Honors/Writing Intensive"
+                           },
+                           {
+                              "number": "AMS 4600W",
+                              "title": "The Classical Tradition - Writing Intensive"
+                           },
+                           {
+                              "number": "AMS 4650",
+                              "title": "The World of Late Antiquity"
+                           },
+                           {
+                              "number": "AMS 4650H",
+                              "title": "The World of Late Antiquity - Honors"
+                           },
+                           {
+                              "number": "AMS 4700",
+                              "title": "Advanced Study in the Teaching of the Classics"
+                           },
+                           {
+                              "number": "AMS 4770",
+                              "title": "Oral Tradition"
+                           },
+                           {
+                              "number": "AMS 4770H",
+                              "title": "Oral Tradition - Honors"
+                           },
+                           {
+                              "number": "AMS 4800",
+                              "title": "Political Thought in Classical and Christian Antiquity"
+                           },
+                           {
+                              "number": "AMS 4960",
+                              "title": "Special Readings in Ancient Mediterranean Studies"
+                           },
+                           {
+                              "number": "AMS 4970",
+                              "title": "Capstone: Ancient Mediterranean Studies"
+                           },
+                           {
+                              "number": "AMS 4970H",
+                              "title": "Capstone in Ancient Mediterranean Studies - Honors"
+                           },
+                           {
+                              "number": "AMS 4995H",
+                              "title": "Honors Proseminar in Classical Studies"
+                           },
+                           {
+                              "number": "AMS 4996",
+                              "title": "Honors Proseminar I"
+                           },
+                           {
+                              "number": "AMS 4996H",
+                              "title": "Honors Proseminar I"
+                           },
+                           {
+                              "number": "AMS 4999",
+                              "title": "Honors Reading and Research I"
+                           },
+                           {
+                              "number": "AMS 7000",
+                              "title": "Introduction to Graduate Study in Classics"
+                           },
+                           {
+                              "number": "AMS 7005",
+                              "title": "Topics in Ancient Mediterranean Studies"
+                           },
+                           {
+                              "number": "AMS 7100",
+                              "title": "History of the Greek and Latin Languages"
+                           },
+                           {
+                              "number": "AMS 7205",
+                              "title": "Topics in Classical Studies"
+                           },
+                           {
+                              "number": "AMS 7250",
+                              "title": "The Classical Avant-Garde"
+                           },
+                           {
+                              "number": "AMS 7300",
+                              "title": "Introduction to Text Criticism and Paleography"
+                           },
+                           {
+                              "number": "AMS 7320",
+                              "title": "Archaeology of the Aegean Bronze Age"
+                           },
+                           {
+                              "number": "AMS 7340",
+                              "title": "Greek Cities and Sanctuaries"
+                           },
+                           {
+                              "number": "AMS 7350",
+                              "title": "Greek Pottery"
+                           },
+                           {
+                              "number": "AMS 7360",
+                              "title": "Greek Sculpture"
+                           },
+                           {
+                              "number": "AMS 7420",
+                              "title": "Minor Arts of Antiquity"
+                           },
+                           {
+                              "number": "AMS 7440",
+                              "title": "Roman Architecture"
+                           },
+                           {
+                              "number": "AMS 7460",
+                              "title": "Roman Sculpture"
+                           },
+                           {
+                              "number": "AMS 7490",
+                              "title": "Late Antique Art and Archaeology"
+                           },
+                           {
+                              "number": "AMS 7510",
+                              "title": "Byzantine Art and Archaeology"
+                           },
+                           {
+                              "number": "AMS 7520",
+                              "title": "Art and Archaeology of Early Medieval Europe"
+                           },
+                           {
+                              "number": "AMS 7550",
+                              "title": "Literature and Culture of the Hellenistic Age"
+                           },
+                           {
+                              "number": "AMS 7600",
+                              "title": "The Classical Tradition"
+                           },
+                           {
+                              "number": "AMS 7650",
+                              "title": "The World of Late Antiquity"
+                           },
+                           {
+                              "number": "AMS 7700",
+                              "title": "Advanced Study in the Teaching of the Classics"
+                           },
+                           {
+                              "number": "AMS 7800",
+                              "title": "Political Thought in Classical and Christian Antiquity"
+                           },
+                           {
+                              "number": "AMS 7940",
+                              "title": "Archaeological Methods"
+                           },
+                           {
+                              "number": "AMS 7960",
+                              "title": "Special Readings in Classical Studies"
+                           },
+                           {
+                              "number": "AMS 8080",
+                              "title": "Readings for MA Thesis in Ancient Mediterranean Studies"
+                           },
+                           {
+                              "number": "AMS 8085",
+                              "title": "Directed Readings in Ancient Mediterranean Studies"
+                           },
+                           {
+                              "number": "AMS 8090",
+                              "title": "Master's Thesis Research and Thesis"
+                           },
+                           {
+                              "number": "AMS 8320",
+                              "title": "Seminar in Greek Art and Archaeology"
+                           },
+                           {
+                              "number": "AMS 8420",
+                              "title": "Seminar in Roman Art and Archaeology"
+                           },
+                           {
+                              "number": "AMS 8440",
+                              "title": "Ancient/Medieval Topography"
+                           },
+                           {
+                              "number": "AMS 8490",
+                              "title": "Seminar in Late Antique Art and Archaeology"
+                           },
+                           {
+                              "number": "AMS 9080",
+                              "title": "Readings for PhD Dissertation in Ancient Mediterranean Studies"
+                           },
+                           {
+                              "number": "AMS 9090",
+                              "title": "Doctoral Dissertation Research in Ancient Mediterranean Studies"
+                           },
+                           {
+                              "number": "AMS 9187",
+                              "title": "Seminar in Classical Mythology"
+                           },
+                           {
+                              "number": "AMS 9387",
+                              "title": "Seminar in Ancient Rhetoric and Oratory"
+                           },
+                           {
+                              "number": "AMS 9487",
+                              "title": "Seminar in Ancient Literary Criticism"
+                           },
+                           {
+                              "number": "AMS 9587",
+                              "title": "Greco-Roman Didactic"
+                           },
+                           {
+                              "number": "AMS 9887",
+                              "title": "Seminar in the Age of the Antonines"
+                           },
+                              {
+                                 "number": "ANESTH 6057",
+                                 "title": "Springfield Anesthesiology 4Wk"
+                              },
+                              {
+                                 "number": "ANESTH 6203",
+                                 "title": "ABS Anesthesiology Research"
+                              },
+                              {
+                                 "number": "ANESTH 6205",
+                                 "title": "ABS Anesthesiology Research and Review"
+                              },
+                              {
+                                 "number": "ANESTH 6400",
+                                 "title": "Anesthesiology"
+                              },
+                              {
+                                 "number": "ANESTH 6927",
+                                 "title": "Anesthesiology Two-Week"
+                              },
+                                 {
+                                    "number": "AN_SCI 1001",
+                                    "title": "Topics in Animal Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 1002",
+                                    "title": "Topics in Animal Science- Lab"
+                                 },
+                                 {
+                                    "number": "AN_SCI 1010",
+                                    "title": "Orientation to Animal Sciences"
+                                 },
+                                 {
+                                    "number": "AN_SCI 1011",
+                                    "title": "Introduction to Animal Sciences"
+                                 },
+                                 {
+                                    "number": "AN_SCI 1011H",
+                                    "title": "Animal Science - Honors"
+                                 },
+                                 {
+                                    "number": "AN_SCI 1012",
+                                    "title": "Introduction to Captive Wild Animal Management"
+                                 },
+                                 {
+                                    "number": "AN_SCI 1013",
+                                    "title": "Biotechnology in Animal Agriculture"
+                                 },
+                                 {
+                                    "number": "AN_SCI 1164",
+                                    "title": "Biology of Animal Production I"
+                                 },
+                                 {
+                                    "number": "AN_SCI 1165",
+                                    "title": "Biology of Animal Production I with Laboratory"
+                                 },
+                                 {
+                                    "number": "AN_SCI 1165H",
+                                    "title": "Biology of Animal Production I with Laboratory - Honors"
+                                 },
+                                 {
+                                    "number": "AN_SCI 1174",
+                                    "title": "Biology of Animal Production II"
+                                 },
+                                 {
+                                    "number": "AN_SCI 1175",
+                                    "title": "Biology of Animal Production II with Lab"
+                                 },
+                                 {
+                                    "number": "AN_SCI 1175H",
+                                    "title": "Biology of Animal Production II with Lab - Honors"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2001",
+                                    "title": "Topics in Animal Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2002",
+                                    "title": "Topics in Animal Science- Lab"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2010",
+                                    "title": "Careers in Animal Sciences"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2045",
+                                    "title": "Equine Practicum"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2085",
+                                    "title": "Problems in Animal Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2090",
+                                    "title": "Foal Training Practicum"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2095",
+                                    "title": "Equine Behavior and Training"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2110",
+                                    "title": "Global Animal Agriculture"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2111",
+                                    "title": "Sophomore Seminar: Societal Issues Facing Animal Agriculture"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2111W",
+                                    "title": "Sophomore Seminar: Societal Issues Facing Animal Agriculture - Writing Intensive"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2112",
+                                    "title": "Livestock and Literature"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2115",
+                                    "title": "Livestock Judging"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2116",
+                                    "title": "Animal Welfare Evaluation"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2131",
+                                    "title": "Dairy Products Evaluation"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2140",
+                                    "title": "Companion Animals"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2146",
+                                    "title": "Introduction to Animal Behavior"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2187",
+                                    "title": "Introduction To Foaling"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2195",
+                                    "title": "Equine Facility Management and Marketing"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2214",
+                                    "title": "Animal Products and Biotechnology"
+                                 },
+                                 {
+                                    "number": "AN_SCI 2244",
+                                    "title": "Introduction to Comparative Anatomy with Lab"
+                                 },
+                                 {
+                                    "number": "AN_SCI 3001",
+                                    "title": "Topics in Animal Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 3002",
+                                    "title": "Topics in Animal Science- Lab"
+                                 },
+                                 {
+                                    "number": "AN_SCI 3010",
+                                    "title": "Graduate Experience Program"
+                                 },
+                                 {
+                                    "number": "AN_SCI 3085",
+                                    "title": "Problems in Animal Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 3085W",
+                                    "title": "Problems in Animal Science - Writing Intensive"
+                                 },
+                                 {
+                                    "number": "AN_SCI 3190",
+                                    "title": "Study Abroad: International Meat, Dairy and Enology"
+                                 },
+                                 {
+                                    "number": "AN_SCI 3213",
+                                    "title": "Genetics of Agricultural Plants and Animals"
+                                 },
+                                 {
+                                    "number": "AN_SCI 3214",
+                                    "title": "Principles of Meat Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 3231",
+                                    "title": "Principles of Dairy Foods Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 3242",
+                                    "title": "Principles and Applications of Animal Nutrition"
+                                 },
+                                 {
+                                    "number": "AN_SCI 3253",
+                                    "title": "Physiology of Domestic Animals- All Majors"
+                                 },
+                                 {
+                                    "number": "AN_SCI 3254",
+                                    "title": "Physiology of Domestic Animals"
+                                 },
+                                 {
+                                    "number": "AN_SCI 3254H",
+                                    "title": "Physiology of Domestic Animals - Honors"
+                                 },
+                                 {
+                                    "number": "AN_SCI 3264",
+                                    "title": "Physiology of Domestic Animals II"
+                                 },
+                                 {
+                                    "number": "AN_SCI 3275",
+                                    "title": "Meat Animal Evaluation"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4001",
+                                    "title": "Topics in Animal Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4001W",
+                                    "title": "Topics in Animal Science - Writing Intensive"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4010",
+                                    "title": "Pasture-Based Dairy Management"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4010W",
+                                    "title": "Pasture-Based Dairy Management - Writing Intensive"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4011",
+                                    "title": "Pasture Based Dairy Management Lab"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4012",
+                                    "title": "Elements of Experimental Surgery"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4312",
+                                    "title": "Monogastric Nutrition"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4314",
+                                    "title": "Physiology of Reproduction"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4314H",
+                                    "title": "Physiology of Reproduction - Honors"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4323",
+                                    "title": "Applied Livestock Genetics"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4324",
+                                    "title": "Genomics of Plants and Animals"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4332",
+                                    "title": "Ruminant Nutrition"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4354",
+                                    "title": "Physiology and Biochemistry of Muscle as Food"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4384",
+                                    "title": "Reproductive Management"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4385",
+                                    "title": "Reproductive Management Laboratory"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4386",
+                                    "title": "Equine Reproduction"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4387",
+                                    "title": "Equine Breeding Management"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4436",
+                                    "title": "Animal Welfare"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4437",
+                                    "title": "Stress Physiology"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4910",
+                                    "title": "Senior Seminar in Captive Wild Animal Management"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4940",
+                                    "title": "Internship in Animal Science & Technology"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4950",
+                                    "title": "Undergraduate Research in Animal Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4973",
+                                    "title": "Molecular and Cellular Techniques in Animal Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4975",
+                                    "title": "Beef Production and Management"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4975W",
+                                    "title": "Beef Production and Management - Writing Intensive"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4976",
+                                    "title": "Dairy Production"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4976W",
+                                    "title": "Dairy Production - Writing Intensive"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4977",
+                                    "title": "Horse Production"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4978",
+                                    "title": "Swine Production"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4978W",
+                                    "title": "Swine Production - Writing Intensive"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4979",
+                                    "title": "Poultry Production"
+                                 },
+                                 {
+                                    "number": "AN_SCI 4979W",
+                                    "title": "Poultry Production Writing Intensive"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7001",
+                                    "title": "Topics in Animal Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7010",
+                                    "title": "Pasture-Based Dairy Management"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7011",
+                                    "title": "Pasture Based Dairy Management Lab"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7012",
+                                    "title": "Elements of Experimental Surgery"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7312",
+                                    "title": "Monogastric Nutrition"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7314",
+                                    "title": "Physiology of Reproduction"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7323",
+                                    "title": "Applied Livestock Genetics"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7324",
+                                    "title": "Genomics of Plants and Animals"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7332",
+                                    "title": "Ruminant Nutrition"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7344",
+                                    "title": "Processing Muscle Foods"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7354",
+                                    "title": "Physiology and Biochemistry of Muscle as Food"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7384",
+                                    "title": "Reproductive Management"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7385",
+                                    "title": "Reproductive Management Laboratory"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7975",
+                                    "title": "Beef Production and Management"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7976",
+                                    "title": "Dairy Production"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7977",
+                                    "title": "Horse Production"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7978",
+                                    "title": "Swine Production"
+                                 },
+                                 {
+                                    "number": "AN_SCI 7979",
+                                    "title": "Poultry Production"
+                                 },
+                                 {
+                                    "number": "AN_SCI 8001",
+                                    "title": "Topics in Animal Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 8085",
+                                    "title": "Problems in Animal Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 8087",
+                                    "title": "Seminar in Animal Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 8090",
+                                    "title": "Thesis Research in Animal Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 8413",
+                                    "title": "Reproductive Biology Seminar"
+                                 },
+                                 {
+                                    "number": "AN_SCI 8414",
+                                    "title": "Meat Quality"
+                                 },
+                                 {
+                                    "number": "AN_SCI 8415",
+                                    "title": "Survey of Epigenetics"
+                                 },
+                                 {
+                                    "number": "AN_SCI 8420",
+                                    "title": "Endocrinology"
+                                 },
+                                 {
+                                    "number": "AN_SCI 8424",
+                                    "title": "Meat Investigations"
+                                 },
+                                 {
+                                    "number": "AN_SCI 8430",
+                                    "title": "Introduction to Bioinformatics Programming"
+                                 },
+                                 {
+                                    "number": "AN_SCI 8431",
+                                    "title": "Nutritional Biochemistry of Lipids"
+                                 },
+                                 {
+                                    "number": "AN_SCI 8434",
+                                    "title": "Special Topics in Reproductive Biology"
+                                 },
+                                 {
+                                    "number": "AN_SCI 8441",
+                                    "title": "Statistical Applications in Agriculture"
+                                 },
+                                 {
+                                    "number": "AN_SCI 8442",
+                                    "title": "Digestive Physiology and Metabolism"
+                                 },
+                                 {
+                                    "number": "AN_SCI 8633",
+                                    "title": "Molecular and Network Evolution"
+                                 },
+                                 {
+                                    "number": "AN_SCI 8725",
+                                    "title": "Science Outreach: Public Understanding of Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 9001",
+                                    "title": "Topics in Animal Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 9090",
+                                    "title": "Dissertation Research in Animal Science"
+                                 },
+                                 {
+                                    "number": "AN_SCI 9423",
+                                    "title": "Genetics of Populations"
+                                 },
+                                 {
+                                    "number": "AN_SCI 9432",
+                                    "title": "Ruminant Nutrition"
+                                 },
+                                 {
+                                    "number": "AN_SCI 9433",
+                                    "title": "Gamete and Embryo Development"
+                                 },
+                                 {
+                                    "number": "AN_SCI 9434",
+                                    "title": "Gonadal Function"
+                                 },
+                                 {
+                                    "number": "AN_SCI 9435",
+                                    "title": "Placentation"
+                                 },
+                                 {
+                                    "number": "AN_SCI 9442",
+                                    "title": "Vitamins and Minerals"
+                                 },
+                                    {
+                                       "number": "ANTHRO 1000",
+                                       "title": "Introduction to Anthropology: Human Biology, Prehistory, and Culture"
+                                    },
+                                    {
+                                       "number": "ANTHRO 1000H",
+                                       "title": "Introduction to Anthropology: Human Biology, Prehistory, and Culture - Honors"
+                                    },
+                                    {
+                                       "number": "ANTHRO 1001",
+                                       "title": "Topics in Anthropology - General"
+                                    },
+                                    {
+                                       "number": "ANTHRO 1002",
+                                       "title": "Topics in Anthropology - Biological Sciences"
+                                    },
+                                    {
+                                       "number": "ANTHRO 1003",
+                                       "title": "Topics in Anthropology - Behavioral"
+                                    },
+                                    {
+                                       "number": "ANTHRO 1006",
+                                       "title": "Topics in Anthropology - Mathematical Sciences"
+                                    },
+                                    {
+                                       "number": "ANTHRO 1007",
+                                       "title": "Topics in Anthropology - Physical Sciences"
+                                    },
+                                    {
+                                       "number": "ANTHRO 1060",
+                                       "title": "Human Language"
+                                    },
+                                    {
+                                       "number": "ANTHRO 1150",
+                                       "title": "Introduction to Folklore Genres"
+                                    },
+                                    {
+                                       "number": "ANTHRO 1200",
+                                       "title": "Significant Discoveries of Archaeology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 1300",
+                                       "title": "Multiculturalism: An Introduction"
+                                    },
+                                    {
+                                       "number": "ANTHRO 1350",
+                                       "title": "Deviance: A Cross-Cultural Perspective"
+                                    },
+                                    {
+                                       "number": "ANTHRO 1500",
+                                       "title": "Monkeys, Apes and Humans"
+                                    },
+                                    {
+                                       "number": "ANTHRO 1500W",
+                                       "title": "Monkeys, Apes and Humans - Writing Intensive"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2002",
+                                       "title": "Topics in Anthropology-Biological Science"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2003",
+                                       "title": "Topics in Anthropology - Behavioral"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2005",
+                                       "title": "Topics in Anthropology - Humanities"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2006",
+                                       "title": "Topics in Anthropology-Mathematical Science"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2007",
+                                       "title": "Topics in Anthropology-Physical Science"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2020",
+                                       "title": "Fundamentals of Archaeology with Laboratory"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2021",
+                                       "title": "Fundamentals of Archaeology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2022",
+                                       "title": "Fundamentals of Archaeology Lab"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2030",
+                                       "title": "Cultural Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2030W",
+                                       "title": "Cultural Anthropology - Writing Intensive"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2050",
+                                       "title": "Introduction to Biological Anthropology with Laboratory"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2051",
+                                       "title": "Introduction to Biological Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2052",
+                                       "title": "Biological Anthropology Laboratory"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2100",
+                                       "title": "Indigenous Religions"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2100H",
+                                       "title": "Indigenous Religions - Honors"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2150",
+                                       "title": "Introduction to Folklore Field Research"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2215",
+                                       "title": "World Archaeology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2300",
+                                       "title": "Anthropology of War"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2340",
+                                       "title": "Hunters and Gatherers"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2500",
+                                       "title": "Primate Anatomy and Evolution"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2530",
+                                       "title": "Human Evolution through Film and Literature"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2570",
+                                       "title": "Parents and Offspring"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2580",
+                                       "title": "Evolution of Human Sexuality"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2580W",
+                                       "title": "Evolution of Human Sexuality - Writing Intensive"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2800",
+                                       "title": "Introduction to Field Methods in Archaeology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2825",
+                                       "title": "Analyzing Artifacts"
+                                    },
+                                    {
+                                       "number": "ANTHRO 2950",
+                                       "title": "Research Skills in Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3001",
+                                       "title": "Topics in Anthropology - General"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3002",
+                                       "title": "Topics in Anthropology-Biological Sciences"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3003",
+                                       "title": "Topics in Anthropology - Behavioral Science"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3004",
+                                       "title": "Topics in Anthropology - Social Science"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3005",
+                                       "title": "Topics in Anthropology - Humanities"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3006",
+                                       "title": "Topics in Anthropology-Mathematical Sciences"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3007",
+                                       "title": "Topics in Anthropology-Physical Sciences"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3150",
+                                       "title": "American Folklore"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3340H",
+                                       "title": "The Evolution of Human Nature - Honors"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3340HW",
+                                       "title": "The Evolution of Human Nature - Honors/Writing Intensive"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3380",
+                                       "title": "Native American Religions"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3470",
+                                       "title": "Culture as Communication"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3490",
+                                       "title": "Indian Cinema"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3540",
+                                       "title": "Human Biology and Life History"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3560",
+                                       "title": "Plagues and Peoples"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3560W",
+                                       "title": "Plagues and Peoples - Writing Intensive"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3600",
+                                       "title": "North American Indian Culture"
+                                    },
+                                    {
+                                       "number": "ANTHRO 3780",
+                                       "title": "Cultures of Southeast Asia"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4001",
+                                       "title": "Topics in Anthropology-General"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4002",
+                                       "title": "Topics in Anthropology - Biological Science"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4005",
+                                       "title": "Topics in Anthropology - Humanities"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4006",
+                                       "title": "Topics in Anthropology - Mathematical Science"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4007",
+                                       "title": "Topics in Anthropology - Physical Science"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4150",
+                                       "title": "Special Themes in Folklore"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4170",
+                                       "title": "Oral Tradition"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4200",
+                                       "title": "Environment and Archaeology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4240",
+                                       "title": "History of Archaeology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4280",
+                                       "title": "Archaeology of Religion"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4300",
+                                       "title": "Comparative Social Organization"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4320",
+                                       "title": "Ecological and Environmental Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4340",
+                                       "title": "Cultural Evolution and Change"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4350",
+                                       "title": "Psychological Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4360",
+                                       "title": "Medical Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4370",
+                                       "title": "Anthropology of Gender"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4380",
+                                       "title": "Anthropological Theories of Religion"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4385",
+                                       "title": "Anthropology of Shamanism"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4412",
+                                       "title": "Gender, Language, and Communication"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4420",
+                                       "title": "Historical Linguistics"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4500",
+                                       "title": "Human Origins"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4520",
+                                       "title": "Functional Morphology of the Human Skeleton"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4540",
+                                       "title": "Human Biological Variation"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4580",
+                                       "title": "Evolutionary Medicine"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4600",
+                                       "title": "Ethnographic Studies of Selected Cultures"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4620",
+                                       "title": "North American Archaeology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4640",
+                                       "title": "Prehistory of the Greater Southwest"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4650",
+                                       "title": "Prehistory of Mesoamerica"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4680",
+                                       "title": "Cultures and Peoples of the Amazon"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4700",
+                                       "title": "Old World Prehistory"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4790",
+                                       "title": "Culture and Society in South Asia"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4800",
+                                       "title": "Field Methods in Archaeology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4820",
+                                       "title": "Zooarchaeology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4826",
+                                       "title": "Stone Artifact Analysis"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4828",
+                                       "title": "Archaeological Analysis of Ceramics"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4830",
+                                       "title": "Ethnographic Methods"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4840",
+                                       "title": "The Comparative Method in Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4870",
+                                       "title": "Field Methods in Linguistics"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4870W",
+                                       "title": "Field Methods in Linguistics - Writing Intensive"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4880",
+                                       "title": "Demographic Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4885",
+                                       "title": "Anthropological Genetics"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4890",
+                                       "title": "Human Skeletal Identification and Analysis"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4950",
+                                       "title": "Undergraduate Research in Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4950H",
+                                       "title": "Honors Research in Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4950HW",
+                                       "title": "Undergraduate Research in Anthropology - Honors/Writing Intensive"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4960",
+                                       "title": "Undergraduate Readings in Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4990",
+                                       "title": "Capstone Seminar in Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 4990W",
+                                       "title": "Capstone Seminar in Anthropology - Writing Intensive"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7001",
+                                       "title": "Topics in Anthropology-General"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7150",
+                                       "title": "Special Themes in Folklore"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7170",
+                                       "title": "Oral Tradition"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7200",
+                                       "title": "Environment and Archaeology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7240",
+                                       "title": "History of Archaeology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7280",
+                                       "title": "Archaeology of Religion"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7300",
+                                       "title": "Comparative Social Organization"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7340",
+                                       "title": "Cultural Evolution and Change"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7350",
+                                       "title": "Psychological Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7360",
+                                       "title": "Medical Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7370",
+                                       "title": "Anthropology of Gender"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7380",
+                                       "title": "Anthropological Theory of Religions"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7385",
+                                       "title": "Anthropology of Shamanism"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7420",
+                                       "title": "Historical Linguistics"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7500",
+                                       "title": "Human Origins"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7520",
+                                       "title": "Functional Morphology of the Human Skeleton"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7540",
+                                       "title": "Human Biological Variation"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7580",
+                                       "title": "Evolutionary Medicine"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7600",
+                                       "title": "Ethnographic Studies of Selected Cultures"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7620",
+                                       "title": "North American Archaeology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7640",
+                                       "title": "Prehistory of the Greater Southwest"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7650",
+                                       "title": "Prehistory of Mesoamerica"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7680",
+                                       "title": "Cultures and Peoples of the Amazon"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7700",
+                                       "title": "Old World Prehistory"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7790",
+                                       "title": "Cultures and Society in South Asia"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7800",
+                                       "title": "Field Methods in Archaeology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7820",
+                                       "title": "Zooarchaeology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7826",
+                                       "title": "Stone Artifact Analysis"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7828",
+                                       "title": "Archaeological Analysis of Ceramics"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7830",
+                                       "title": "Ethnographic Methods"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7840",
+                                       "title": "The Comparative Method in Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7870",
+                                       "title": "Field Methods in Linguistics"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7880",
+                                       "title": "Demographic Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7885",
+                                       "title": "Anthropological Genetics"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7890",
+                                       "title": "Human Skeletal Identification and Analysis"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7950",
+                                       "title": "Introduction to Post-Graduate Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7960",
+                                       "title": "Graduate Readings in Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 7990",
+                                       "title": "Non Thesis Research in Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 8010",
+                                       "title": "History of Anthropology I"
+                                    },
+                                    {
+                                       "number": "ANTHRO 8090",
+                                       "title": "Masters Thesis Research in Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 8157",
+                                       "title": "Seminar in Folklore"
+                                    },
+                                    {
+                                       "number": "ANTHRO 8187",
+                                       "title": "Seminar in Ecological Adaptation"
+                                    },
+                                    {
+                                       "number": "ANTHRO 8287",
+                                       "title": "Seminar in Theory and Methods in Archaeology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 8357",
+                                       "title": "Seminar in Psychological Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 8487",
+                                       "title": "Seminar in Anthropological Linguistics"
+                                    },
+                                    {
+                                       "number": "ANTHRO 8587",
+                                       "title": "Seminar in Physical Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 8687",
+                                       "title": "Seminar in Cultural Dynamics"
+                                    },
+                                    {
+                                       "number": "ANTHRO 8888",
+                                       "title": "Analyzing Anthropological Data I"
+                                    },
+                                    {
+                                       "number": "ANTHRO 8889",
+                                       "title": "Analyzing Anthropological Data II"
+                                    },
+                                    {
+                                       "number": "ANTHRO 8960",
+                                       "title": "Graduate Readings in Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 8987",
+                                       "title": "Grant Writing for Graduate Students"
+                                    },
+                                    {
+                                       "number": "ANTHRO 8990",
+                                       "title": "Non Thesis Research in Anthropology"
+                                    },
+                                    {
+                                       "number": "ANTHRO 9090",
+                                       "title": "Doctoral Dissertation Research in Anthropology"
+                                    },
+                                       {
+                                          "number": "ARABIC 1100",
+                                          "title": "Elementary Arabic I"
+                                       },
+                                       {
+                                          "number": "ARABIC 1200",
+                                          "title": "Elementary Arabic II"
+                                       },
+                                       {
+                                          "number": "ARABIC 2005",
+                                          "title": "Undergraduate Topics in Arabic - Humanities"
+                                       },
+                                       {
+                                          "number": "ARABIC 2130",
+                                          "title": "Intermediate Arabic"
+                                       },
+                                       {
+                                          "number": "ARABIC 2260",
+                                          "title": "Intermediate Arabic II"
+                                       },
+                                       {
+                                          "number": "ARABIC 3160",
+                                          "title": "Intermediate Arabic III"
+                                       },
+                                          {
+                                             "number": "ARCHST 1005",
+                                             "title": "Topics in Architectural Studies - Humanities"
+                                          },
+                                          {
+                                             "number": "ARCHST 1100",
+                                             "title": "Visual Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 1200",
+                                             "title": "Architectural Drafting and Working Drawings"
+                                          },
+                                          {
+                                             "number": "ARCHST 1600",
+                                             "title": "Fundamentals of Environmental Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 1600W",
+                                             "title": "Fundamentals of Environmental Design - Writing Intensive"
+                                          },
+                                          {
+                                             "number": "ARCHST 2005",
+                                             "title": "Topics in Architectural Studies - Humanities"
+                                          },
+                                          {
+                                             "number": "ARCHST 2085",
+                                             "title": "Problems in Architectural Studies"
+                                          },
+                                          {
+                                             "number": "ARCHST 2100",
+                                             "title": "Understanding Architecture and the American City"
+                                          },
+                                          {
+                                             "number": "ARCHST 2210",
+                                             "title": "Understanding Visualization for Animated Films"
+                                          },
+                                          {
+                                             "number": "ARCHST 2220",
+                                             "title": "Introduction to CAD"
+                                          },
+                                          {
+                                             "number": "ARCHST 2230",
+                                             "title": "Design Communication I"
+                                          },
+                                          {
+                                             "number": "ARCHST 2310",
+                                             "title": "Building Systems"
+                                          },
+                                          {
+                                             "number": "ARCHST 2315",
+                                             "title": "Introduction to Building Systems Laboratory"
+                                          },
+                                          {
+                                             "number": "ARCHST 2316",
+                                             "title": "Advanced Building Systems Lab"
+                                          },
+                                          {
+                                             "number": "ARCHST 2323",
+                                             "title": "Sustainable Building Design Fundamentals"
+                                          },
+                                          {
+                                             "number": "ARCHST 2620",
+                                             "title": "People, Places and Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 2811",
+                                             "title": "Studio I"
+                                          },
+                                          {
+                                             "number": "ARCHST 3100",
+                                             "title": "Color and Light"
+                                          },
+                                          {
+                                             "number": "ARCHST 3182",
+                                             "title": "Studio II"
+                                          },
+                                          {
+                                             "number": "ARCHST 3230",
+                                             "title": "Advanced Design Communication Using BIM"
+                                          },
+                                          {
+                                             "number": "ARCHST 3600",
+                                             "title": "Environmental Analysis"
+                                          },
+                                          {
+                                             "number": "ARCHST 3600W",
+                                             "title": "Environmental Analysis - Writing Intensive"
+                                          },
+                                          {
+                                             "number": "ARCHST 3860",
+                                             "title": "Human Factors Programming"
+                                          },
+                                          {
+                                             "number": "ARCHST 3860W",
+                                             "title": "Human Factors Programming - Writing Intensive"
+                                          },
+                                          {
+                                             "number": "ARCHST 4001",
+                                             "title": "Topics in Architectural Studies"
+                                          },
+                                          {
+                                             "number": "ARCHST 4085",
+                                             "title": "Problems in Architectural Studies"
+                                          },
+                                          {
+                                             "number": "ARCHST 4085W",
+                                             "title": "Problems in Architectural Studies - Writing Intensive"
+                                          },
+                                          {
+                                             "number": "ARCHST 4320",
+                                             "title": "Materials, Methods and Products"
+                                          },
+                                          {
+                                             "number": "ARCHST 4323",
+                                             "title": "Sustainable Technologies and Systems"
+                                          },
+                                          {
+                                             "number": "ARCHST 4325",
+                                             "title": "Energy-Efficient Building Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 4333",
+                                             "title": "Compliance and Specifications"
+                                          },
+                                          {
+                                             "number": "ARCHST 4355",
+                                             "title": "Recent Trends in Digital Media I"
+                                          },
+                                          {
+                                             "number": "ARCHST 4411",
+                                             "title": "Study Abroad in Architectural History"
+                                          },
+                                          {
+                                             "number": "ARCHST 4430",
+                                             "title": "Guiding Design with Historic Preservation"
+                                          },
+                                          {
+                                             "number": "ARCHST 4435",
+                                             "title": "History of the Designed Environment to 1750"
+                                          },
+                                          {
+                                             "number": "ARCHST 4440",
+                                             "title": "Design Precedents: Architecture, Interiors and Furniture since the Industrial Revolution"
+                                          },
+                                          {
+                                             "number": "ARCHST 4555",
+                                             "title": "Recent Trends"
+                                          },
+                                          {
+                                             "number": "ARCHST 4630",
+                                             "title": "Shaping Human Settlements"
+                                          },
+                                          {
+                                             "number": "ARCHST 4700",
+                                             "title": "Place-Making in Community Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 4710",
+                                             "title": "Design Business Practices"
+                                          },
+                                          {
+                                             "number": "ARCHST 4760",
+                                             "title": "Healthcare Facilities Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 4813",
+                                             "title": "Interiors Studio III"
+                                          },
+                                          {
+                                             "number": "ARCHST 4814",
+                                             "title": "Interiors Studio IV"
+                                          },
+                                          {
+                                             "number": "ARCHST 4815",
+                                             "title": "Construction Documents and Building Information Modeling Studio"
+                                          },
+                                          {
+                                             "number": "ARCHST 4823",
+                                             "title": "Architectural Studio III"
+                                          },
+                                          {
+                                             "number": "ARCHST 4824",
+                                             "title": "Architectural Studio IV"
+                                          },
+                                          {
+                                             "number": "ARCHST 4860",
+                                             "title": "Programming for Thesis Design Studio"
+                                          },
+                                          {
+                                             "number": "ARCHST 4940",
+                                             "title": "Internship in Environmental Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 4960",
+                                             "title": "Readings in Architectural Studio"
+                                          },
+                                          {
+                                             "number": "ARCHST 4961",
+                                             "title": "Design Research and Service Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 4962",
+                                             "title": "Information Visualization and Visual Analytics"
+                                          },
+                                          {
+                                             "number": "ARCHST 4963",
+                                             "title": "Human Factors Research for Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 4964",
+                                             "title": "Design Thinking and Creative Process"
+                                          },
+                                          {
+                                             "number": "ARCHST 4990",
+                                             "title": "Thesis Design Studio"
+                                          },
+                                          {
+                                             "number": "ARCHST 7001",
+                                             "title": "Topics in Environmental Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 7085",
+                                             "title": "Problems in Environmental Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 7230",
+                                             "title": "Computer Graphic Application for Design I"
+                                          },
+                                          {
+                                             "number": "ARCHST 7232",
+                                             "title": "Graduate Design Communication I"
+                                          },
+                                          {
+                                             "number": "ARCHST 7310",
+                                             "title": "Graduate Building Systems"
+                                          },
+                                          {
+                                             "number": "ARCHST 7315",
+                                             "title": "Graduate Systems Laboratory"
+                                          },
+                                          {
+                                             "number": "ARCHST 7320",
+                                             "title": "Materials, Methods and Products"
+                                          },
+                                          {
+                                             "number": "ARCHST 7323",
+                                             "title": "Sustainable Technologies and Systems"
+                                          },
+                                          {
+                                             "number": "ARCHST 7325",
+                                             "title": "Energy-Efficient Building Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 7333",
+                                             "title": "Compliance and Specifications"
+                                          },
+                                          {
+                                             "number": "ARCHST 7355",
+                                             "title": "Recent Trends in Digital Media I"
+                                          },
+                                          {
+                                             "number": "ARCHST 7430",
+                                             "title": "Guiding Design with Historic Preservation"
+                                          },
+                                          {
+                                             "number": "ARCHST 7440",
+                                             "title": "Design Precedents: Architecture, Interiors and Furniture since the Industrial Revolution"
+                                          },
+                                          {
+                                             "number": "ARCHST 7555",
+                                             "title": "Recent Trends in Environmental Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 7620",
+                                             "title": "Environment and Behavior"
+                                          },
+                                          {
+                                             "number": "ARCHST 7630",
+                                             "title": "Shaping Human Settlements"
+                                          },
+                                          {
+                                             "number": "ARCHST 7650",
+                                             "title": "Psychosocial Function and Older Adults"
+                                          },
+                                          {
+                                             "number": "ARCHST 7700",
+                                             "title": "Place-Making in Community Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 7840",
+                                             "title": "Graduate Design Studio"
+                                          },
+                                          {
+                                             "number": "ARCHST 7940",
+                                             "title": "Internship in Environmental Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 7960",
+                                             "title": "Readings in Environmental Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 7961",
+                                             "title": "Design Research and Service Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 7962",
+                                             "title": "Information Visualization and Visual Analytics"
+                                          },
+                                          {
+                                             "number": "ARCHST 7963",
+                                             "title": "Human Factors Research for Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 7964",
+                                             "title": "Design Thinking and Creative Process"
+                                          },
+                                          {
+                                             "number": "ARCHST 8001",
+                                             "title": "Topics in Environmental Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 8050",
+                                             "title": "Research Methods in Environmental Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 8085",
+                                             "title": "Problems in Environmental Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 8090",
+                                             "title": "Master's Research in Environmental Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 8230",
+                                             "title": "Computer Graphic Application for Design II"
+                                          },
+                                          {
+                                             "number": "ARCHST 8600",
+                                             "title": "Graduate Environmental Analysis"
+                                          },
+                                          {
+                                             "number": "ARCHST 8630",
+                                             "title": "Philosophy of Environmental Design Research"
+                                          },
+                                          {
+                                             "number": "ARCHST 8633",
+                                             "title": "Theoretical Perspectives of Design Computing"
+                                          },
+                                          {
+                                             "number": "ARCHST 8820",
+                                             "title": "Graduate Digital Design Studio"
+                                          },
+                                          {
+                                             "number": "ARCHST 8830",
+                                             "title": "Digital Design Studio II"
+                                          },
+                                          {
+                                             "number": "ARCHST 8840",
+                                             "title": "Graduate Design Studio"
+                                          },
+                                          {
+                                             "number": "ARCHST 8850",
+                                             "title": "Seminar in Environmental Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 8887",
+                                             "title": "Environment and Behavior II"
+                                          },
+                                          {
+                                             "number": "ARCHST 8950",
+                                             "title": "Qualitative Research Methods"
+                                          },
+                                          {
+                                             "number": "ARCHST 8960",
+                                             "title": "Readings in Environmental Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 8990",
+                                             "title": "Thesis Project Proposal"
+                                          },
+                                          {
+                                             "number": "ARCHST 9085",
+                                             "title": "Problems in Environmental Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 9090",
+                                             "title": "Doctoral Research in Environmental Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 9555",
+                                             "title": "Recent Trends in Environmental Design"
+                                          },
+                                          {
+                                             "number": "ARCHST 9990",
+                                             "title": "Dissertation Proposal"
+                                          },
+                                          {
+                                             "number": "ARCHST 9995",
+                                             "title": "Pilot Project for Dissertation"
+                                          }
+                                       
+
+
+
+
+
+
+
+
+]

@@ -11,19 +11,19 @@ const browser = await puppeteer.launch();
 			let stri = document.querySelector('#courseinventorycontainer').innerText.split("\n");
 
 			let n = [];
-			for (i in stri){ if (stri[i].startsWith('THE')){ n.push(stri[i]) }}
+			for (i in stri){ if (stri[i].startsWith('ARCH')){ n.push(stri[i]) }}
 
 
 
-			for (i in n){ n[i] = n[i].split(" (") }
-			for (i in n){ n[i].pop()}
+			for (i in n){ n[i] = n[i].split("\n") }
+			// for (i in n){ n[i].pop()}
 			n = n.join("\n")
 			n = n.split('\n')
 			for (i in n){ n[i] = n[i].split(' ') }
 			let  number = [];
 			for (i in n){ number.push(n[i][0]); n[i].shift()}
 			for (i in n){ n[i] = n[i].join(" ")}
-
+      for (i in number){ number[i] = number[i].replace(":", "")}
         var movieArr = [];
         for (var i = 0; i < n.length; i++) {
           movieArr[i] = {
@@ -45,4 +45,4 @@ browser.close()
 
 }
 
-scrape("http://catalog.mst.edu/undergraduate/degreeprogramsandcourses/theatre/")
+scrape("http://catalog.missouri.edu/courseofferings/archst/")
