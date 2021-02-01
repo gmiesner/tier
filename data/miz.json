@@ -3289,8 +3289,1421 @@
                                           {
                                              "number": "ARCHST 9995",
                                              "title": "Pilot Project for Dissertation"
-                                          }
-                                       
+                                          },
+                                             {
+                                                "number": "ARTCE_VS 2100",
+                                                "title": "Beginning Ceramics"
+                                             },
+                                             {
+                                                "number": "ARTCE_VS 3100",
+                                                "title": "Intermediate Ceramics"
+                                             },
+                                             {
+                                                "number": "ARTCE_VS 4100",
+                                                "title": "Advanced Ceramics"
+                                             },
+                                             {
+                                                "number": "ARTCE_VS 4110",
+                                                "title": "Ceramics Sculpture"
+                                             },
+                                             {
+                                                "number": "ARTCE_VS 4185",
+                                                "title": "Problems in Ceramics"
+                                             },
+                                             {
+                                                "number": "ARTCE_VS 7100",
+                                                "title": "Graduate Ceramics"
+                                             },
+                                             {
+                                                "number": "ARTCE_VS 7110",
+                                                "title": "Graduate Ceramic Sculpture"
+                                             },
+                                             {
+                                                "number": "ARTCE_VS 7185",
+                                                "title": "Problems in Ceramics"
+                                             },
+                                             {
+                                                "number": "ARTCE_VS 8100",
+                                                "title": "Graduate Ceramics II"
+                                             },
+                                                {
+                                                   "number": "ARTDR_VS 1050",
+                                                   "title": "Drawing: Materials and Methods"
+                                                },
+                                                {
+                                                   "number": "ARTDR_VS 1050H",
+                                                   "title": "Drawing: Materials and Methods - Honors"
+                                                },
+                                                {
+                                                   "number": "ARTDR_VS 2210",
+                                                   "title": "Beginning Color Drawing"
+                                                },
+                                                {
+                                                   "number": "ARTDR_VS 3200",
+                                                   "title": "Portrait Drawing"
+                                                },
+                                                {
+                                                   "number": "ARTDR_VS 3210",
+                                                   "title": "Intermediate Color Drawing"
+                                                },
+                                                {
+                                                   "number": "ARTDR_VS 3220",
+                                                   "title": "Anatomical Drawing"
+                                                },
+                                                {
+                                                   "number": "ARTDR_VS 3230",
+                                                   "title": "Beginning Illustration"
+                                                },
+                                                {
+                                                   "number": "ARTDR_VS 3240",
+                                                   "title": "The Graphic Novel"
+                                                },
+                                                {
+                                                   "number": "ARTDR_VS 4200",
+                                                   "title": "Drawing IV"
+                                                },
+                                                {
+                                                   "number": "ARTDR_VS 4210",
+                                                   "title": "Advanced Color Drawing"
+                                                },
+                                                {
+                                                   "number": "ARTDR_VS 4220",
+                                                   "title": "Advanced Anatomical Drawing"
+                                                },
+                                                {
+                                                   "number": "ARTDR_VS 4230",
+                                                   "title": "Advanced Illustration"
+                                                },
+                                                {
+                                                   "number": "ARTDR_VS 4285",
+                                                   "title": "Problems in Drawing"
+                                                },
+                                                {
+                                                   "number": "ARTDR_VS 7200",
+                                                   "title": "Graduate Drawing"
+                                                },
+                                                {
+                                                   "number": "ARTDR_VS 7285",
+                                                   "title": "Problems in Drawing"
+                                                },
+                                                {
+                                                   "number": "ARTDR_VS 8200",
+                                                   "title": "Advanced Graduate Drawing"
+                                                },
+                                                {
+                                                   "number": "ARTDR_VS 8270",
+                                                   "title": "Graduate Drawing - Theory and Context"
+                                                },
+                                                   {
+                                                      "number": "ARTFI_VS 2300",
+                                                      "title": "Beginning Fibers"
+                                                   },
+                                                   {
+                                                      "number": "ARTFI_VS 3300",
+                                                      "title": "Intermediate Fibers"
+                                                   },
+                                                   {
+                                                      "number": "ARTFI_VS 4300",
+                                                      "title": "Advanced Fibers"
+                                                   },
+                                                   {
+                                                      "number": "ARTFI_VS 4385",
+                                                      "title": "Problems in Fibers"
+                                                   },
+                                                   {
+                                                      "number": "ARTFI_VS 7300",
+                                                      "title": "Graduate Fibers"
+                                                   },
+                                                   {
+                                                      "number": "ARTFI_VS 7385",
+                                                      "title": "Problems in Fibers"
+                                                   },
+                                                   {
+                                                      "number": "ARTFI_VS 8300",
+                                                      "title": "Graduate Fibers II"
+                                                   },
+                                                      {
+                                                         "number": "ARTGE_VS 1020",
+                                                         "title": "Introduction to Visual Studies"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 1020H",
+                                                         "title": "Introduction to Visual Studies - Honors"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 1020HW",
+                                                         "title": "Introduction to Visual Studies - Honors/Writing Intensive"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 1020W",
+                                                         "title": "Introduction to Visual Studies - Writing Intensive"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 1030",
+                                                         "title": "2-D Materials and Methods"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 1040",
+                                                         "title": "3-D Materials and Methods"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 1920",
+                                                         "title": "Introduction to Digital Media Production"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 2000",
+                                                         "title": "Color Theory"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 2001",
+                                                         "title": "Topics in Art"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 2005",
+                                                         "title": "Topics in Art - Humanities"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 2005H",
+                                                         "title": "Topics in Art - Humanities - Honors"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 2020",
+                                                         "title": "International Summer Study Abroad in Art"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 2030",
+                                                         "title": "Context and Culture"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 2030H",
+                                                         "title": "Context and Culture - Honors"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 2040",
+                                                         "title": "Sophomore Seminar"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 3001",
+                                                         "title": "Topics in Art"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 3005",
+                                                         "title": "Topics in Art - Humanities"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 3005H",
+                                                         "title": "Topics in Art - Humanities Honors"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 3020",
+                                                         "title": "International Summer Study Abroad in Art"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 3030",
+                                                         "title": "Undergraduate Internship in Art"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 4001",
+                                                         "title": "Topics in Art"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 4001H",
+                                                         "title": "Topics in Art - Honors"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 4005H",
+                                                         "title": "Topics in Art - Humanities Honors"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 4030",
+                                                         "title": "Video Art and the Moving Image"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 4040",
+                                                         "title": "2-D Portfolio Development"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 4050",
+                                                         "title": "Performance Art"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 4975",
+                                                         "title": "Senior Seminar in Art"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 4975W",
+                                                         "title": "Senior Seminar in Art - Writing Intensive"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 4976",
+                                                         "title": "Design - Senior Seminar"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 4976W",
+                                                         "title": "Design - Senior Seminar - Writing Intensive"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 7000",
+                                                         "title": "Graduate Art - Studio Practice and Critique"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 7001",
+                                                         "title": "Topics in Art"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 7005",
+                                                         "title": "Topics in Art - Humanities"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 7020",
+                                                         "title": "International Summer Study Abroad in Art"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 7030",
+                                                         "title": "Video Art and the Moving Image"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 7050",
+                                                         "title": "Performance Art"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 7085",
+                                                         "title": "Problems in Art"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 8000",
+                                                         "title": "Graduate Art - Advanced Studio Practice and Critique"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 8001",
+                                                         "title": "Topics in Art"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 8070",
+                                                         "title": "Graduate Art - Theory and Context"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 8090",
+                                                         "title": "MFA Thesis Exhibition Documentation"
+                                                      },
+                                                      {
+                                                         "number": "ARTGE_VS 9010",
+                                                         "title": "Graduate Studio Seminar"
+                                                      },
+                                                         {
+                                                            "number": "ARTGD_VS 1400",
+                                                            "title": "Beginning Digital Imaging"
+                                                         },
+                                                         {
+                                                            "number": "ARTGD_VS 2400",
+                                                            "title": "Advanced Digital Imaging"
+                                                         },
+                                                         {
+                                                            "number": "ARTGD_VS 2410",
+                                                            "title": "Graphic Design I"
+                                                         },
+                                                         {
+                                                            "number": "ARTGD_VS 2420",
+                                                            "title": "Graphic Design II"
+                                                         },
+                                                         {
+                                                            "number": "ARTGD_VS 2430",
+                                                            "title": "Calligraphy and Hand Lettering"
+                                                         },
+                                                         {
+                                                            "number": "ARTGD_VS 2440",
+                                                            "title": "Basic Design and Visual Communications"
+                                                         },
+                                                         {
+                                                            "number": "ARTGD_VS 3410",
+                                                            "title": "Graphic Design III"
+                                                         },
+                                                         {
+                                                            "number": "ARTGD_VS 3430",
+                                                            "title": "Advanced Calligraphy and Hand Lettering"
+                                                         },
+                                                         {
+                                                            "number": "ARTGD_VS 3440",
+                                                            "title": "Packaging Design"
+                                                         },
+                                                         {
+                                                            "number": "ARTGD_VS 3441",
+                                                            "title": "The History of Graphic Design"
+                                                         },
+                                                         {
+                                                            "number": "ARTGD_VS 3442",
+                                                            "title": "Design for Corporate Identity and Branding"
+                                                         },
+                                                         {
+                                                            "number": "ARTGD_VS 3443",
+                                                            "title": "Letterpress"
+                                                         },
+                                                         {
+                                                            "number": "ARTGD_VS 4400",
+                                                            "title": "Graphic Design IV"
+                                                         },
+                                                         {
+                                                            "number": "ARTGD_VS 4410",
+                                                            "title": "Graphic Design V"
+                                                         },
+                                                         {
+                                                            "number": "ARTGD_VS 4485",
+                                                            "title": "Problems in Graphic Design"
+                                                         },
+                                                         {
+                                                            "number": "ARTGD_VS 7400",
+                                                            "title": "Graduate Graphic Design"
+                                                         },
+                                                         {
+                                                            "number": "ARTGD_VS 7485",
+                                                            "title": "Problems in Graphic Design"
+                                                         },
+                                                         {
+                                                            "number": "ARTGD_VS 8400",
+                                                            "title": "Graduate Graphic Design II"
+                                                         },
+                                                            {
+                                                               "number": "ARH_VS 1005",
+                                                               "title": "Undergraduate Topics in Visual Studies - Art History - Humanities"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 1010",
+                                                               "title": "Introduction to Museum of Art and Archaeology, UMC"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 1020",
+                                                               "title": "Giotto and the Arena Chapel"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 1020H",
+                                                               "title": "Giotto and the Arena Chapel - Honors"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 1030",
+                                                               "title": "Early Works of Michelangelo"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 1040",
+                                                               "title": "Rembrandt"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 1105",
+                                                               "title": "Undergraduate Topics in Visual Studies - Art History - Humanities"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 1110",
+                                                               "title": "Ancient and Medieval Art"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 1110H",
+                                                               "title": "Ancient and Medieval Art - Honors"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 1110W",
+                                                               "title": "Ancient and Medieval Art - Writing Intensive"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 1120",
+                                                               "title": "Renaissance through Modern Art"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 1120H",
+                                                               "title": "Renaissance through Modern Art - Honors"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 1120W",
+                                                               "title": "Renaissance through Modern Art - Writing Intensive"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 1130",
+                                                               "title": "Introduction to the History of Art"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 1130W",
+                                                               "title": "Introduction to the History of Art - Writing Intensive"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 1230",
+                                                               "title": "Introduction to Asian Arts"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 2005",
+                                                               "title": "Topics in Visual Studies - Art History - Humanities"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 2005W",
+                                                               "title": "Topics in Visual Studies - Art History - Humanities - Writing Intensive"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 2150",
+                                                               "title": "The Art of the Book"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 2150W",
+                                                               "title": "The Art of the Book - Writing Intensive"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 2720",
+                                                               "title": "African-American Visual Culture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 2720W",
+                                                               "title": "African-American Visual Culture - Writing Intensive"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 2830",
+                                                               "title": "American Art and Architecture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 2830W",
+                                                               "title": "American Art and Architecture - Writing Intensive"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 2850",
+                                                               "title": "Introduction to Visual Culture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 2850H",
+                                                               "title": "Introduction to Visual Culture - Honors"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 2850HW",
+                                                               "title": "Introduction to Visual Culture - Honors/Writing Intensive"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 2850W",
+                                                               "title": "Introduction to Visual Culture - Writing Intensive"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 2860",
+                                                               "title": "The Lives of Objects"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 2860W",
+                                                               "title": "The Lives of Objects - Writing Intensive"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 2960",
+                                                               "title": "Special Readings in Visual Studies - Art History"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3005",
+                                                               "title": "Topics in Visual Studies - Art History"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3005H",
+                                                               "title": "Topics in Visual Studies - Art History- Humanities - Honors"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3530",
+                                                               "title": "Late Medieval Art"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3530W",
+                                                               "title": "Late Medieval Art - Writing Intensive"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3620",
+                                                               "title": "Italian Renaissance Art"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3630",
+                                                               "title": "Northern Renaissance Art"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3630W",
+                                                               "title": "Northern Renaissance Art - Writing Intensive"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3640",
+                                                               "title": "Baroque Art"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3720",
+                                                               "title": "Cities in the Western Imagination"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3730",
+                                                               "title": "Eighteenth Century European Art"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3730W",
+                                                               "title": "Eighteenth Century European Art - Writing Intensive"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3740",
+                                                               "title": "Nineteenth-Century European Art"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3740W",
+                                                               "title": "Nineteenth-Century European Art - Writing Intensive"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3750",
+                                                               "title": "Modern Art in Europe and America"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3760",
+                                                               "title": "Contemporary Art"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3780",
+                                                               "title": "Architecture in Film"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3785",
+                                                               "title": "Arts and Artists on Film"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3790",
+                                                               "title": "Indian Cinema"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3830",
+                                                               "title": "American Art and Culture, 1500-1820"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3840",
+                                                               "title": "American Art and Culture, 1820-1913"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 3850",
+                                                               "title": "American Art and Culture, 1913-Present"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4005",
+                                                               "title": "Topics in Visual Studies - Art History-Humanities"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4120",
+                                                               "title": "Gender and the Arts"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4160",
+                                                               "title": "Global Encounters in Art History"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4530",
+                                                               "title": "Romanesque Art and Architecture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4540",
+                                                               "title": "Gothic Art and Architecture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4630",
+                                                               "title": "The Renaissance Artist"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4640",
+                                                               "title": "Renaissance and Baroque Architecture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4650",
+                                                               "title": "Venetian Painting"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4660",
+                                                               "title": "Art and Ideas in the Northern Renaissance"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4710",
+                                                               "title": "The Arts of the Rococo"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4720",
+                                                               "title": "Revolution and Romanticism: Art C. 1800"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4740",
+                                                               "title": "Modern Architecture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4750",
+                                                               "title": "Contemporary World Architecture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4760",
+                                                               "title": "Modern Sculpture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4780",
+                                                               "title": "Advanced Course in Contemporary Art"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4820",
+                                                               "title": "American Material Culture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4840",
+                                                               "title": "American Architecture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4960",
+                                                               "title": "Special Readings in Visual Studies - Art History"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4970",
+                                                               "title": "Capstone: Visual Studies - Art History"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4980",
+                                                               "title": "Internship"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4996",
+                                                               "title": "Honors Proseminar I"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 4999",
+                                                               "title": "Honors Reading and Research I"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7005",
+                                                               "title": "Topics in Visual Studies - Art History"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7120",
+                                                               "title": "Gender and the Arts"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7130",
+                                                               "title": "Museum Studies"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7160",
+                                                               "title": "Global Encounters in Art History"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7170",
+                                                               "title": "Historic Preservation"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7530",
+                                                               "title": "Romanesque Art and Architecture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7540",
+                                                               "title": "Gothic Art and Architecture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7630",
+                                                               "title": "The Renaissance Artist"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7640",
+                                                               "title": "Renaissance and Baroque Architecture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7650",
+                                                               "title": "Venetian Painting"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7660",
+                                                               "title": "Art and Ideas in the Northern Renaissance"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7670",
+                                                               "title": "Baroque Figural Arts"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7710",
+                                                               "title": "The Arts of the Rococo"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7720",
+                                                               "title": "Revolution and Romanticism: Art Circa 1800"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7730",
+                                                               "title": "Realism Through Post-Impressionism"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7740",
+                                                               "title": "Modern Architecture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7750",
+                                                               "title": "Contemporary World Architecture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7760",
+                                                               "title": "Modern Sculpture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7780",
+                                                               "title": "Advanced Course in Contemporary Art"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7820",
+                                                               "title": "American Material Culture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7840",
+                                                               "title": "American Architecture"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7960",
+                                                               "title": "Special Readings in Art History or Archaeology"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 7980",
+                                                               "title": "Internship in Art History and Archaeology"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 8070",
+                                                               "title": "Master's Tutorial"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 8080",
+                                                               "title": "Readings for MA Thesis in Art History and Archaeology"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 8090",
+                                                               "title": "Master's Thesis Research and Thesis"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 8110",
+                                                               "title": "Introduction to Graduate Study"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 8120",
+                                                               "title": "Theories and Methodologies in Art History and Archaeology"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 8130",
+                                                               "title": "Museum Studies Seminar"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 8170",
+                                                               "title": "Historic Preservation Seminar"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 8520",
+                                                               "title": "Seminar in Medieval Art and Archaeology"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 8620",
+                                                               "title": "Seminar in Renaissance Art"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 8710",
+                                                               "title": "Seminar in 18th Century Art"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 8750",
+                                                               "title": "Seminar in Modern and Contemporary Art"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 8800",
+                                                               "title": "Seminar in American Art"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 9080",
+                                                               "title": "Readings for PhD Dissertation in Art History and Archaeology"
+                                                            },
+                                                            {
+                                                               "number": "ARH_VS 9090",
+                                                               "title": "Doctoral Dissertation Research in Art History"
+                                                            },
+                                                               {
+                                                                  "number": "ARTPA_VS 2500",
+                                                                  "title": "Beginning Painting"
+                                                               },
+                                                               {
+                                                                  "number": "ARTPA_VS 2510",
+                                                                  "title": "Beginning Watercolor Painting"
+                                                               },
+                                                               {
+                                                                  "number": "ARTPA_VS 3500",
+                                                                  "title": "Intermediate Painting"
+                                                               },
+                                                               {
+                                                                  "number": "ARTPA_VS 3510",
+                                                                  "title": "Intermediate Watercolor Painting"
+                                                               },
+                                                               {
+                                                                  "number": "ARTPA_VS 4500",
+                                                                  "title": "Advanced Painting: Portfolio"
+                                                               },
+                                                               {
+                                                                  "number": "ARTPA_VS 4510",
+                                                                  "title": "Advanced Watercolor Painting"
+                                                               },
+                                                               {
+                                                                  "number": "ARTPA_VS 4585",
+                                                                  "title": "Problems in Painting"
+                                                               },
+                                                               {
+                                                                  "number": "ARTPA_VS 7500",
+                                                                  "title": "Graduate Painting"
+                                                               },
+                                                               {
+                                                                  "number": "ARTPA_VS 7585",
+                                                                  "title": "Problems in Painting"
+                                                               },
+                                                               {
+                                                                  "number": "ARTPA_VS 8500",
+                                                                  "title": "Advanced Graduate Painting"
+                                                               },
+                                                               {
+                                                                  "number": "ARTPA_VS 8570",
+                                                                  "title": "Graduate Painting - Theory and Context"
+                                                               },
+                                                               {
+                                                                  "number": "ARTPA_VS 8585",
+                                                                  "title": "Problems in Painting II"
+                                                               },
+                                                                  {
+                                                                     "number": "ARTPH_VS 2600",
+                                                                     "title": "Beginning Photography"
+                                                                  },
+                                                                  {
+                                                                     "number": "ARTPH_VS 3600",
+                                                                     "title": "Intermediate Photography"
+                                                                  },
+                                                                  {
+                                                                     "number": "ARTPH_VS 4600",
+                                                                     "title": "Advanced Photography"
+                                                                  },
+                                                                  {
+                                                                     "number": "ARTPH_VS 4685",
+                                                                     "title": "Problems in Photography"
+                                                                  },
+                                                                  {
+                                                                     "number": "ARTPH_VS 7600",
+                                                                     "title": "Graduate Photography"
+                                                                  },
+                                                                  {
+                                                                     "number": "ARTPH_VS 7685",
+                                                                     "title": "Problems in Photography"
+                                                                  },
+                                                                  {
+                                                                     "number": "ARTPH_VS 8600",
+                                                                     "title": "Graduate Photography II"
+                                                                  },
+                                                                     {
+                                                                        "number": "ARTPR_VS 2700",
+                                                                        "title": "Introduction to Etching and Relief Printmaking"
+                                                                     },
+                                                                     {
+                                                                        "number": "ARTPR_VS 2730",
+                                                                        "title": "Introduction to Screen Printing"
+                                                                     },
+                                                                     {
+                                                                        "number": "ARTPR_VS 3700",
+                                                                        "title": "Intermediate Printmaking"
+                                                                     },
+                                                                     {
+                                                                        "number": "ARTPR_VS 4700",
+                                                                        "title": "Advanced Printmaking"
+                                                                     },
+                                                                     {
+                                                                        "number": "ARTPR_VS 4785",
+                                                                        "title": "Problems in Printmaking"
+                                                                     },
+                                                                     {
+                                                                        "number": "ARTPR_VS 7700",
+                                                                        "title": "Graduate Printmaking"
+                                                                     },
+                                                                     {
+                                                                        "number": "ARTPR_VS 7785",
+                                                                        "title": "Problems in Printmaking"
+                                                                     },
+                                                                     {
+                                                                        "number": "ARTPR_VS 8700",
+                                                                        "title": "Graduate Printmaking II"
+                                                                     },
+                                                                        {
+                                                                           "number": "ARTSC_VS 2800",
+                                                                           "title": "Beginning Sculpture"
+                                                                        },
+                                                                        {
+                                                                           "number": "ARTSC_VS 2810",
+                                                                           "title": "Experimental Media I"
+                                                                        },
+                                                                        {
+                                                                           "number": "ARTSC_VS 2820",
+                                                                           "title": "Beginning Welding And Casting"
+                                                                        },
+                                                                        {
+                                                                           "number": "ARTSC_VS 3800",
+                                                                           "title": "Intermediate Sculpture"
+                                                                        },
+                                                                        {
+                                                                           "number": "ARTSC_VS 4800",
+                                                                           "title": "Advanced Sculpture"
+                                                                        },
+                                                                        {
+                                                                           "number": "ARTSC_VS 4810",
+                                                                           "title": "Experimental Media III"
+                                                                        },
+                                                                        {
+                                                                           "number": "ARTSC_VS 4885",
+                                                                           "title": "Problems in Sculpture"
+                                                                        },
+                                                                        {
+                                                                           "number": "ARTSC_VS 7800",
+                                                                           "title": "Graduate Sculpture"
+                                                                        },
+                                                                        {
+                                                                           "number": "ARTSC_VS 7885",
+                                                                           "title": "Problems in Sculpture"
+                                                                        },
+                                                                        {
+                                                                           "number": "ARTSC_VS 8800",
+                                                                           "title": "Graduate Sculpture II"
+                                                                        },
+                                                                           {
+                                                                              "number": "ASTRON 1010",
+                                                                              "title": "Introduction to Astronomy"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 1020",
+                                                                              "title": "Introduction to Laboratory Astronomy"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 1200",
+                                                                              "title": "History of Astronomy"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 3010",
+                                                                              "title": "Introduction to Modern Astrophysics"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 4020",
+                                                                              "title": "Astrophysical Techniques"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 4180",
+                                                                              "title": "Solar System Science"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 4210",
+                                                                              "title": "Contributions to Science from Under-represented Groups"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 4250",
+                                                                              "title": "Stellar Astrophysics"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 4350",
+                                                                              "title": "Galactic Astronomy"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 4360",
+                                                                              "title": "Extragalactic Astronomy"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 4460",
+                                                                              "title": "Interstellar Medium"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 4550",
+                                                                              "title": "Cosmochemistry"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 4950",
+                                                                              "title": "Undergraduate Research in Astronomy"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 4960",
+                                                                              "title": "Senior Thesis in Astronomy"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 7020",
+                                                                              "title": "Astrophysical Techniques"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 7180",
+                                                                              "title": "Solar System Science"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 7210",
+                                                                              "title": "Contributions to Science from Under-represented Groups"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 7350",
+                                                                              "title": "Galactic Astronomy"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 7360",
+                                                                              "title": "Extragalactic Astronomy"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 7550",
+                                                                              "title": "Cosmochemistry"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 7750",
+                                                                              "title": "Interstellar Medium"
+                                                                           },
+                                                                           {
+                                                                              "number": "ASTRON 8550",
+                                                                              "title": "Stellar Structure and Evolution"
+                                                                           },
+                                                                              {
+                                                                                 "number": "ATHTRN 1100",
+                                                                                 "title": "Athletic Training Skills I"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 1200",
+                                                                                 "title": "Athletic Training Skills II"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 2001",
+                                                                                 "title": "Topics in Athletic Training"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 2100",
+                                                                                 "title": "Principles and Fundamentals of Athletic Training"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 2150",
+                                                                                 "title": "Athletic Training Practicum I"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 2250",
+                                                                                 "title": "Athletic Training Practicum II"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 2500",
+                                                                                 "title": "Elementary Human Anatomy"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 2550",
+                                                                                 "title": "Examination of Cadaveric Human Anatomy"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 2600",
+                                                                                 "title": "Human Physiology"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 3100",
+                                                                                 "title": "Mental Health in Athletic Training"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 3150",
+                                                                                 "title": "Athletic Training Practicum III"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 3200",
+                                                                                 "title": "Therapeutic Modalities"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 3250",
+                                                                                 "title": "Athletic Training Practicum IV"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 3300",
+                                                                                 "title": "Injury Assessment I"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 3400",
+                                                                                 "title": "Injury Assessment II"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 3500",
+                                                                                 "title": "Rehabilitation of Athletic Injuries"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 3600",
+                                                                                 "title": "Administration of Athletic Training"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 3800",
+                                                                                 "title": "General Medical Conditions"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 4150",
+                                                                                 "title": "Athletic Training Practicum V"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 4250",
+                                                                                 "title": "Athletic Training Practicum VI"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 4500",
+                                                                                 "title": "Nutrition for Athletic Performance and Rehabilitation"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 4800",
+                                                                                 "title": "Medical Diagnostics and Procedures in Athletic Training"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 4970",
+                                                                                 "title": "Seminar in Athletic Training"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 4970W",
+                                                                                 "title": "Seminar in Athletic Training - Writing Intensive"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 7110",
+                                                                                 "title": "Examination of Cadaveric Human Anatomy"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 7120",
+                                                                                 "title": "Introduction to Athletic Training Practice"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 7130",
+                                                                                 "title": "Scientific Foundations of Therapeutic Interventions"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 7210",
+                                                                                 "title": "Clinical Experience I"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 7220",
+                                                                                 "title": "Assessment and Management in Athletic Training I"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 7230",
+                                                                                 "title": "Emergency Management"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 7240",
+                                                                                 "title": "Evidence Based Practice In Health Care"
+                                                                              },
+                                                                              {
+                                                                                 "number": "ATHTRN 7340",
+                                                                                 "title": "Health and Wellness Across the Lifespan"
+                                                                              },
+                                                                                 {
+                                                                                    "number": "ATM_SC 1050",
+                                                                                    "title": "Introductory Meteorology"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 1050H",
+                                                                                    "title": "Introductory Meteorology - Honors"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 2150",
+                                                                                    "title": "Natural Hazards"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 2720",
+                                                                                    "title": "Weather Briefing"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 2792",
+                                                                                    "title": "Weather Communication"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 3000",
+                                                                                    "title": "Independent Study in Atmospheric Science"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 3600",
+                                                                                    "title": "Climates of the World"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4001",
+                                                                                    "title": "Topics in Atmospheric Science"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4110",
+                                                                                    "title": "Broadcast Meteorology I"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4310",
+                                                                                    "title": "Atmospheric Thermodynamics"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4320",
+                                                                                    "title": "Atmospheric Dynamics"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4350",
+                                                                                    "title": "Mesoscale Meteorology and Dynamics"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4400",
+                                                                                    "title": "Micrometeorology"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4510",
+                                                                                    "title": "Remote Sensing for Meteorology and Natural Resources"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4520",
+                                                                                    "title": "Environmental Biophysics"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4550",
+                                                                                    "title": "Physical Meteorology"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4590",
+                                                                                    "title": "Radar Meteorology"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4650",
+                                                                                    "title": "Long-Range Forecasting"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4710",
+                                                                                    "title": "Synoptic Meteorology I"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4720",
+                                                                                    "title": "Synoptic Meteorology II"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4720W",
+                                                                                    "title": "Synoptic Meteorology II - Writing Intensive"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4730",
+                                                                                    "title": "Advanced Forecasting Laboratory"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4800",
+                                                                                    "title": "Numerical Methods in Atmospheric Science and Natural Resources"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4949",
+                                                                                    "title": "Internship in Meteorology"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 4950",
+                                                                                    "title": "Undergraduate Research in Atmospheric Science"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 7310",
+                                                                                    "title": "Atmospheric Thermodynamics"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 7320",
+                                                                                    "title": "Atmospheric Dynamics"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 7350",
+                                                                                    "title": "Mesoscale Meteorology and Dynamics"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 7400",
+                                                                                    "title": "Micrometeorology"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 7510",
+                                                                                    "title": "Remote Sensing for Meteorology and Natural Resources"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 7520",
+                                                                                    "title": "Environmental Biophysics"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 7550",
+                                                                                    "title": "Physical Meteorology"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 7590",
+                                                                                    "title": "Radar Meteorology"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 7650",
+                                                                                    "title": "Long-Range Forecasting"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 7710",
+                                                                                    "title": "Synoptic Meteorology I"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 7720",
+                                                                                    "title": "Synoptic Meteorology II"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 7800",
+                                                                                    "title": "Numerical Methods in Atmospheric Science and Natural Resources"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 8001",
+                                                                                    "title": "Topics in Atmospheric Science"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 8085",
+                                                                                    "title": "Problems in Atmospheric Science"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 8090",
+                                                                                    "title": "Masters Research in Atmospheric Science"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 8200",
+                                                                                    "title": "Meteorological Statistics"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 8400",
+                                                                                    "title": "Atmospheric General Circulation"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 8450",
+                                                                                    "title": "Tropical Meteorology"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 8500",
+                                                                                    "title": "Radiation in the Atmosphere"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 8550",
+                                                                                    "title": "Nowcasting"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 8600",
+                                                                                    "title": "Advanced Climate Dynamics"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 9085",
+                                                                                    "title": "Problems in Atmospheric Science"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 9087",
+                                                                                    "title": "Seminar in Atmospheric Science"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 9090",
+                                                                                    "title": "Doctoral Research in Atmospheric Science"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 9300",
+                                                                                    "title": "Introduction to Chaos Theory"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 9350",
+                                                                                    "title": "Advanced Dynamic Meteorology"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 9590",
+                                                                                    "title": "Advanced Applications of Weather Radar"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 9700",
+                                                                                    "title": "Advanced Synoptic Meteorology"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 9712",
+                                                                                    "title": "Convection and Lightning"
+                                                                                 },
+                                                                                 {
+                                                                                    "number": "ATM_SC 9800",
+                                                                                    "title": "Numerical Weather Prediction"
+                                                                                 }
+                                                                              
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

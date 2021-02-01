@@ -1,402 +1,222 @@
 [
    {
-      "number": "ARCHST 1005",
-      "title": "Topics in Architectural Studies - Humanities"
+      "number": "ATM_SC 1050",
+      "title": "Introductory Meteorology"
    },
    {
-      "number": "ARCHST 1100",
-      "title": "Visual Design"
+      "number": "ATM_SC 1050H",
+      "title": "Introductory Meteorology - Honors"
    },
    {
-      "number": "ARCHST 1200",
-      "title": "Architectural Drafting and Working Drawings"
+      "number": "ATM_SC 2150",
+      "title": "Natural Hazards"
    },
    {
-      "number": "ARCHST 1600",
-      "title": "Fundamentals of Environmental Design"
+      "number": "ATM_SC 2720",
+      "title": "Weather Briefing"
    },
    {
-      "number": "ARCHST 1600W",
-      "title": "Fundamentals of Environmental Design - Writing Intensive"
+      "number": "ATM_SC 2792",
+      "title": "Weather Communication"
    },
    {
-      "number": "ARCHST 2005",
-      "title": "Topics in Architectural Studies - Humanities"
+      "number": "ATM_SC 3000",
+      "title": "Independent Study in Atmospheric Science"
    },
    {
-      "number": "ARCHST 2085",
-      "title": "Problems in Architectural Studies"
+      "number": "ATM_SC 3600",
+      "title": "Climates of the World"
    },
    {
-      "number": "ARCHST 2100",
-      "title": "Understanding Architecture and the American City"
+      "number": "ATM_SC 4001",
+      "title": "Topics in Atmospheric Science"
    },
    {
-      "number": "ARCHST 2210",
-      "title": "Understanding Visualization for Animated Films"
+      "number": "ATM_SC 4110",
+      "title": "Broadcast Meteorology I"
    },
    {
-      "number": "ARCHST 2220",
-      "title": "Introduction to CAD"
+      "number": "ATM_SC 4310",
+      "title": "Atmospheric Thermodynamics"
    },
    {
-      "number": "ARCHST 2230",
-      "title": "Design Communication I"
+      "number": "ATM_SC 4320",
+      "title": "Atmospheric Dynamics"
    },
    {
-      "number": "ARCHST 2310",
-      "title": "Building Systems"
+      "number": "ATM_SC 4350",
+      "title": "Mesoscale Meteorology and Dynamics"
    },
    {
-      "number": "ARCHST 2315",
-      "title": "Introduction to Building Systems Laboratory"
+      "number": "ATM_SC 4400",
+      "title": "Micrometeorology"
    },
    {
-      "number": "ARCHST 2316",
-      "title": "Advanced Building Systems Lab"
+      "number": "ATM_SC 4510",
+      "title": "Remote Sensing for Meteorology and Natural Resources"
    },
    {
-      "number": "ARCHST 2323",
-      "title": "Sustainable Building Design Fundamentals"
+      "number": "ATM_SC 4520",
+      "title": "Environmental Biophysics"
    },
    {
-      "number": "ARCHST 2620",
-      "title": "People, Places and Design"
+      "number": "ATM_SC 4550",
+      "title": "Physical Meteorology"
    },
    {
-      "number": "ARCHST 2811",
-      "title": "Studio I"
+      "number": "ATM_SC 4590",
+      "title": "Radar Meteorology"
    },
    {
-      "number": "ARCHST 3100",
-      "title": "Color and Light"
+      "number": "ATM_SC 4650",
+      "title": "Long-Range Forecasting"
    },
    {
-      "number": "ARCHST 3182",
-      "title": "Studio II"
+      "number": "ATM_SC 4710",
+      "title": "Synoptic Meteorology I"
    },
    {
-      "number": "ARCHST 3230",
-      "title": "Advanced Design Communication Using BIM"
+      "number": "ATM_SC 4720",
+      "title": "Synoptic Meteorology II"
    },
    {
-      "number": "ARCHST 3600",
-      "title": "Environmental Analysis"
+      "number": "ATM_SC 4720W",
+      "title": "Synoptic Meteorology II - Writing Intensive"
    },
    {
-      "number": "ARCHST 3600W",
-      "title": "Environmental Analysis - Writing Intensive"
+      "number": "ATM_SC 4730",
+      "title": "Advanced Forecasting Laboratory"
    },
    {
-      "number": "ARCHST 3860",
-      "title": "Human Factors Programming"
+      "number": "ATM_SC 4800",
+      "title": "Numerical Methods in Atmospheric Science and Natural Resources"
    },
    {
-      "number": "ARCHST 3860W",
-      "title": "Human Factors Programming - Writing Intensive"
+      "number": "ATM_SC 4949",
+      "title": "Internship in Meteorology"
    },
    {
-      "number": "ARCHST 4001",
-      "title": "Topics in Architectural Studies"
+      "number": "ATM_SC 4950",
+      "title": "Undergraduate Research in Atmospheric Science"
    },
    {
-      "number": "ARCHST 4085",
-      "title": "Problems in Architectural Studies"
+      "number": "ATM_SC 7310",
+      "title": "Atmospheric Thermodynamics"
    },
    {
-      "number": "ARCHST 4085W",
-      "title": "Problems in Architectural Studies - Writing Intensive"
+      "number": "ATM_SC 7320",
+      "title": "Atmospheric Dynamics"
    },
    {
-      "number": "ARCHST 4320",
-      "title": "Materials, Methods and Products"
+      "number": "ATM_SC 7350",
+      "title": "Mesoscale Meteorology and Dynamics"
    },
    {
-      "number": "ARCHST 4323",
-      "title": "Sustainable Technologies and Systems"
+      "number": "ATM_SC 7400",
+      "title": "Micrometeorology"
    },
    {
-      "number": "ARCHST 4325",
-      "title": "Energy-Efficient Building Design"
+      "number": "ATM_SC 7510",
+      "title": "Remote Sensing for Meteorology and Natural Resources"
    },
    {
-      "number": "ARCHST 4333",
-      "title": "Compliance and Specifications"
+      "number": "ATM_SC 7520",
+      "title": "Environmental Biophysics"
    },
    {
-      "number": "ARCHST 4355",
-      "title": "Recent Trends in Digital Media I"
+      "number": "ATM_SC 7550",
+      "title": "Physical Meteorology"
    },
    {
-      "number": "ARCHST 4411",
-      "title": "Study Abroad in Architectural History"
+      "number": "ATM_SC 7590",
+      "title": "Radar Meteorology"
    },
    {
-      "number": "ARCHST 4430",
-      "title": "Guiding Design with Historic Preservation"
+      "number": "ATM_SC 7650",
+      "title": "Long-Range Forecasting"
    },
    {
-      "number": "ARCHST 4435",
-      "title": "History of the Designed Environment to 1750"
+      "number": "ATM_SC 7710",
+      "title": "Synoptic Meteorology I"
    },
    {
-      "number": "ARCHST 4440",
-      "title": "Design Precedents: Architecture, Interiors and Furniture since the Industrial Revolution"
+      "number": "ATM_SC 7720",
+      "title": "Synoptic Meteorology II"
    },
    {
-      "number": "ARCHST 4555",
-      "title": "Recent Trends"
+      "number": "ATM_SC 7800",
+      "title": "Numerical Methods in Atmospheric Science and Natural Resources"
    },
    {
-      "number": "ARCHST 4630",
-      "title": "Shaping Human Settlements"
+      "number": "ATM_SC 8001",
+      "title": "Topics in Atmospheric Science"
    },
    {
-      "number": "ARCHST 4700",
-      "title": "Place-Making in Community Design"
+      "number": "ATM_SC 8085",
+      "title": "Problems in Atmospheric Science"
    },
    {
-      "number": "ARCHST 4710",
-      "title": "Design Business Practices"
+      "number": "ATM_SC 8090",
+      "title": "Masters Research in Atmospheric Science"
    },
    {
-      "number": "ARCHST 4760",
-      "title": "Healthcare Facilities Design"
+      "number": "ATM_SC 8200",
+      "title": "Meteorological Statistics"
    },
    {
-      "number": "ARCHST 4813",
-      "title": "Interiors Studio III"
+      "number": "ATM_SC 8400",
+      "title": "Atmospheric General Circulation"
    },
    {
-      "number": "ARCHST 4814",
-      "title": "Interiors Studio IV"
+      "number": "ATM_SC 8450",
+      "title": "Tropical Meteorology"
    },
    {
-      "number": "ARCHST 4815",
-      "title": "Construction Documents and Building Information Modeling Studio"
+      "number": "ATM_SC 8500",
+      "title": "Radiation in the Atmosphere"
    },
    {
-      "number": "ARCHST 4823",
-      "title": "Architectural Studio III"
+      "number": "ATM_SC 8550",
+      "title": "Nowcasting"
    },
    {
-      "number": "ARCHST 4824",
-      "title": "Architectural Studio IV"
+      "number": "ATM_SC 8600",
+      "title": "Advanced Climate Dynamics"
    },
    {
-      "number": "ARCHST 4860",
-      "title": "Programming for Thesis Design Studio"
+      "number": "ATM_SC 9085",
+      "title": "Problems in Atmospheric Science"
    },
    {
-      "number": "ARCHST 4940",
-      "title": "Internship in Environmental Design"
+      "number": "ATM_SC 9087",
+      "title": "Seminar in Atmospheric Science"
    },
    {
-      "number": "ARCHST 4960",
-      "title": "Readings in Architectural Studio"
+      "number": "ATM_SC 9090",
+      "title": "Doctoral Research in Atmospheric Science"
    },
    {
-      "number": "ARCHST 4961",
-      "title": "Design Research and Service Design"
+      "number": "ATM_SC 9300",
+      "title": "Introduction to Chaos Theory"
    },
    {
-      "number": "ARCHST 4962",
-      "title": "Information Visualization and Visual Analytics"
+      "number": "ATM_SC 9350",
+      "title": "Advanced Dynamic Meteorology"
    },
    {
-      "number": "ARCHST 4963",
-      "title": "Human Factors Research for Design"
+      "number": "ATM_SC 9590",
+      "title": "Advanced Applications of Weather Radar"
    },
    {
-      "number": "ARCHST 4964",
-      "title": "Design Thinking and Creative Process"
+      "number": "ATM_SC 9700",
+      "title": "Advanced Synoptic Meteorology"
    },
    {
-      "number": "ARCHST 4990",
-      "title": "Thesis Design Studio"
+      "number": "ATM_SC 9712",
+      "title": "Convection and Lightning"
    },
    {
-      "number": "ARCHST 7001",
-      "title": "Topics in Environmental Design"
-   },
-   {
-      "number": "ARCHST 7085",
-      "title": "Problems in Environmental Design"
-   },
-   {
-      "number": "ARCHST 7230",
-      "title": "Computer Graphic Application for Design I"
-   },
-   {
-      "number": "ARCHST 7232",
-      "title": "Graduate Design Communication I"
-   },
-   {
-      "number": "ARCHST 7310",
-      "title": "Graduate Building Systems"
-   },
-   {
-      "number": "ARCHST 7315",
-      "title": "Graduate Systems Laboratory"
-   },
-   {
-      "number": "ARCHST 7320",
-      "title": "Materials, Methods and Products"
-   },
-   {
-      "number": "ARCHST 7323",
-      "title": "Sustainable Technologies and Systems"
-   },
-   {
-      "number": "ARCHST 7325",
-      "title": "Energy-Efficient Building Design"
-   },
-   {
-      "number": "ARCHST 7333",
-      "title": "Compliance and Specifications"
-   },
-   {
-      "number": "ARCHST 7355",
-      "title": "Recent Trends in Digital Media I"
-   },
-   {
-      "number": "ARCHST 7430",
-      "title": "Guiding Design with Historic Preservation"
-   },
-   {
-      "number": "ARCHST 7440",
-      "title": "Design Precedents: Architecture, Interiors and Furniture since the Industrial Revolution"
-   },
-   {
-      "number": "ARCHST 7555",
-      "title": "Recent Trends in Environmental Design"
-   },
-   {
-      "number": "ARCHST 7620",
-      "title": "Environment and Behavior"
-   },
-   {
-      "number": "ARCHST 7630",
-      "title": "Shaping Human Settlements"
-   },
-   {
-      "number": "ARCHST 7650",
-      "title": "Psychosocial Function and Older Adults"
-   },
-   {
-      "number": "ARCHST 7700",
-      "title": "Place-Making in Community Design"
-   },
-   {
-      "number": "ARCHST 7840",
-      "title": "Graduate Design Studio"
-   },
-   {
-      "number": "ARCHST 7940",
-      "title": "Internship in Environmental Design"
-   },
-   {
-      "number": "ARCHST 7960",
-      "title": "Readings in Environmental Design"
-   },
-   {
-      "number": "ARCHST 7961",
-      "title": "Design Research and Service Design"
-   },
-   {
-      "number": "ARCHST 7962",
-      "title": "Information Visualization and Visual Analytics"
-   },
-   {
-      "number": "ARCHST 7963",
-      "title": "Human Factors Research for Design"
-   },
-   {
-      "number": "ARCHST 7964",
-      "title": "Design Thinking and Creative Process"
-   },
-   {
-      "number": "ARCHST 8001",
-      "title": "Topics in Environmental Design"
-   },
-   {
-      "number": "ARCHST 8050",
-      "title": "Research Methods in Environmental Design"
-   },
-   {
-      "number": "ARCHST 8085",
-      "title": "Problems in Environmental Design"
-   },
-   {
-      "number": "ARCHST 8090",
-      "title": "Master's Research in Environmental Design"
-   },
-   {
-      "number": "ARCHST 8230",
-      "title": "Computer Graphic Application for Design II"
-   },
-   {
-      "number": "ARCHST 8600",
-      "title": "Graduate Environmental Analysis"
-   },
-   {
-      "number": "ARCHST 8630",
-      "title": "Philosophy of Environmental Design Research"
-   },
-   {
-      "number": "ARCHST 8633",
-      "title": "Theoretical Perspectives of Design Computing"
-   },
-   {
-      "number": "ARCHST 8820",
-      "title": "Graduate Digital Design Studio"
-   },
-   {
-      "number": "ARCHST 8830",
-      "title": "Digital Design Studio II"
-   },
-   {
-      "number": "ARCHST 8840",
-      "title": "Graduate Design Studio"
-   },
-   {
-      "number": "ARCHST 8850",
-      "title": "Seminar in Environmental Design"
-   },
-   {
-      "number": "ARCHST 8887",
-      "title": "Environment and Behavior II"
-   },
-   {
-      "number": "ARCHST 8950",
-      "title": "Qualitative Research Methods"
-   },
-   {
-      "number": "ARCHST 8960",
-      "title": "Readings in Environmental Design"
-   },
-   {
-      "number": "ARCHST 8990",
-      "title": "Thesis Project Proposal"
-   },
-   {
-      "number": "ARCHST 9085",
-      "title": "Problems in Environmental Design"
-   },
-   {
-      "number": "ARCHST 9090",
-      "title": "Doctoral Research in Environmental Design"
-   },
-   {
-      "number": "ARCHST 9555",
-      "title": "Recent Trends in Environmental Design"
-   },
-   {
-      "number": "ARCHST 9990",
-      "title": "Dissertation Proposal"
-   },
-   {
-      "number": "ARCHST 9995",
-      "title": "Pilot Project for Dissertation"
+      "number": "ATM_SC 9800",
+      "title": "Numerical Weather Prediction"
    }
 ]
