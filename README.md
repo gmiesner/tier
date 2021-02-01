@@ -1,6 +1,6 @@
 # MSTier: Tier rank MS&T classes
 
-A clone of kat's [project] (https://github.com/katmh/mitier), altered to be for missouri university of science and technology classes! 
+A clone of kat's [project](https://github.com/katmh/mitier), altered to be for missouri university of science and technology classes! 
 
 ## Installation
 
