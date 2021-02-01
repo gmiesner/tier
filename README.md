@@ -1,8 +1,6 @@
-# MITier: Tier rank MIT classes
+# MSTier: Tier rank MS&T classes
 
-Inspired by [Confession #46376](https://www.facebook.com/beaverconfessions/posts/4134086619993687), which may have been inspired by this [Admissions blog post](https://mitadmissions.org/blogs/entry/tier-listing-my-classes/), which may have been inspired by who knows what.
-
-Colors are from [Courseroad](https://github.com/sipb/courseroad2/blob/master/src/assets/css/coursecolors.css). Course data is processed from the subject listing, currently just IAP/Spring 2021 (so old courses may not be included yet). See [`/data` README](https://github.com/katmh/mitier/tree/main/data) for slightly more information.
+A clone of kat's [project] (https://github.com/katmh/mitier), altered to be for missouri university of science and technology classes! 
 
 ## Installation
 
