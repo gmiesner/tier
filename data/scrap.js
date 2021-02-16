@@ -11,7 +11,7 @@ const browser = await puppeteer.launch();
 			let stri = document.querySelector('#courseinventorycontainer').innerText.split("\n");
 
 			let n = [];
-			for (i in stri){ if (stri[i].startsWith('ATM_SC')){ n.push(stri[i]) }}
+			for (i in stri){ if (stri[i].startsWith('BUS_AD')){ n.push(stri[i]) }}
 
 
 
@@ -45,4 +45,4 @@ browser.close()
 
 }
 
-scrape("http://catalog.missouri.edu/courseofferings/atm_sc/")
+scrape("http://catalog.missouri.edu/courseofferings/bus_ad/")

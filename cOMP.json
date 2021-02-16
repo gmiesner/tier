@@ -1,222 +1,58 @@
 [
    {
-      "number": "ATM_SC 1050",
-      "title": "Introductory Meteorology"
+      "number": "BUS_AD _0501",
+      "title": "College of Business Study Abroad Pre-departure required on-Campus Information Session"
    },
    {
-      "number": "ATM_SC 1050H",
-      "title": "Introductory Meteorology - Honors"
+      "number": "BUS_AD 1500",
+      "title": "Foundations of Business and Professional Development Principles"
    },
    {
-      "number": "ATM_SC 2150",
-      "title": "Natural Hazards"
+      "number": "BUS_AD 2500",
+      "title": "Intermediate Professional Development Principles"
    },
    {
-      "number": "ATM_SC 2720",
-      "title": "Weather Briefing"
+      "number": "BUS_AD 3500",
+      "title": "Advanced Professional Development Principles"
    },
    {
-      "number": "ATM_SC 2792",
-      "title": "Weather Communication"
+      "number": "BUS_AD 4500",
+      "title": "Professional Development Program - Internship"
    },
    {
-      "number": "ATM_SC 3000",
-      "title": "Independent Study in Atmospheric Science"
+      "number": "BUS_AD 7050",
+      "title": "MBA Communications Practice"
    },
    {
-      "number": "ATM_SC 3600",
-      "title": "Climates of the World"
+      "number": "BUS_AD 7340",
+      "title": "Business Ethics and Leadership"
    },
    {
-      "number": "ATM_SC 4001",
-      "title": "Topics in Atmospheric Science"
+      "number": "BUS_AD 8001",
+      "title": "Topics in Business Administration"
    },
    {
-      "number": "ATM_SC 4110",
-      "title": "Broadcast Meteorology I"
+      "number": "BUS_AD 8010",
+      "title": "MBA Seminar"
    },
    {
-      "number": "ATM_SC 4310",
-      "title": "Atmospheric Thermodynamics"
+      "number": "BUS_AD 8020",
+      "title": "MBA Seminar"
    },
    {
-      "number": "ATM_SC 4320",
-      "title": "Atmospheric Dynamics"
+      "number": "BUS_AD 8030",
+      "title": "MBA Seminar"
    },
    {
-      "number": "ATM_SC 4350",
-      "title": "Mesoscale Meteorology and Dynamics"
+      "number": "BUS_AD 8500",
+      "title": "Business Problem Analysis: Field Project"
    },
    {
-      "number": "ATM_SC 4400",
-      "title": "Micrometeorology"
+      "number": "BUS_AD 8600",
+      "title": "Business Consulting"
    },
    {
-      "number": "ATM_SC 4510",
-      "title": "Remote Sensing for Meteorology and Natural Resources"
-   },
-   {
-      "number": "ATM_SC 4520",
-      "title": "Environmental Biophysics"
-   },
-   {
-      "number": "ATM_SC 4550",
-      "title": "Physical Meteorology"
-   },
-   {
-      "number": "ATM_SC 4590",
-      "title": "Radar Meteorology"
-   },
-   {
-      "number": "ATM_SC 4650",
-      "title": "Long-Range Forecasting"
-   },
-   {
-      "number": "ATM_SC 4710",
-      "title": "Synoptic Meteorology I"
-   },
-   {
-      "number": "ATM_SC 4720",
-      "title": "Synoptic Meteorology II"
-   },
-   {
-      "number": "ATM_SC 4720W",
-      "title": "Synoptic Meteorology II - Writing Intensive"
-   },
-   {
-      "number": "ATM_SC 4730",
-      "title": "Advanced Forecasting Laboratory"
-   },
-   {
-      "number": "ATM_SC 4800",
-      "title": "Numerical Methods in Atmospheric Science and Natural Resources"
-   },
-   {
-      "number": "ATM_SC 4949",
-      "title": "Internship in Meteorology"
-   },
-   {
-      "number": "ATM_SC 4950",
-      "title": "Undergraduate Research in Atmospheric Science"
-   },
-   {
-      "number": "ATM_SC 7310",
-      "title": "Atmospheric Thermodynamics"
-   },
-   {
-      "number": "ATM_SC 7320",
-      "title": "Atmospheric Dynamics"
-   },
-   {
-      "number": "ATM_SC 7350",
-      "title": "Mesoscale Meteorology and Dynamics"
-   },
-   {
-      "number": "ATM_SC 7400",
-      "title": "Micrometeorology"
-   },
-   {
-      "number": "ATM_SC 7510",
-      "title": "Remote Sensing for Meteorology and Natural Resources"
-   },
-   {
-      "number": "ATM_SC 7520",
-      "title": "Environmental Biophysics"
-   },
-   {
-      "number": "ATM_SC 7550",
-      "title": "Physical Meteorology"
-   },
-   {
-      "number": "ATM_SC 7590",
-      "title": "Radar Meteorology"
-   },
-   {
-      "number": "ATM_SC 7650",
-      "title": "Long-Range Forecasting"
-   },
-   {
-      "number": "ATM_SC 7710",
-      "title": "Synoptic Meteorology I"
-   },
-   {
-      "number": "ATM_SC 7720",
-      "title": "Synoptic Meteorology II"
-   },
-   {
-      "number": "ATM_SC 7800",
-      "title": "Numerical Methods in Atmospheric Science and Natural Resources"
-   },
-   {
-      "number": "ATM_SC 8001",
-      "title": "Topics in Atmospheric Science"
-   },
-   {
-      "number": "ATM_SC 8085",
-      "title": "Problems in Atmospheric Science"
-   },
-   {
-      "number": "ATM_SC 8090",
-      "title": "Masters Research in Atmospheric Science"
-   },
-   {
-      "number": "ATM_SC 8200",
-      "title": "Meteorological Statistics"
-   },
-   {
-      "number": "ATM_SC 8400",
-      "title": "Atmospheric General Circulation"
-   },
-   {
-      "number": "ATM_SC 8450",
-      "title": "Tropical Meteorology"
-   },
-   {
-      "number": "ATM_SC 8500",
-      "title": "Radiation in the Atmosphere"
-   },
-   {
-      "number": "ATM_SC 8550",
-      "title": "Nowcasting"
-   },
-   {
-      "number": "ATM_SC 8600",
-      "title": "Advanced Climate Dynamics"
-   },
-   {
-      "number": "ATM_SC 9085",
-      "title": "Problems in Atmospheric Science"
-   },
-   {
-      "number": "ATM_SC 9087",
-      "title": "Seminar in Atmospheric Science"
-   },
-   {
-      "number": "ATM_SC 9090",
-      "title": "Doctoral Research in Atmospheric Science"
-   },
-   {
-      "number": "ATM_SC 9300",
-      "title": "Introduction to Chaos Theory"
-   },
-   {
-      "number": "ATM_SC 9350",
-      "title": "Advanced Dynamic Meteorology"
-   },
-   {
-      "number": "ATM_SC 9590",
-      "title": "Advanced Applications of Weather Radar"
-   },
-   {
-      "number": "ATM_SC 9700",
-      "title": "Advanced Synoptic Meteorology"
-   },
-   {
-      "number": "ATM_SC 9712",
-      "title": "Convection and Lightning"
-   },
-   {
-      "number": "ATM_SC 9800",
-      "title": "Numerical Weather Prediction"
+      "number": "BUS_AD 8730",
+      "title": "International Study Abroad"
    }
 ]
