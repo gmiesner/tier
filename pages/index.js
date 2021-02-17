@@ -75,7 +75,7 @@ const Index = () => {
     description: `All in the title`,
     url: `https://mitier.vercel.app`,
     siteName: `MSTier`,
-    image: `https://mitier.vercel.app/screenshot.jpg`,
+    image: `screenshot.jpg`,
     imageAlt: `Example tier list of MIT classes`,
   };
   return (
