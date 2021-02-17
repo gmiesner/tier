@@ -10665,8 +10665,576 @@
                                                                                                                                     {
                                                                                                                                        "number": "Credit",
                                                                                                                                        "title": "Hours: 3"
-                                                                                                                                    }
-                                                                                                                                 
+                                                                                                                                    },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 4001",
+                                                                                                                                          "title": "Topic in Data Science and Analytics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 4085",
+                                                                                                                                          "title": "Problems in Data Science and Analytics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "Directed",
+                                                                                                                                          "title": "study on a topic in data science and analytics."
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 4087",
+                                                                                                                                          "title": "Seminar in Data Science and Analytics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "Directed",
+                                                                                                                                          "title": "study on a topic in data science and analytics."
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 7001",
+                                                                                                                                          "title": "Topics in Data Science and Analytics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 7002",
+                                                                                                                                          "title": "Python Programming Boot Camp"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 7003",
+                                                                                                                                          "title": "Database Basics and SQL Boot Camp"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 7004",
+                                                                                                                                          "title": "R Statistical Programming Boot Camp"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 7005",
+                                                                                                                                          "title": "Introduction to Statistics for Data Analytics Boot Camp"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 7010",
+                                                                                                                                          "title": "Introduction to Data Analytics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 7011",
+                                                                                                                                          "title": "Introduction to Data Science"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 7020",
+                                                                                                                                          "title": "Statistical and Mathematical Foundations for Data Analytics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 7030",
+                                                                                                                                          "title": "Database and Analytics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 7040",
+                                                                                                                                          "title": "Big Data Visualization"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 7263",
+                                                                                                                                          "title": "Digital Strategy II"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8000",
+                                                                                                                                          "title": "Data and Information Ethics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8001",
+                                                                                                                                          "title": "Advanced Topics in Data Science and Analytics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8010",
+                                                                                                                                          "title": "Data Analytics from Applied Machine Learning"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8020",
+                                                                                                                                          "title": "Big Data Security"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8080",
+                                                                                                                                          "title": "Big Data Analysis Case Study"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8085",
+                                                                                                                                          "title": "Problems in Data Science and Analytics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "Directed",
+                                                                                                                                          "title": "study on a topic in data science and analytics. Graded on A-F basis only."
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8090",
+                                                                                                                                          "title": "Big Data Capstone"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8110",
+                                                                                                                                          "title": "Genomics Analytics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8120",
+                                                                                                                                          "title": "Multi-Omics Analytics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8130",
+                                                                                                                                          "title": "Data Science for Health Care"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8140",
+                                                                                                                                          "title": "Advanced Methods in Health Data Science"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8150",
+                                                                                                                                          "title": "Precision Medicine Analytics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8160",
+                                                                                                                                          "title": "Population Health Analytics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8220",
+                                                                                                                                          "title": "Communication Network Analytics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8230",
+                                                                                                                                          "title": "Streaming Social Media Data Management and Analytics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8310",
+                                                                                                                                          "title": "Advanced Visualization I"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8320",
+                                                                                                                                          "title": "Advanced Visualization II"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8410",
+                                                                                                                                          "title": "Data Mining and Information Retrieval"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8420",
+                                                                                                                                          "title": "Cloud Computing for Data Analytics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8430",
+                                                                                                                                          "title": "Parallel Computing for Data Analytics"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8510",
+                                                                                                                                          "title": "Geospatial Data Engineering"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8520",
+                                                                                                                                          "title": "Spatial and Geostatistical Analysis"
+                                                                                                                                       },
+                                                                                                                                       {
+                                                                                                                                          "number": "DATA_SCI 8530",
+                                                                                                                                          "title": "Remote Sensing Data Analytics"
+                                                                                                                                       },
+                                                                                                                                          {
+                                                                                                                                             "number": "DERM 6047",
+                                                                                                                                             "title": "SCC Dermatology Elective"
+                                                                                                                                          },
+                                                                                                                                          {
+                                                                                                                                             "number": "DERM 6233",
+                                                                                                                                             "title": "ABS Dermatology Research"
+                                                                                                                                          },
+                                                                                                                                          {
+                                                                                                                                             "number": "DERM 6450",
+                                                                                                                                             "title": "Dermatology I"
+                                                                                                                                          },
+                                                                                                                                          {
+                                                                                                                                             "number": "DERM 6750",
+                                                                                                                                             "title": "Dermatology I - Rural"
+                                                                                                                                          },
+                                                                                                                                          {
+                                                                                                                                             "number": "DERM 6856",
+                                                                                                                                             "title": "Dermatology II"
+                                                                                                                                          },
+                                                                                                                                          {
+                                                                                                                                             "number": "DERM 6901",
+                                                                                                                                             "title": "SCC Dermatology 2-week"
+                                                                                                                                          },
+                                                                                                                                          {
+                                                                                                                                             "number": "DERM 6910",
+                                                                                                                                             "title": "Clinical Dermatology Elective"
+                                                                                                                                          },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 1000",
+                                                                                                                                                "title": "Introduction to Diagnostic Medical Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 3212",
+                                                                                                                                                "title": "Sectional Anatomy"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 3309",
+                                                                                                                                                "title": "Normal Ultrasound Clinical"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 3313",
+                                                                                                                                                "title": "Ultrasound Physics"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 3315",
+                                                                                                                                                "title": "Ultrasound Instrumentation"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 3322",
+                                                                                                                                                "title": "Superficial Organs Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4001",
+                                                                                                                                                "title": "Topics in Diagnostic Medical Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4001W",
+                                                                                                                                                "title": "Topics in Diagnostic Medical Ultrasound - Writing Intensive"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4085",
+                                                                                                                                                "title": "Problems in Diagnostic Medical Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4085W",
+                                                                                                                                                "title": "Problems in Diagnostic Medical Ultrasound - Writing Intensive"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4200",
+                                                                                                                                                "title": "Principles of Diagnostic Medical Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4234",
+                                                                                                                                                "title": "Clinical Pathophysiology"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4234W",
+                                                                                                                                                "title": "Clinical Pathophysiology - Writing Intensive"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4311",
+                                                                                                                                                "title": "Pathological Images of Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4314",
+                                                                                                                                                "title": "Abdominal Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4318",
+                                                                                                                                                "title": "Gynecology Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4320",
+                                                                                                                                                "title": "Obstetrics Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4325",
+                                                                                                                                                "title": "Ultrasound Clinical Pharmacology and Contrast Agents"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4326",
+                                                                                                                                                "title": "Vascular Ultrasound Physics, Instrumentation and Hemodynamics"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4330",
+                                                                                                                                                "title": "Vascular Ultrasound Lab"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4332",
+                                                                                                                                                "title": "Vascular Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4342",
+                                                                                                                                                "title": "Adult Cardiac Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4941",
+                                                                                                                                                "title": "Ultrasound Clinical I"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4943",
+                                                                                                                                                "title": "Ultrasound Clinical III"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4944",
+                                                                                                                                                "title": "Vascular Ultrasound Clinical IV"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4945",
+                                                                                                                                                "title": "Cardiac Ultrasound Clinical V"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4946",
+                                                                                                                                                "title": "Cardiac Ultrasound Clinical VI"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 4993",
+                                                                                                                                                "title": "Ultrasound Clinical II"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7200",
+                                                                                                                                                "title": "Diagnostic Medical Ultrasound Principles and Patient Care"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7234",
+                                                                                                                                                "title": "Clinical Pathophysiology"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7309",
+                                                                                                                                                "title": "Normal Ultrasound Clinical"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7311",
+                                                                                                                                                "title": "Pathological Images Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7312",
+                                                                                                                                                "title": "Sectional Anatomy"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7313",
+                                                                                                                                                "title": "Ultrasound Physics"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7314",
+                                                                                                                                                "title": "Abdominal Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7315",
+                                                                                                                                                "title": "Ultrasound Instrumentation"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7318",
+                                                                                                                                                "title": "Gynecology Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7320",
+                                                                                                                                                "title": "Obstetrics Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7322",
+                                                                                                                                                "title": "Superficial Organs Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7325",
+                                                                                                                                                "title": "Ultrasound Clinical Pharmacology and Contrast Agents"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7326",
+                                                                                                                                                "title": "Vascular Ultrasound Physics, Instrumentation and Hemodynamics"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7330",
+                                                                                                                                                "title": "Vascular Ultrasound Lab"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7332",
+                                                                                                                                                "title": "Vascular Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7338",
+                                                                                                                                                "title": "Cardiac Ultrasound, Principles and Hemodynamics"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7342",
+                                                                                                                                                "title": "Adult Cardiac Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7941",
+                                                                                                                                                "title": "Ultrasound Clinical I"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7943",
+                                                                                                                                                "title": "Ultrasound Clinical III"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7944",
+                                                                                                                                                "title": "Vascular Ultrasound Clinical IV"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7945",
+                                                                                                                                                "title": "Cardiac Ultrasound Clinical V"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7946",
+                                                                                                                                                "title": "Cardiac Ultrasound Clinical VI"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 7993",
+                                                                                                                                                "title": "Ultrasound Clinical II"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 8001",
+                                                                                                                                                "title": "Topics in Diagnostic Medical Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 8050",
+                                                                                                                                                "title": "Research in Diagnostic Medical Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 8085",
+                                                                                                                                                "title": "Problems in Diagnostic Medical Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 8346",
+                                                                                                                                                "title": "Pediatric Cardiac Ultrasound"
+                                                                                                                                             },
+                                                                                                                                             {
+                                                                                                                                                "number": "DMU 8947",
+                                                                                                                                                "title": "Applied Clinical Research & Practicum"
+                                                                                                                                             },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 1800",
+                                                                                                                                                   "title": "Introduction to Film Studies"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 1880",
+                                                                                                                                                   "title": "Introduction to Digital Media Production"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 1880H",
+                                                                                                                                                   "title": "Introduction to Digital Media Production - Honors"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 2001",
+                                                                                                                                                   "title": "Topics in Digital Storytelling"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 2005",
+                                                                                                                                                   "title": "Topics in Digital Storytelling"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 2005H",
+                                                                                                                                                   "title": "Topics in Digital Storytelling - Honors"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 2810",
+                                                                                                                                                   "title": "Story Development"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 2820",
+                                                                                                                                                   "title": "Immersive Storytelling"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 2830",
+                                                                                                                                                   "title": "Video Art I"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 2860",
+                                                                                                                                                   "title": "Film Themes and Genres"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 2880",
+                                                                                                                                                   "title": "Digital Storytelling Production I"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 2885",
+                                                                                                                                                   "title": "Digital Storytelling Animation Production I"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 3001",
+                                                                                                                                                   "title": "Topics in Digital Storytelling"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 3005",
+                                                                                                                                                   "title": "Topics in Digital Storytelling"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 3005W",
+                                                                                                                                                   "title": "Topics in Digital Storytelling"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 3510",
+                                                                                                                                                   "title": "Think Global: Fundamentals of Globalization and Digital Technology"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 3510H",
+                                                                                                                                                   "title": "Think Global: Fundamentals of Globalization and Digital Technologies - Honors"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 3510HW",
+                                                                                                                                                   "title": "Think Global: Fundamentals of Globalization and Digital Technologies - Honors/Writing Intensive"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 3510W",
+                                                                                                                                                   "title": "Think Global: Fundamentals of Globalization and Digital Technology - Writing Intensive"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 3855",
+                                                                                                                                                   "title": "Documentary Film"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 3860",
+                                                                                                                                                   "title": "Special Themes in Digital Storytelling"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 3880",
+                                                                                                                                                   "title": "Writing and Theory for Digital Media"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 3880W",
+                                                                                                                                                   "title": "Writing and Theory for Digital Media - Writing Intensive"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 3885",
+                                                                                                                                                   "title": "Audio Storytelling"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 3885W",
+                                                                                                                                                   "title": "Audio Storytelling - Writing Intensive"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 4005",
+                                                                                                                                                   "title": "Topics in Digital Storytelling"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 4005W",
+                                                                                                                                                   "title": "Topics in Digital Storytelling - Humanities - Writing Intensive"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 4805",
+                                                                                                                                                   "title": "Case Studies in an Inter/Multicultural World"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 4810",
+                                                                                                                                                   "title": "Film Theory"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 4830",
+                                                                                                                                                   "title": "Video Art II"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 4840",
+                                                                                                                                                   "title": "Culture and Media"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 4880",
+                                                                                                                                                   "title": "Digital Storytelling Production II"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 4885",
+                                                                                                                                                   "title": "Digital Storytelling Animation Production II"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 4930",
+                                                                                                                                                   "title": "Digital Storytelling Practicum"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 4940",
+                                                                                                                                                   "title": "Digital Storytelling Internship"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 4955",
+                                                                                                                                                   "title": "Independent Research in Digital Storytelling"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "Development",
+                                                                                                                                                   "title": "of a carefully considered research project under close supervision of a faculty member. Open to undergraduate students only. Graded on A-F basis only."
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                   "number": "DST_VS 4970",
+                                                                                                                                                   "title": "Digital Storytelling Capstone"
+                                                                                                                                                }
+                                                                                                                                             
+
+
+
+
 
 
 
