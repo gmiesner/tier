@@ -11,7 +11,7 @@ const browser = await puppeteer.launch();
 			let stri = document.querySelector('#courseinventorycontainer').innerText.split("\n");
 
 			let n = [];
-			for (i in stri){ if (stri[i].startsWith('D')){ n.push(stri[i]) }}
+			for (i in stri){ if (stri[i].startsWith('E')){ n.push(stri[i]) }}
 
 
 
@@ -45,4 +45,4 @@ browser.close()
 
 }
 
-scrape("http://catalog.missouri.edu/courseofferings/dst_vs/")
+scrape("http://catalog.missouri.edu/courseofferings/env_st/")
