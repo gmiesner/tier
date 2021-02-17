@@ -1,58 +1,290 @@
 [
    {
-      "number": "BUS_AD _0501",
-      "title": "College of Business Study Abroad Pre-departure required on-Campus Information Session"
+      "number": "CNST_DEM 2004",
+      "title": "Topics in Constitutional Democracy - Social Science"
    },
    {
-      "number": "BUS_AD 1500",
-      "title": "Foundations of Business and Professional Development Principles"
+      "number": "Credit",
+      "title": "Hour: 1-6"
    },
    {
-      "number": "BUS_AD 2500",
-      "title": "Intermediate Professional Development Principles"
+      "number": "CNST_DEM 2100",
+      "title": "The Revolutionary Transformation of Early America"
    },
    {
-      "number": "BUS_AD 3500",
-      "title": "Advanced Professional Development Principles"
+      "number": "Credit",
+      "title": "Hours: 3"
    },
    {
-      "number": "BUS_AD 4500",
-      "title": "Professional Development Program - Internship"
+      "number": "CNST_DEM 2100H",
+      "title": "The Revolutionary Transformation of Early America - Honors"
    },
    {
-      "number": "BUS_AD 7050",
-      "title": "MBA Communications Practice"
+      "number": "Credit",
+      "title": "Hours: 3"
    },
    {
-      "number": "BUS_AD 7340",
-      "title": "Business Ethics and Leadership"
+      "number": "CNST_DEM 2120",
+      "title": "The Young Republic"
    },
    {
-      "number": "BUS_AD 8001",
-      "title": "Topics in Business Administration"
+      "number": "Credit",
+      "title": "Hours: 3"
    },
    {
-      "number": "BUS_AD 8010",
-      "title": "MBA Seminar"
+      "number": "CNST_DEM 2120H",
+      "title": "The Young Republic - Honors"
    },
    {
-      "number": "BUS_AD 8020",
-      "title": "MBA Seminar"
+      "number": "Credit",
+      "title": "Hours: 3"
    },
    {
-      "number": "BUS_AD 8030",
-      "title": "MBA Seminar"
+      "number": "CNST_DEM 2150",
+      "title": "The American Civil War: A Global History"
    },
    {
-      "number": "BUS_AD 8500",
-      "title": "Business Problem Analysis: Field Project"
+      "number": "Credit",
+      "title": "Hours: 3"
    },
    {
-      "number": "BUS_AD 8600",
-      "title": "Business Consulting"
+      "number": "CNST_DEM 2210",
+      "title": "Twentieth Century America"
    },
    {
-      "number": "BUS_AD 8730",
-      "title": "International Study Abroad"
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 2425",
+      "title": "Race and the American Story"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 2445",
+      "title": "American Constitutional Democracy"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 2450",
+      "title": "The Intellectual World of the American Founders"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 2450H",
+      "title": "The Intellectual World of the American Founders - Honors"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 2455",
+      "title": "Constitutional Debates"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 2455H",
+      "title": "Constitutional Debates - Honors"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 2570",
+      "title": "The First World War and its Aftermath"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 2800",
+      "title": "Liberty, Justice and the Common Good"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 4000",
+      "title": "Age of Jefferson"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 4040",
+      "title": "Slavery and the Crisis of the Union: The American Civil War Era"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 4075",
+      "title": "Global History in Oxford"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 4"
+   },
+   {
+      "number": "CNST_DEM 4080",
+      "title": "American Foreign Policy from Colonial Times to 1898"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 4100",
+      "title": "American Cultural and Intellectual History to 1865"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 4130",
+      "title": "African-American Politics"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 4400",
+      "title": "History of American Law"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 4800",
+      "title": "Political Thought in Classical and Christian Antiquity"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 4810",
+      "title": "Modern Political Theory"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 4830",
+      "title": "Democracy in America (and Elsewhere)"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 4840",
+      "title": "Developing Dynamics of Democracy"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 4850",
+      "title": "Scots and the Making of America"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 4900",
+      "title": "Beltway History and Politics: American Constitutional Democracy in Theory and Practice"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 4975",
+      "title": "Journal on Constitutional Democracy"
+   },
+   {
+      "number": "Credit",
+      "title": "Hour: 1-3"
+   },
+   {
+      "number": "CNST_DEM 4996",
+      "title": "Thesis in Constitutional Democracy"
+   },
+   {
+      "number": "Credit",
+      "title": "Hour: 1-2"
+   },
+   {
+      "number": "CNST_DEM 7004",
+      "title": "Topics in Constitutional Democracy - Social Science"
+   },
+   {
+      "number": "Credit",
+      "title": "Hour: 1-6"
+   },
+   {
+      "number": "CNST_DEM 8041",
+      "title": "The Making of the Atlantic World"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 8042",
+      "title": "From the Age of Revolutions to the Age of Nation-States, 1760-1900"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 8045",
+      "title": "Atlantic History and Politics"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 8050",
+      "title": "Britain and the World"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
+   },
+   {
+      "number": "CNST_DEM 8060",
+      "title": "Kinder Institute Colloquia"
+   },
+   {
+      "number": "Credit",
+      "title": "Hours: 3"
    }
 ]
