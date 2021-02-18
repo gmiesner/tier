@@ -21,7 +21,7 @@ const Index = () => {
     A: "#F0B27A",
     B: "#F9E79F",
     C: "#7DCEA0",
-    D: "#5DADE2",
+    D: "#5DADE2"
   };
   const [tiers, setTiers] = useState(initialTiers);
   const addClass = (number) => {
@@ -135,7 +135,7 @@ const Index = () => {
 };
 <script>
       function makeScreenshot(){
-          html2canvas(document.getElementById("screenshot")).then(canvas =>{
+          html2canvas(document.getElementById("screenshot"), {scale: 2}).then(canvas =>{
               canvas.id = "canvasID";
               var main = document.getElementById("main");
               while (main.firstChild) { main.removeChild(main.firstChild); }
