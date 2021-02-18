@@ -102,35 +102,7 @@ const Index = () => {
       <header>
         <Search addClass={addClass} />
       </header>
-      <script>
-    function makeScreenshot() {
-        html2canvas(document.getElementById("screenshot"), {scale: 2}).then(canvas => {
-            var main = document.getElementById("main");
-            while (main.firstChild) {
-              main.removeChild(main.firstChild);
-            }
-
-            // for Firefox
-            main.appendChild(canvas);
-
-            // for Safari
-            //canvas.toBlob(function(blob) {
-            //  var newImg = document.createElement('img'),
-            //      url = URL.createObjectURL(blob);
-
-            //  newImg.onload = function() {
-            //    URL.revokeObjectURL(url);
-            //  };
-
-            //  newImg.src = url;
-            //  newImg.title = "some title";
-            //  newImg.alt = "some alternative text";
-            //  main.appendChild(newImg);
-            //});
-        });
-    }
-</script>
-      <section class = "screenshot">
+      <section>
         <DragDropContext onDragEnd={onDragEnd}>
           {Object.keys(tiers).map((tierName) => {
             const color = tierColors[tierName];
