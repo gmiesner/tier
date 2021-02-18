@@ -120,21 +120,6 @@ const Index = () => {
       <header>
         <Search addClass={addClass} />
       </header>
-      <script>
-      document.getElementById("a-make").addEventListener('click', function()
-      {
-          document.getElementById("a-make").style.display = "none";
-          makeScreenshot();
-          document.getElementById("a-download").style.display = "inline";
-      }, false)
-
-      document.getElementById("a-download").addEventListener('click', function()
-      {
-          this.href = document.getElementById("canvasID").toDataURL();
-          this.download = "canvas-image.png";
-      }, false)
-
-      </script>
       <div id = "main">
       <section id = "screenshot ">
         <DragDropContext onDragEnd={onDragEnd}>
