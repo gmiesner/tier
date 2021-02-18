@@ -17,18 +17,6 @@ function makeScreenshot()
     })
 }
 
-document.getElementById("a-make").addEventListener('click', function()
-{
-    document.getElementById("a-make").style.display = "none";
-    makeScreenshot();
-    document.getElementById("a-download").style.display = "inline";
-}, false)
-
-document.getElementById("a-download").addEventListener('click', function()
-{
-    this.href = document.getElementById("canvasID").toDataURL();
-    this.download = "canvas-image.png";
-}, false)
 
 const Index = () => {
   const initialTiers = {
@@ -156,6 +144,20 @@ const Index = () => {
         }
       `}</style>
     </div>
+    <script>
+    document.getElementById("a-make").addEventListener('click', function()
+    {
+        document.getElementById("a-make").style.display = "none";
+        makeScreenshot();
+        document.getElementById("a-download").style.display = "inline";
+    }, false)
+
+    document.getElementById("a-download").addEventListener('click', function()
+    {
+        this.href = document.getElementById("canvasID").toDataURL();
+        this.download = "canvas-image.png";
+    }, false)
+</script> 
   );
 };
 export default Index;
