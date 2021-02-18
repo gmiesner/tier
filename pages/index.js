@@ -95,7 +95,7 @@ const Index = () => {
         <meta name="twitter:image:alt" content={META.imageAlt} />
       </Head>
        <h1> MSTier : Rank your S&T classes</h1>
-
+<img src = "https://brand.mst.edu/media/universityadvancement/brand/logos/athletics/mascotmarks/JOE_MINER_FC.png" height = "200rem" alt = "s&t joe miner"/>
       <header>
         <Search addClass={addClass} />
       </header>
