@@ -13,7 +13,7 @@ const Index = () => {
     A: ["FR ENG 1100" ],
     B: ["BIO SCI 1113"],
     C: ["IS&T 1750"],
-    D: ["MATH 1120"],
+    D: ["MATH 1120"]
   };
   const tierColors = {
     // thanks https://colorswall.com/palette/3297/
