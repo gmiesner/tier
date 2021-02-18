@@ -96,6 +96,9 @@ const Index = () => {
       </Head>
        <h1> UMTier : Rank your classes</h1>
 <img src = "https://brand.mst.edu/media/universityadvancement/brand/logos/athletics/mascotmarks/JOE_MINER_FC.png" height = "100rem" alt = "s&t joe miner"/>
+<img src = "https://www.clipartmax.com/png/full/150-1509428_university-of-missouri-mizzou-tigers.png" height = "100rem" alt = "miz tiger"/>
+<img src = "https://upload.wikimedia.org/wikipedia/en/5/5c/UMSL_Tritons_logo.svg" height = "100rem" alt = "umsl triton">
+<img src = "http://www.thecardinalconnect.com/wp-content/uploads/2013/12/umkc-roos-12.png" height = "100rem" alt = "umkc roos">
       <header>
         <Search addClass={addClass} />
       </header>
