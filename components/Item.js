@@ -1,7 +1,6 @@
 import React from "react";
 import colors from "../data/colors.json";
 import courses from "../data/courses.json";
-import courses from "../miz/courses.json"; 
 import { Draggable } from "react-beautiful-dnd";
 
 export default class Item extends React.Component {
