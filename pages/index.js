@@ -116,13 +116,13 @@ const Index = () => {
         <meta property="og:site_name" content={META.siteName} />
         <meta name="twitter:image" content={META.image} />
         <meta name="twitter:image:alt" content={META.imageAlt} />
-        <script src="html2canvas.min.js"></script>
+        // <script src="html2canvas.min.js"></script>
       </Head>
 
-  <div style="font-size:150%;">
-      <a id="a-make" href="#">Make a screenshot</a>
-      <a id="a-download" href="#" style="display:none;">Download a screenshot</a>
-  </div>
+  // <div style="font-size:150%;">
+  //     <a id="a-make" href="#">Make a screenshot</a>
+  //     <a id="a-download" href="#" style="display:none;">Download a screenshot</a>
+  // </div>
        <h1> UMTier : Rank your classes</h1>
 <img src = "https://brand.mst.edu/media/universityadvancement/brand/logos/athletics/mascotmarks/JOE_MINER_FC.png" height = "75rem" alt = "s&t joe miner"/>
 <img src = "https://www.clipartmax.com/png/full/150-1509428_university-of-missouri-mizzou-tigers.png" height = "75rem" alt = "miz tiger"/>
