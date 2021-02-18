@@ -1,22 +1,246 @@
 [
    {
-      "number": "IEPL _0001",
-      "title": "Listening and Speaking I"
+      "number": "MUS_THRY 1210",
+      "title": "Introduction to Computer Technology and Music"
    },
    {
-      "number": "IEPL _0002",
-      "title": "Listening and Speaking II"
+      "number": "MUS_THRY 1213",
+      "title": "Introduction to Music Theory"
    },
    {
-      "number": "IEPL _0030",
-      "title": "Listening and Speaking for Academic Purposes III"
+      "number": "MUS_THRY 1220",
+      "title": "Tonal Music Theory I"
    },
    {
-      "number": "IEPL _0040",
-      "title": "Listening and Speaking for Academic Purposes IV"
+      "number": "MUS_THRY 1221",
+      "title": "Tonal Music Theory II"
    },
    {
-      "number": "IEPL _0050",
-      "title": "Listening and Speaking for Academic Purposes V"
+      "number": "MUS_THRY 1230",
+      "title": "Aural Training and Sight Singing I"
+   },
+   {
+      "number": "MUS_THRY 1231",
+      "title": "Aural Training and Sight Singing II"
+   },
+   {
+      "number": "MUS_THRY 2215",
+      "title": "Composition I"
+   },
+   {
+      "number": "MUS_THRY 2216",
+      "title": "Composition II"
+   },
+   {
+      "number": "MUS_THRY 2220",
+      "title": "Tonal Music Theory III"
+   },
+   {
+      "number": "MUS_THRY 2221",
+      "title": "Tonal Music Theory IV"
+   },
+   {
+      "number": "MUS_THRY 2230",
+      "title": "Aural Training and Sight Singing III"
+   },
+   {
+      "number": "MUS_THRY 2231",
+      "title": "Aural Training and Sight Singing IV"
+   },
+   {
+      "number": "MUS_THRY 3215",
+      "title": "Composition III"
+   },
+   {
+      "number": "MUS_THRY 3216",
+      "title": "Composition IV"
+   },
+   {
+      "number": "MUS_THRY 4210",
+      "title": "Jazz Harmony and Arranging I"
+   },
+   {
+      "number": "MUS_THRY 4211",
+      "title": "Jazz Harmony and Arranging II"
+   },
+   {
+      "number": "MUS_THRY 4212",
+      "title": "Jazz Theory I"
+   },
+   {
+      "number": "MUS_THRY 4215",
+      "title": "Composition V"
+   },
+   {
+      "number": "MUS_THRY 4216",
+      "title": "Composition VI"
+   },
+   {
+      "number": "MUS_THRY 4220",
+      "title": "Post-Tonal Music Theory"
+   },
+   {
+      "number": "MUS_THRY 4221",
+      "title": "Analysis of Music"
+   },
+   {
+      "number": "MUS_THRY 4223",
+      "title": "Eighteenth-Century Counterpoint"
+   },
+   {
+      "number": "MUS_THRY 4225",
+      "title": "Sixteenth-Century Counterpoint"
+   },
+   {
+      "number": "MUS_THRY 4225W",
+      "title": "Sixteenth-Century Counterpoint - Writing Intensive"
+   },
+   {
+      "number": "MUS_THRY 4226",
+      "title": "Instrumentation"
+   },
+   {
+      "number": "MUS_THRY 4227",
+      "title": "Orchestration"
+   },
+   {
+      "number": "MUS_THRY 4229",
+      "title": "Band Arranging"
+   },
+   {
+      "number": "MUS_THRY 4230",
+      "title": "Choral Arranging"
+   },
+   {
+      "number": "MUS_THRY 4231",
+      "title": "Schenkerian Analysis"
+   },
+   {
+      "number": "MUS_THRY 4232",
+      "title": "Rhythmic Analysis of Tonal Music"
+   },
+   {
+      "number": "MUS_THRY 4241",
+      "title": "Advanced Schenkerian Analysis"
+   },
+   {
+      "number": "MUS_THRY 4245",
+      "title": "Introduction to Electronic Music"
+   },
+   {
+      "number": "MUS_THRY 4247",
+      "title": "Introduction to Digital Synthesis"
+   },
+   {
+      "number": "MUS_THRY 4250",
+      "title": "Analysis of Musical Styles"
+   },
+   {
+      "number": "MUS_THRY 4252",
+      "title": "Keyboard Harmony and Score Reading"
+   },
+   {
+      "number": "MUS_THRY 4271",
+      "title": "Pedagogy of Music Theory I"
+   },
+   {
+      "number": "MUS_THRY 4284",
+      "title": "Contemporary Analytical Techniques"
+   },
+   {
+      "number": "MUS_THRY 4290",
+      "title": "Music Composition Seminar"
+   },
+   {
+      "number": "MUS_THRY 4299",
+      "title": "Graduate Theory Review"
+   },
+   {
+      "number": "MUS_THRY 7210",
+      "title": "Advanced Jazz Harmony and Arranging I"
+   },
+   {
+      "number": "MUS_THRY 7211",
+      "title": "Advanced Jazz Harmony and Arranging II"
+   },
+   {
+      "number": "MUS_THRY 7215",
+      "title": "Composition I"
+   },
+   {
+      "number": "MUS_THRY 7216",
+      "title": "Composition II"
+   },
+   {
+      "number": "MUS_THRY 7220",
+      "title": "Post-Tonal Music Theory"
+   },
+   {
+      "number": "MUS_THRY 7221",
+      "title": "Analysis of Music"
+   },
+   {
+      "number": "MUS_THRY 7223",
+      "title": "Eighteenth-Century Counterpoint"
+   },
+   {
+      "number": "MUS_THRY 7225",
+      "title": "Sixteenth-Century Counterpoint"
+   },
+   {
+      "number": "MUS_THRY 7226",
+      "title": "Instrumentation"
+   },
+   {
+      "number": "MUS_THRY 7227",
+      "title": "Advanced Orchestration"
+   },
+   {
+      "number": "MUS_THRY 7229",
+      "title": "Band Arranging"
+   },
+   {
+      "number": "MUS_THRY 7230",
+      "title": "Choral Arranging"
+   },
+   {
+      "number": "MUS_THRY 7231",
+      "title": "Schenkerian Analysis"
+   },
+   {
+      "number": "MUS_THRY 7232",
+      "title": "Rhythmic Analysis of Tonal Music"
+   },
+   {
+      "number": "MUS_THRY 7241",
+      "title": "Advanced Schenkerian Analysis"
+   },
+   {
+      "number": "MUS_THRY 7245",
+      "title": "Introduction to Electronic Music"
+   },
+   {
+      "number": "MUS_THRY 7247",
+      "title": "Introduction to Digital Synthesis"
+   },
+   {
+      "number": "MUS_THRY 7250",
+      "title": "Analysis of Musical Styles"
+   },
+   {
+      "number": "MUS_THRY 7252",
+      "title": "Keyboard Harmony and Score Reading"
+   },
+   {
+      "number": "MUS_THRY 7271",
+      "title": "Pedagogy of Music Theory I"
+   },
+   {
+      "number": "MUS_THRY 7290",
+      "title": "Music Composition Seminar"
+   },
+   {
+      "number": "MUS_THRY 8215",
+      "title": "Composition VII"
    }
 ]
