@@ -17,11 +17,11 @@ const Index = () => {
   };
   const tierColors = {
     // thanks https://colorswall.com/palette/3297/
-    S: "#ff7f7e",
-    A: "#ffbf7f",
-    B: "#ffdf80",
-    C: "#feff7f",
-    D: "#beff7f",
+    S: "#CD6155",
+    A: "#F0B27A",
+    B: "#F9E79F",
+    C: "#7DCEA0",
+    D: "#5DADE2",
   };
   const [tiers, setTiers] = useState(initialTiers);
   const addClass = (number) => {
