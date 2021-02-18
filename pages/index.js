@@ -105,30 +105,7 @@ const Index = () => {
 <img src = "https://www.clipartmax.com/png/full/150-1509428_university-of-missouri-mizzou-tigers.png" height = "75rem" alt = "miz tiger"/>
 <img src = "https://upload.wikimedia.org/wikipedia/en/5/5c/UMSL_Tritons_logo.svg" height = "75rem" alt = "umsl triton"/>
 <img src = "https://dbukjj6eu5tsf.cloudfront.net/umkckangaroos.com/images/logos/site/site.png" height = "75rem" alt = "umkc roos"/>
-<script>
-      function makeScreenshot(){
-          html2canvas(document.getElementById("screenshot"), {scale: 2}).then(const canvas =>{
-              canvas.id = "canvasID";
-              var main = document.getElementById("main");
-              while (main.firstChild) { main.removeChild(main.firstChild); }
-              main.appendChild(canvas);
-          });
-        }
 
-      document.getElementById("a-make").addEventListener('click', function()
-      {
-          document.getElementById("a-make").style.display = "none";
-          makeScreenshot();
-          document.getElementById("a-download").style.display = "inline";
-      }, false);
-
-      document.getElementById("a-download").addEventListener('click', function()
-      {
-          this.href = document.getElementById("canvasID").toDataURL();
-          this.download = "canvas-image.png";
-      }, false);
-
-  </script>
       <header>
         <Search addClass={addClass} />
       </header>
@@ -156,5 +133,28 @@ const Index = () => {
     </div>
   );
 };
+<script>
+      function makeScreenshot(){
+          html2canvas(document.getElementById("screenshot"), {scale: 2}).then(canvas =>{
+              canvas.id = "canvasID";
+              var main = document.getElementById("main");
+              while (main.firstChild) { main.removeChild(main.firstChild); }
+              main.appendChild(canvas);
+          });
+        }
 
+      document.getElementById("a-make").addEventListener('click', function()
+      {
+          document.getElementById("a-make").style.display = "none";
+          makeScreenshot();
+          document.getElementById("a-download").style.display = "inline";
+      }, false);
+
+      document.getElementById("a-download").addEventListener('click', function()
+      {
+          this.href = document.getElementById("canvasID").toDataURL();
+          this.download = "canvas-image.png";
+      }, false);
+
+  </script>
 export default Index;
