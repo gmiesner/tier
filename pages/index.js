@@ -93,6 +93,7 @@ const Index = () => {
         <meta property="og:site_name" content={META.siteName} />
         <meta name="twitter:image" content={META.image} />
         <meta name="twitter:image:alt" content={META.imageAlt} />
+          <script src="html2canvas.min.js"></script>
       </Head>
        <h1> UMTier : Rank your classes</h1>
 <img src = "https://brand.mst.edu/media/universityadvancement/brand/logos/athletics/mascotmarks/JOE_MINER_FC.png" height = "75rem" alt = "s&t joe miner"/>
@@ -102,7 +103,37 @@ const Index = () => {
       <header>
         <Search addClass={addClass} />
       </header>
-      <section>
+      <script>
+      function makeScreenshot()
+      {
+          html2canvas(document.getElementById("screenshot"), {scale: 2}).then(canvas =>
+          {
+              canvas.id = "canvasID";
+              var main = document.getElementById("main");
+              while (main.firstChild) { main.removeChild(main.firstChild); }
+              main.appendChild(canvas);
+          });
+      }
+
+      document.getElementById("a-make").addEventListener('click', function()
+      {
+          document.getElementById("a-make").style.display = "none";
+          makeScreenshot();
+          document.getElementById("a-download").style.display = "inline";
+      }, false);
+
+      document.getElementById("a-download").addEventListener('click', function()
+      {
+          this.href = document.getElementById("canvasID").toDataURL();
+          this.download = "canvas-image.png";
+      }, false);
+  </script>
+  
+      <div style="font-size:150%;">
+    <a id="a-make" href="#">Make a screenshot</a>
+    <a id="a-download" href="#" style="display:none;">Download a screenshot</a>
+</div>
+      <section id = "screenshot">
         <DragDropContext onDragEnd={onDragEnd}>
           {Object.keys(tiers).map((tierName) => {
             const color = tierColors[tierName];
