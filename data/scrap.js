@@ -45,4 +45,4 @@ browser.close()
 
 }
 
-scrape("http://catalog.missouri.edu/courseofferings/ital/")
+scrape("http://catalog.missouri.edu/courseofferings/iepl/")

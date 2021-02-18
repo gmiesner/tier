@@ -6,16 +6,28 @@ import { DragDropContext } from "react-beautiful-dnd";
 import { resetServerContext } from "react-beautiful-dnd";
 
 resetServerContext();
-function makeScreenshot()
-{
-    html2canvas(document.getElementById("screenshot"), {scale: 2}).then(canvas =>
-    {
-        canvas.id = "canvasID";
-        var main = document.getElementById("main");
-        while (main.firstChild) { main.removeChild(main.firstChild); }
-        main.appendChild(canvas);
-    })
-}
+// function makeScreenshot()
+// {
+//     html2canvas(document.getElementById("screenshot"), {scale: 2}).then(canvas =>
+//     {
+//         canvas.id = "canvasID";
+//         var main = document.getElementById("main");
+//         while (main.firstChild) { main.removeChild(main.firstChild); }
+//         main.appendChild(canvas);
+//     })
+// }
+// document.getElementById("a-make").addEventListener('click', function()
+// {
+//     document.getElementById("a-make").style.display = "none";
+//     makeScreenshot();
+//     document.getElementById("a-download").style.display = "inline";
+// }, false)
+//
+// document.getElementById("a-download").addEventListener('click', function()
+// {
+//     this.href = document.getElementById("canvasID").toDataURL();
+//     this.download = "canvas-image.png";
+// }, false)
 
 
 const Index = () => {
