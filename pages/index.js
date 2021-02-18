@@ -107,7 +107,7 @@ const Index = () => {
 <img src = "https://dbukjj6eu5tsf.cloudfront.net/umkckangaroos.com/images/logos/site/site.png" height = "75rem" alt = "umkc roos"/>
 <script>
       function makeScreenshot(){
-          html2canvas(document.getElementById("screenshot"), {scale: 2}).then(canvas =>{
+          html2canvas(document.getElementById("screenshot"), {scale: 2}).then(const canvas =>{
               canvas.id = "canvasID";
               var main = document.getElementById("main");
               while (main.firstChild) { main.removeChild(main.firstChild); }
