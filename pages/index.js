@@ -109,7 +109,8 @@ const Index = () => {
       <header>
         <Search addClass={addClass} />
       </header>
-      <section id = "screenshot main ">
+      <div id = "main"
+      <section id = "screenshot ">
         <DragDropContext onDragEnd={onDragEnd}>
           {Object.keys(tiers).map((tierName) => {
             const color = tierColors[tierName];
@@ -125,6 +126,7 @@ const Index = () => {
           })}
         </DragDropContext>
       </section>
+      </div>
       <style jsx>{`
         header {
           margin-bottom: 2rem;
