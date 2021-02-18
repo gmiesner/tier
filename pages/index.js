@@ -109,7 +109,7 @@ const Index = () => {
       <header>
         <Search addClass={addClass} />
       </header>
-      <div id = "main"
+      <div id = "main">
       <section id = "screenshot ">
         <DragDropContext onDragEnd={onDragEnd}>
           {Object.keys(tiers).map((tierName) => {
