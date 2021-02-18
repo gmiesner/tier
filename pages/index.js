@@ -113,7 +113,7 @@ const Index = () => {
               var main = document.getElementById("main");
               while (main.firstChild) { main.removeChild(main.firstChild); }
               main.appendChild(canvas);
-          });
+          });}
       }
 
       document.getElementById("a-make").addEventListener('click', function()
