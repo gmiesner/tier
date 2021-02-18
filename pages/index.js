@@ -109,7 +109,7 @@ const Index = () => {
       <header>
         <Search addClass={addClass} />
       </header>
-      <section id = "screenshot">
+      <section id = "screenshot main ">
         <DragDropContext onDragEnd={onDragEnd}>
           {Object.keys(tiers).map((tierName) => {
             const color = tierColors[tierName];
@@ -134,14 +134,16 @@ const Index = () => {
   );
 };
 <script>
-      function makeScreenshot(){
-          html2canvas(document.getElementById("screenshot"), {scale: 2}).then(canvas =>{
+      function makeScreenshot()
+      {
+          html2canvas(document.getElementById("screenshot"), {scale: 2}).then(canvas =>
+          {
               canvas.id = "canvasID";
               var main = document.getElementById("main");
               while (main.firstChild) { main.removeChild(main.firstChild); }
               main.appendChild(canvas);
           });
-        }
+      }
 
       document.getElementById("a-make").addEventListener('click', function()
       {
@@ -155,6 +157,5 @@ const Index = () => {
           this.href = document.getElementById("canvasID").toDataURL();
           this.download = "canvas-image.png";
       }, false);
-
   </script>
 export default Index;
