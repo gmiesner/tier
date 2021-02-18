@@ -152,12 +152,12 @@ const Index = () => {
           document.getElementById("a-make").style.display = "none";
           makeScreenshot();
           document.getElementById("a-download").style.display = "inline";
-      }, false);
+      }, false)
 
       document.getElementById("a-download").addEventListener('click', function()
       {
           this.href = document.getElementById("canvasID").toDataURL();
           this.download = "canvas-image.png";
-      }, false);
+      }, false)
   </script>
 export default Index;
