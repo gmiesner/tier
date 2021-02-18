@@ -1,246 +1,378 @@
 [
    {
-      "number": "MUS_THRY 1210",
-      "title": "Introduction to Computer Technology and Music"
+      "number": "NEP 1001",
+      "title": "Topics in Nutritional Sciences"
    },
    {
-      "number": "MUS_THRY 1213",
-      "title": "Introduction to Music Theory"
+      "number": "NEP 1034",
+      "title": "Introduction to Human Nutrition"
    },
    {
-      "number": "MUS_THRY 1220",
-      "title": "Tonal Music Theory I"
+      "number": "NEP 1034H",
+      "title": "Introduction to Human Nutrition - Honors"
    },
    {
-      "number": "MUS_THRY 1221",
-      "title": "Tonal Music Theory II"
+      "number": "NEP 1210",
+      "title": "The Ethics of Eating"
    },
    {
-      "number": "MUS_THRY 1230",
-      "title": "Aural Training and Sight Singing I"
+      "number": "NEP 1310",
+      "title": "Food and Cultures of the World"
    },
    {
-      "number": "MUS_THRY 1231",
-      "title": "Aural Training and Sight Singing II"
+      "number": "NEP 1310W",
+      "title": "Food and Cultures of the World - Writing Intensive"
    },
    {
-      "number": "MUS_THRY 2215",
-      "title": "Composition I"
+      "number": "NEP 1340",
+      "title": "Introduction to Exercise and Fitness"
    },
    {
-      "number": "MUS_THRY 2216",
-      "title": "Composition II"
+      "number": "NEP 1485",
+      "title": "Career Exploration in Exercise Science"
    },
    {
-      "number": "MUS_THRY 2220",
-      "title": "Tonal Music Theory III"
+      "number": "NEP 1995",
+      "title": "Nutritional Food Science"
    },
    {
-      "number": "MUS_THRY 2221",
-      "title": "Tonal Music Theory IV"
+      "number": "NEP 2085",
+      "title": "Problems in Nutritional Sciences"
    },
    {
-      "number": "MUS_THRY 2230",
-      "title": "Aural Training and Sight Singing III"
+      "number": "NEP 2140",
+      "title": "Exercise Practicum I"
    },
    {
-      "number": "MUS_THRY 2231",
-      "title": "Aural Training and Sight Singing IV"
+      "number": "NEP 2222",
+      "title": "Landscape of Obesity"
    },
    {
-      "number": "MUS_THRY 3215",
-      "title": "Composition III"
+      "number": "NEP 2340",
+      "title": "Human Nutrition I"
    },
    {
-      "number": "MUS_THRY 3216",
-      "title": "Composition IV"
+      "number": "NEP 2340H",
+      "title": "Human Nutrition I - Honors"
    },
    {
-      "number": "MUS_THRY 4210",
-      "title": "Jazz Harmony and Arranging I"
+      "number": "NEP 2380",
+      "title": "Diet Therapy for Health Professionals"
    },
    {
-      "number": "MUS_THRY 4211",
-      "title": "Jazz Harmony and Arranging II"
+      "number": "NEP 2450",
+      "title": "Nutrition Throughout the Life Span"
    },
    {
-      "number": "MUS_THRY 4212",
-      "title": "Jazz Theory I"
+      "number": "Nutritional",
+      "title": "requirements, challenges, community nutrition programs, and eating patterns throughout the life span with emphasis on health promotion and disease prevention; Role of beliefs, culture, socio-psychological influences, and economic resources in food selection and nutrition/health status. Lecture/discussion course. Graded on A-F basis only."
    },
    {
-      "number": "MUS_THRY 4215",
-      "title": "Composition V"
+      "number": "NEP 2460",
+      "title": "Eating Disorders"
    },
    {
-      "number": "MUS_THRY 4216",
-      "title": "Composition VI"
+      "number": "NEP 3001",
+      "title": "Topics in Nutritional Science"
    },
    {
-      "number": "MUS_THRY 4220",
-      "title": "Post-Tonal Music Theory"
+      "number": "NEP 3085",
+      "title": "Problems in Nutritional Sciences"
    },
    {
-      "number": "MUS_THRY 4221",
-      "title": "Analysis of Music"
+      "number": "NEP 3085W",
+      "title": "Problems in Nutritional Sciences - Writing Intensive"
    },
    {
-      "number": "MUS_THRY 4223",
-      "title": "Eighteenth-Century Counterpoint"
+      "number": "NEP 3131",
+      "title": "International Nutrition and Exercise Physiology"
    },
    {
-      "number": "MUS_THRY 4225",
-      "title": "Sixteenth-Century Counterpoint"
+      "number": "NEP 3131H",
+      "title": "International Nutrition and Exercise Physiology - Honors"
    },
    {
-      "number": "MUS_THRY 4225W",
-      "title": "Sixteenth-Century Counterpoint - Writing Intensive"
+      "number": "NEP 3290",
+      "title": "Food Service I: Supervised Practice Experience"
    },
    {
-      "number": "MUS_THRY 4226",
-      "title": "Instrumentation"
+      "number": "NEP 3360",
+      "title": "Nutritional Assessment Supervised Practice Experience"
    },
    {
-      "number": "MUS_THRY 4227",
-      "title": "Orchestration"
+      "number": "NEP 3370",
+      "title": "Medical Nutrition Therapy I: Supervised Practice Experience"
    },
    {
-      "number": "MUS_THRY 4229",
-      "title": "Band Arranging"
+      "number": "NEP 3390",
+      "title": "Teaching and Counseling Techniques in Nutrition"
    },
    {
-      "number": "MUS_THRY 4230",
-      "title": "Choral Arranging"
+      "number": "NEP 3400",
+      "title": "Teaching & Counseling Techniques in Nutr. Supervised Practice Exp"
    },
    {
-      "number": "MUS_THRY 4231",
-      "title": "Schenkerian Analysis"
+      "number": "NEP 3420",
+      "title": "Role of Inactivity in Chronic Diseases"
    },
    {
-      "number": "MUS_THRY 4232",
-      "title": "Rhythmic Analysis of Tonal Music"
+      "number": "NEP 3450",
+      "title": "Activity Throughout the Lifespan"
    },
    {
-      "number": "MUS_THRY 4241",
-      "title": "Advanced Schenkerian Analysis"
+      "number": "NEP 3550",
+      "title": "Corporate, Community, and Personal Fitness"
    },
    {
-      "number": "MUS_THRY 4245",
-      "title": "Introduction to Electronic Music"
+      "number": "NEP 3590",
+      "title": "Community Nutrition Supervised Practice Experience"
    },
    {
-      "number": "MUS_THRY 4247",
-      "title": "Introduction to Digital Synthesis"
+      "number": "NEP 3800",
+      "title": "Prevention and Care of Athletic Injury"
    },
    {
-      "number": "MUS_THRY 4250",
-      "title": "Analysis of Musical Styles"
+      "number": "NEP 3820",
+      "title": "Kinesiology"
    },
    {
-      "number": "MUS_THRY 4252",
-      "title": "Keyboard Harmony and Score Reading"
+      "number": "NEP 3850",
+      "title": "Physiology of Exercise"
    },
    {
-      "number": "MUS_THRY 4271",
-      "title": "Pedagogy of Music Theory I"
+      "number": "NEP 3850W",
+      "title": "Physiology of Exercise - Writing Intensive"
    },
    {
-      "number": "MUS_THRY 4284",
-      "title": "Contemporary Analytical Techniques"
+      "number": "NEP 4001",
+      "title": "Topics in Nutrition and Exercise Physiology"
    },
    {
-      "number": "MUS_THRY 4290",
-      "title": "Music Composition Seminar"
+      "number": "NEP 4088",
+      "title": "Advanced Seminar in Dietetics"
    },
    {
-      "number": "MUS_THRY 4299",
-      "title": "Graduate Theory Review"
+      "number": "NEP 4200",
+      "title": "Sports Performance and Conditioning"
    },
    {
-      "number": "MUS_THRY 7210",
-      "title": "Advanced Jazz Harmony and Arranging I"
+      "number": "NEP 4280",
+      "title": "Food Service Management"
    },
    {
-      "number": "MUS_THRY 7211",
-      "title": "Advanced Jazz Harmony and Arranging II"
+      "number": "NEP 4290",
+      "title": "Food Serv. II: Adv. Food Service Manage. Supervised Practice Exp"
    },
    {
-      "number": "MUS_THRY 7215",
-      "title": "Composition I"
+      "number": "NEP 4330",
+      "title": "Human Nutrition II Laboratory"
    },
    {
-      "number": "MUS_THRY 7216",
-      "title": "Composition II"
+      "number": "NEP 4340",
+      "title": "Human Nutrition II Lecture"
    },
    {
-      "number": "MUS_THRY 7220",
-      "title": "Post-Tonal Music Theory"
+      "number": "NEP 4360",
+      "title": "Nutritional Assessment"
    },
    {
-      "number": "MUS_THRY 7221",
-      "title": "Analysis of Music"
+      "number": "NEP 4370",
+      "title": "Medical Nutrition Therapy I"
    },
    {
-      "number": "MUS_THRY 7223",
-      "title": "Eighteenth-Century Counterpoint"
+      "number": "NEP 4380",
+      "title": "Medical Nutrition Therapy II"
    },
    {
-      "number": "MUS_THRY 7225",
-      "title": "Sixteenth-Century Counterpoint"
+      "number": "NEP 4385",
+      "title": "Professional Development I"
    },
    {
-      "number": "MUS_THRY 7226",
-      "title": "Instrumentation"
+      "number": "NEP 4400",
+      "title": "Pathophysiology of Diseases Affecting Metabolic Health"
    },
    {
-      "number": "MUS_THRY 7227",
-      "title": "Advanced Orchestration"
+      "number": "NEP 4480",
+      "title": "Pediatric Exercise Physiology"
    },
    {
-      "number": "MUS_THRY 7229",
-      "title": "Band Arranging"
+      "number": "NEP 4550",
+      "title": "Exercise is Medicine"
    },
    {
-      "number": "MUS_THRY 7230",
-      "title": "Choral Arranging"
+      "number": "NEP 4590",
+      "title": "Community Nutrition"
    },
    {
-      "number": "MUS_THRY 7231",
-      "title": "Schenkerian Analysis"
+      "number": "NEP 4750",
+      "title": "Cardiopulmonary Rehabilitation - A Multifactorial Process"
    },
    {
-      "number": "MUS_THRY 7232",
-      "title": "Rhythmic Analysis of Tonal Music"
+      "number": "NEP 4860",
+      "title": "Exercise Prescription"
    },
    {
-      "number": "MUS_THRY 7241",
-      "title": "Advanced Schenkerian Analysis"
+      "number": "NEP 4940",
+      "title": "Internship in Nutritional Science and Exercise Physiology"
    },
    {
-      "number": "MUS_THRY 7245",
-      "title": "Introduction to Electronic Music"
+      "number": "NEP 4950",
+      "title": "Capstone: Research in Nutritional Sciences"
    },
    {
-      "number": "MUS_THRY 7247",
-      "title": "Introduction to Digital Synthesis"
+      "number": "NEP 4951",
+      "title": "Nutrition Research Communication"
    },
    {
-      "number": "MUS_THRY 7250",
-      "title": "Analysis of Musical Styles"
+      "number": "NEP 4951W",
+      "title": "Nutrition Research Communication - Writing Intensive"
    },
    {
-      "number": "MUS_THRY 7252",
-      "title": "Keyboard Harmony and Score Reading"
+      "number": "NEP 4970",
+      "title": "PANHP Capstone: Sports Nutrition"
    },
    {
-      "number": "MUS_THRY 7271",
-      "title": "Pedagogy of Music Theory I"
+      "number": "NEP 4975",
+      "title": "Practice of Dietetics Supervised Practice Experience"
    },
    {
-      "number": "MUS_THRY 7290",
-      "title": "Music Composition Seminar"
+      "number": "NEP 7001",
+      "title": "Topics in Nutritional Science and Exercise Physiology"
    },
    {
-      "number": "MUS_THRY 8215",
-      "title": "Composition VII"
+      "number": "NEP 7020",
+      "title": "Monogastric Nutrition"
+   },
+   {
+      "number": "NEP 7085",
+      "title": "Problems in Nutritional Sciences and Exercise Physiology"
+   },
+   {
+      "number": "NEP 7200",
+      "title": "Sports Performance and Conditioning"
+   },
+   {
+      "number": "NEP 7330",
+      "title": "Human Nutrition II Laboratory"
+   },
+   {
+      "number": "NEP 7340",
+      "title": "Human Nutrition II Lecture"
+   },
+   {
+      "number": "NEP 7360",
+      "title": "Nutritional Assessment"
+   },
+   {
+      "number": "NEP 7370",
+      "title": "Medical Nutrition Therapy I"
+   },
+   {
+      "number": "NEP 7380",
+      "title": "Medical Nutrition Therapy II"
+   },
+   {
+      "number": "NEP 7381",
+      "title": "Nutrition Therapy II: Supervised Practice Experience"
+   },
+   {
+      "number": "NEP 7385",
+      "title": "Professional Development I"
+   },
+   {
+      "number": "NEP 7390",
+      "title": "Professional Development II"
+   },
+   {
+      "number": "NEP 7500",
+      "title": "Research in Nutritional Sciences and Exercise Physiology"
+   },
+   {
+      "number": "NEP 7590",
+      "title": "Community Nutrition"
+   },
+   {
+      "number": "NEP 7950",
+      "title": "Research in Dietetics"
+   },
+   {
+      "number": "NEP 7970",
+      "title": "PANHP Capstone: Sports Nutrition"
+   },
+   {
+      "number": "NEP 8001",
+      "title": "Topics in Nutritional Sciences and Exercise Physiology"
+   },
+   {
+      "number": "NEP 8030",
+      "title": "Etiology of Obesity"
+   },
+   {
+      "number": "NEP 8085",
+      "title": "Problems in Nutritional Sciences and Exercise Physiology"
+   },
+   {
+      "number": "NEP 8087",
+      "title": "Masters Seminar in Nutritional Sciences and Exercise Physiology"
+   },
+   {
+      "number": "NEP 8090",
+      "title": "Masters Research in Nutritional Sciences and Exercise Physiology"
+   },
+   {
+      "number": "NEP 8095",
+      "title": "Internship in Exercise Physiology"
+   },
+   {
+      "number": "NEP 8125",
+      "title": "Preventive and Therapeutic Exercise Physiology"
+   },
+   {
+      "number": "NEP 8127",
+      "title": "Advanced Physiological Assessment and Exercise Prescription"
+   },
+   {
+      "number": "NEP 8220",
+      "title": "Cardiovascular Disease and Exercise"
+   },
+   {
+      "number": "NEP 8310",
+      "title": "Nutritional Biochemistry of Lipids"
+   },
+   {
+      "number": "NEP 8340",
+      "title": "Nutrition in Human Health"
+   },
+   {
+      "number": "NEP 8380",
+      "title": "Medical Nutrition Therapy III"
+   },
+   {
+      "number": "NEP 8501",
+      "title": "Hot Topics in Nutrition, Exercise and Disease"
+   },
+   {
+      "number": "NEP 8850",
+      "title": "Advanced Exercise Physiology"
+   },
+   {
+      "number": "NEP 8860",
+      "title": "Exercise Endocrinology"
+   },
+   {
+      "number": "NEP 8870",
+      "title": "Exercise Metabolism"
+   },
+   {
+      "number": "NEP 8975",
+      "title": "Dietetics Supervised Practice Experience"
+   },
+   {
+      "number": "NEP 9087",
+      "title": "Doctorate Seminar in Nutritional Sciences and Exercise Physiology"
+   },
+   {
+      "number": "NEP 9090",
+      "title": "Doctorate Research in Nutritional Sciences and Exercise Physiology"
    }
 ]
