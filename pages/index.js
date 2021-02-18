@@ -113,7 +113,7 @@ const Index = () => {
               while (main.firstChild) { main.removeChild(main.firstChild); }
               main.appendChild(canvas);
           });
-      }
+      }}
 
       document.getElementById("a-make").addEventListener('click', function()
       {
@@ -128,7 +128,7 @@ const Index = () => {
           this.download = "canvas-image.png";
       }, false);
   </script>
-  
+
       <div style="font-size:150%;">
     <a id="a-make" href="#">Make a screenshot</a>
     <a id="a-download" href="#" style="display:none;">Download a screenshot</a>
