@@ -6,29 +6,6 @@ import { DragDropContext } from "react-beautiful-dnd";
 import { resetServerContext } from "react-beautiful-dnd";
 
 resetServerContext();
-// function makeScreenshot()
-// {
-//     html2canvas(document.getElementById("screenshot"), {scale: 2}).then(canvas =>
-//     {
-//         canvas.id = "canvasID";
-//         var main = document.getElementById("main");
-//         while (main.firstChild) { main.removeChild(main.firstChild); }
-//         main.appendChild(canvas);
-//     })
-// }
-// document.getElementById("a-make").addEventListener('click', function()
-// {
-//     document.getElementById("a-make").style.display = "none";
-//     makeScreenshot();
-//     document.getElementById("a-download").style.display = "inline";
-// }, false)
-//
-// document.getElementById("a-download").addEventListener('click', function()
-// {
-//     this.href = document.getElementById("canvasID").toDataURL();
-//     this.download = "canvas-image.png";
-// }, false)
-
 
 const Index = () => {
   const initialTiers = {
@@ -36,7 +13,7 @@ const Index = () => {
     A: ["FR ENG 1100" ],
     B: ["BIO SCI 1113"],
     C: ["IS&T 1750"],
-    D: ["MATH 1120"]
+    D: ["MATH 1120"],
   };
   const tierColors = {
     // thanks https://colorswall.com/palette/3297/
@@ -44,7 +21,7 @@ const Index = () => {
     A: "#F0B27A",
     B: "#F9E79F",
     C: "#7DCEA0",
-    D: "#5DADE2"
+    D: "#5DADE2",
   };
   const [tiers, setTiers] = useState(initialTiers);
   const addClass = (number) => {
@@ -116,24 +93,13 @@ const Index = () => {
         <meta property="og:site_name" content={META.siteName} />
         <meta name="twitter:image" content={META.image} />
         <meta name="twitter:image:alt" content={META.imageAlt} />
-        // <script src="html2canvas.min.js"></script>
       </Head>
-
-  // <div style="font-size:150%;">
-  //     <a id="a-make" href="#">Make a screenshot</a>
-  //     <a id="a-download" href="#" style="display:none;">Download a screenshot</a>
-  // </div>
-       <h1> UMTier : Rank your classes</h1>
+       <h1> MSTier : Rank your classes</h1>
 <img src = "https://brand.mst.edu/media/universityadvancement/brand/logos/athletics/mascotmarks/JOE_MINER_FC.png" height = "75rem" alt = "s&t joe miner"/>
-<img src = "https://www.clipartmax.com/png/full/150-1509428_university-of-missouri-mizzou-tigers.png" height = "75rem" alt = "miz tiger"/>
-<img src = "https://upload.wikimedia.org/wikipedia/en/5/5c/UMSL_Tritons_logo.svg" height = "75rem" alt = "umsl triton"/>
-<img src = "https://dbukjj6eu5tsf.cloudfront.net/umkckangaroos.com/images/logos/site/site.png" height = "75rem" alt = "umkc roos"/>
-
       <header>
         <Search addClass={addClass} />
       </header>
-      <div id = "main">
-      <section id = "screenshot ">
+      <section>
         <DragDropContext onDragEnd={onDragEnd}>
           {Object.keys(tiers).map((tierName) => {
             const color = tierColors[tierName];
@@ -149,7 +115,6 @@ const Index = () => {
           })}
         </DragDropContext>
       </section>
-      </div>
       <style jsx>{`
         header {
           margin-bottom: 2rem;
@@ -158,4 +123,5 @@ const Index = () => {
     </div>
   );
 };
+
 export default Index;

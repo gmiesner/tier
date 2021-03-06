@@ -2,17 +2,10 @@
 
 A clone of kat's [project](https://github.com/katmh/mitier), altered to be for missouri university of science and technology classes! 
 
-## Installation
 
-This is a Next.js (React) app using NPM. It's all client-side except for an [API route](https://nextjs.org/docs/api-routes/introduction) (see `/pages/api`) that filters the courses dataset.
+ignore this lol 
+<!-- 
 
-```
-git clone https://github.com/katmh/mitier
-cd mitier
-npm install
-npm run dev
-```
-
-## Issues and Contributing
-
-To report a bug or request a feature, making an issue is probably the way to go. Contributions  are welcome (feel free to make a pull request or open an issue to discuss) but I don't have any contributor guidelines yet.
+// <img src = "https://www.clipartmax.com/png/full/150-1509428_university-of-missouri-mizzou-tigers.png" height = "75rem" alt = "miz tiger"/>
+// <img src = "https://upload.wikimedia.org/wikipedia/en/5/5c/UMSL_Tritons_logo.svg" height = "75rem" alt = "umsl triton"/>
+// <img src = "https://dbukjj6eu5tsf.cloudfront.net/umkckangaroos.com/images/logos/site/site.png" height = "75rem" alt = "umkc roos"/> -->
