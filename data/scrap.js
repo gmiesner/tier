@@ -6,34 +6,20 @@ const browser = await puppeteer.launch();
     const page = await browser.newPage();
     await page.goto(url)
 
-    var movies = await page.evaluate(() => {
+    
 
-			let stri = document.querySelector('#courseinventorycontainer').innerText.split("\n");
-
-			let n = [];
-			for (i in stri){ if (stri[i].startsWith('PM_REH')){ n.push(stri[i]) }}
-
-
-
-			for (i in n){ n[i] = n[i].split("\n") }
-			// for (i in n){ n[i].pop()}
-			n = n.join("\n")
-			n = n.split('\n')
-			for (i in n){ n[i] = n[i].split(' ') }
-			let  number = [];
-			for (i in n){ number.push(n[i][0]); n[i].shift()}
-			for (i in n){ n[i] = n[i].join(" ")}
-      for (i in number){ number[i] = number[i].replace(":", "")}
+  course_names = course_names.split("\n");
+  course_numbers = course_numbers.split("\n");
         var movieArr = [];
-        for (var i = 0; i < n.length; i++) {
+        for (var i = 0; i < course_names.length; i++) {
           movieArr[i] = {
-            number: number[i],
-            title: n[i],
+            number: course_numbers[i],
+            title: course_names[i],
           };
         }
         return movieArr;
       })
-      fs.writeFile("./cOMP.json", JSON.stringify(movies, null, 3),  (err) => {
+      fs.writeFile("semo.json", JSON.stringify(movies, null, 3),  (err) => {
         if (err) {
             console.error(err);
             return;
@@ -45,4 +31,4 @@ browser.close()
 
 }
 
-scrape("http://catalog.missouri.edu/courseofferings/pm_reh/")
+// scrape("https://semo.edu/bulletin/courses.html")

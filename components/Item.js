@@ -1,13 +1,15 @@
 import React from "react";
 import colors from "../data/colors.json";
-import courses from "../data/courses.json";
 import { Draggable } from "react-beautiful-dnd";
 
 export default class Item extends React.Component {
   render() {
-    const color = colors[this.props.number.split(" ")[0]];
+    // to forgo color-coding, you could delete `subject` and set `color`
+    // to a constant color value, e.g. "#bbb"
+    const subject = this.props.number.split(".")[0]; // for MIT
+    const color = colors[subject];
     return (
-      <Draggable draggableId={this.props.number} index={this.props.index}>
+      <Draggable draggableId={this.props.id} index={this.props.index}>
         {(provided) => (
           <div
             className="item"
@@ -17,7 +19,7 @@ export default class Item extends React.Component {
           >
             <span
               className="del"
-              onClick={() => this.props.removeCourse(this.props.number)}
+              onClick={() => this.props.removeCourse(this.props.id)}
             >
               ✕
             </span>
@@ -33,7 +35,7 @@ export default class Item extends React.Component {
                 border-radius: 2px;
                 padding: 8px;
                 margin: 0 8px 8px 0;
-                background: white;
+                background: ${color};
                 max-width: 200px;
                 height: auto;
                 box-shadow: 0 3px 1px -2px rgb(0 0 0 / 20%),
@@ -48,7 +50,7 @@ export default class Item extends React.Component {
               .del {
                 margin: 4px 7px 3px 2px;
                 font-size: 12px;
-                color: white;
+                color: #ccc;
                 background: rgba(0, 0, 0, 0.4);
                 display: inline-block;
                 padding: 2px 4px;
